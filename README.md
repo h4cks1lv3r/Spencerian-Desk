@@ -2,19 +2,7 @@
 
 An offline Android course and practice desk for Spencerian penmanship, with Signature Lab for personal signature concepts.
 
-**Current release: 1.3.1 / code 10.** [Download the signed APK](releases/The-Spencerian-Desk-v1.3.1.apk?raw=true). Start a fresh chat or maintenance session with [the full project handoff](docs/PROJECT_HANDOFF.md).
-
-Version 1.3.1 protects saved records at the practice-session and signature limits, preserves invalid saved data for recovery, and prevents accidental signing-key replacement during a build. Version 1.3.0 added prominent capitals, three different finishes, direct finish controls, an exact finish-study view, and updated AI guidance informed by [the signature research](docs/signature-style-research.md).
-
-![Signature Lab example designs](docs/Signature-Lab-Drafts.png)
-
-This is a specimen sheet rendered by the actual composer, not a phone screenshot. The requested 1600s–1700s mood guides the interface; Spencerian itself developed in the 1800s.
-
-Version 1.2.0 renames Spencerian Lab to **The Spencerian Desk**. The package identity, stored progress, and update signing identity remain the same. The name shown in Android changes; existing records remain under the original app identity.
-
-Version 1.1.5 rebuilds 71 of the 98 specimen models to follow the selected photograph’s visual direction: fine connected writing, open ornamental capitals, and selective shading. The lesson models and local signature composer now share 52 source-derived letter shapes. Ten numeral models use fine-line adaptations of their original historical forms. All 80 lesson IDs and existing progress records are retained. The white folded-paper theme and native Android startup repair remain.
-
-The photograph is a visual target, not a complete alphabet. Missing letters, words, and numbers use attributed historical models or explicit adaptations. Zaner’s ornamental source teaches a 50° main slant; the practice desk also supports the course’s classical 52° guide. These are distinct choices, not interchangeable measurements.
+**Current release: 1.3.1 / code 10.** [Download the signed APK](releases/The-Spencerian-Desk-v1.3.1.apk?raw=true). 
 
 ## Install
 
