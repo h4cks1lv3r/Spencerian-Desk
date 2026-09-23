@@ -18,7 +18,7 @@ const copy = value => JSON.parse(JSON.stringify(value));
 const tick = () => new Promise(resolve => setImmediate(resolve));
 async function settle() { for (let i = 0; i < 12; i++) await tick(); }
 async function until(predicate, label) {
-  for (let i = 0; i < 200; i++) { if (predicate()) return; await tick(); }
+  for (let i = 0; i < 1200; i++) { if (predicate()) return; await tick(); }
   throw new Error('Timed out waiting for ' + label);
 }
 function blankState() {
@@ -48,7 +48,7 @@ async function boot(t, {initial = null, legacy = null, native = false, storeAvai
   let now = 1000;
   Object.defineProperty(w.performance, 'now', {value:() => now});
   w.HTMLDialogElement.prototype.showModal = function() {this.open = true;};
-  w.HTMLDialogElement.prototype.close = function() {this.open = false;};
+  w.HTMLDialogElement.prototype.close = function() {this.open = false;this.dispatchEvent(new w.Event('close'));};
   const context = new Proxy({}, {get(target, key) {
     if (key === 'measureText') return text => ({width:String(text).length * 8});
     if (!(key in target)) target[key] = () => {};
@@ -71,7 +71,7 @@ async function boot(t, {initial = null, legacy = null, native = false, storeAvai
     saveProvider:() => JSON.stringify({ok:true}), deleteProvider:() => JSON.stringify({ok:true}),
     importImage(){},importBackup(){},finishApp(){}
   };
-  for (const file of ['storage.js','practice.js','zaner-glyphs.js','signature.js']) w.eval(read(file));
+  for (const file of ['storage.js','backup.js','practice.js','zaner-glyphs.js','signature.js']) w.eval(read(file));
   if (initial && storeAvailable) await w.ProgressStore.save(initial);
   if (legacy !== null) w.localStorage.setItem('spencerian-lab-v1',legacy);
   w.eval(read('app.js'));
@@ -91,6 +91,7 @@ async function boot(t, {initial = null, legacy = null, native = false, storeAvai
     else element.value = value;
     element.dispatchEvent(new w.Event(event,{bubbles:true}));
     await settle();
+    await w.SpencerianApp.flush();
   }
   function emit(name, detail) {w.dispatchEvent(new w.CustomEvent(name,{detail}));}
   function draw() {
@@ -309,7 +310,7 @@ test('every paper self-rating can save, restore, and display including zero', as
     await h.input('#paper-rating',rating.value,'change');
     await h.input('#paper-note','Synthetic rating '+rating.value);
     await h.click('[data-action="save-paper"]');
-    assert.equal(!!h.w.SpencerianApp.validBackup(h.state()),true,'UI rating '+rating.value+' produces valid state');
+    assert.equal(!!h.w.SpencerianApp.validBackup(await h.w.ProgressStore.load()),true,'UI rating '+rating.value+' produces valid state');
     const card = h.qa('.journal-card')[0];
     assert.match(card.textContent,new RegExp('Self-rating '+rating.value+'(?:/3|\\s|·)'),'rating is visible and uses current scale');
     const restored = h.w.SpencerianApp.normalizeBackup(h.state());
@@ -331,8 +332,26 @@ test('repeated digital saves update one session and do not double-count time', a
   await h.click('.pl-save');
   assert.equal(h.state().sessions.length,1);
   assert.equal(h.state().sessions[0].minutes,3);
-  assert.match(h.state().sessions[0].image,/^data:image\/png;base64,/);
-  assert.equal(!!h.w.SpencerianApp.validBackup(h.state()),true);
+  assert.match(await h.w.ProgressStore.getImage(h.state().sessions[0].imageKey),/^data:image\/png;base64,/);
+  assert.equal(!!h.w.SpencerianApp.validBackup(await h.w.ProgressStore.load()),true);
+});
+
+test('clearing a saved sheet starts a new session without replacing the previous drawing', async t => {
+  const h=await boot(t);h.route('practice');h.draw();await h.click('.pl-save');
+  const firstKey=h.state().sessions[0].imageKey;
+  assert.equal(await h.w.ProgressStore.getImage(firstKey),png);
+  const secondPng='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVR4nGNgLdgNAAGuATG4GkNOAAAAAElFTkSuQmCC';
+  h.w.HTMLCanvasElement.prototype.toDataURL=()=>secondPng;
+  await h.click('.pl-clear');h.draw();await h.click('.pl-save');
+  assert.equal(h.state().sessions.length,2);
+  const secondKey=h.state().sessions[0].imageKey;
+  assert.notEqual(secondKey,firstKey,'the new drawing needs a distinct storage key');
+  assert.equal(await h.w.ProgressStore.getImage(firstKey),png);
+  assert.equal(await h.w.ProgressStore.getImage(secondKey),secondPng);
+  const restored=await h.w.ProgressStore.load();
+  assert.equal(restored.sessions.length,2);
+  assert.equal(restored.sessions[0].image,secondPng);
+  assert.equal(restored.sessions[1].image,png);
 });
 
 test('malformed and adversarial backups are rejected before entering the DOM', async t => {
@@ -488,7 +507,7 @@ test('structured AI concepts render safe previews and apply only bounded setting
   assert.equal(h.state().signature.name,name);
   assert.equal(h.state().signature.slant,52);
   assert.equal(h.state().signature.flourish,1);
-  assert.equal(!!h.w.SpencerianApp.validBackup(h.state()),true);
+  assert.equal(!!h.w.SpencerianApp.validBackup(await h.w.ProgressStore.load()),true);
 });
 
 test('malformed AI concept geometry cannot become an Apply action', async t => {
@@ -507,10 +526,11 @@ test('malformed AI concept geometry cannot become an Apply action', async t => {
 
 test('storage unavailable mode keeps lessons open and reports its limitation', async t => {
   const h = await boot(t,{storeAvailable:false});
-  assert.match(h.q('#toast').textContent,/storage is unavailable/i);
+  assert.match(h.q('#toast').textContent,/Saved progress could not be read/i);
   h.route('course');
   assert.equal(h.qa('.module-card').length,10);
-  assert.match(h.q('#storage-notice').textContent,/Progress storage is unavailable.*Changes cannot be saved/);
+  assert.match(h.q('#storage-notice').textContent,/Saved progress could not be read.*Changes cannot be saved/);
+  assert.match(h.q('#storage-notice').textContent,/not the unreadable stored progress/);
   assert.ok(h.q('#storage-notice [data-action="export-backup"]'));
   assert.deepEqual(h.errors,[]);
 });
@@ -958,7 +978,7 @@ test('a digital session can reach and update the journal limit but a new session
   assert.equal(reopened.state().sessions.length,2000);
   assert.match(reopened.q('#toast').textContent,/Journal is full/);
   assert.deepEqual(copy(await reopened.w.ProgressStore.load()),stored,'a new desk session cannot replace the saved record');
-  assert.equal(!!reopened.w.SpencerianApp.validBackup(reopened.state()),true);
+  assert.equal(!!reopened.w.SpencerianApp.validBackup(await reopened.w.ProgressStore.load()),true);
   assert.deepEqual(h.errors,[]);
   assert.deepEqual(reopened.errors,[]);
 });
@@ -1037,4 +1057,61 @@ test('legacy migration preserves valid progress and protects malformed legacy re
     assert.equal(Buffer.from(h.exports[0].base64,'base64').toString('utf8'),legacy);
     assert.deepEqual(h.errors,[]);
   }
+});
+
+test('journal pages load only twenty drawings and metadata typing is batched', async t => {
+ const initial=blankState();initial.sessions=Array.from({length:45},(_,i)=>session({id:String(i+1),image:png,kind:'digital'}));
+ const h=await boot(t,{initial});let imageReads=0;const get=h.w.ProgressStore.getImage;
+ h.w.ProgressStore.getImage=async key=>{imageReads++;return get(key)};
+ h.route('progress');await until(()=>imageReads===20,'first journal page');
+ assert.equal(h.qa('.journal-card').length,20);assert.ok(h.state().sessions.every(s=>s.image===null&&s.imageKey));
+ await h.click('[data-action="journal-page"][data-page="1"]');await until(()=>imageReads===40,'second journal page');assert.equal(h.qa('.journal-card').length,20);
+ h.route('lesson');await settle();let writes=0;const save=h.w.ProgressStore.save;h.w.ProgressStore.save=(...args)=>{writes++;return save(...args)};
+ const note=h.q('#lesson-note');for(let i=0;i<30;i++){note.value+='a';note.dispatchEvent(new h.w.Event('input',{bubbles:true}))}
+ assert.equal(writes,0);await h.w.SpencerianApp.flush();assert.equal(writes,1);assert.equal((await h.w.ProgressStore.load()).lessonNotes[lessons[0].id].length,30);
+ assert.deepEqual(h.errors,[]);
+});
+
+test('Android backup exporter uses bounded chunks for a journal over 40 MB',async t=>{
+ const initial=blankState(),drawing='data:image/png;base64,'+'A'.repeat(195000);
+ initial.sessions=Array.from({length:220},(_,i)=>session({id:String(i+1),image:drawing,kind:'digital'}));
+ const h=await boot(t,{initial,native:true});let total=0,largest=0,finished=false;const bridge=h.w.SpencerianNative;
+ bridge.beginExport=(name,mime)=>{assert.match(name,/\.jsonl$/);return JSON.stringify({ok:true,id:'test-export'})};
+ bridge.appendExport=(id,b64)=>{assert.equal(id,'test-export');const bytes=Buffer.from(b64,'base64').length;total+=bytes;largest=Math.max(largest,bytes);return JSON.stringify({ok:true})};
+ bridge.finishExport=id=>{assert.equal(id,'test-export');finished=true;return JSON.stringify({ok:true})};bridge.abortExport=()=>{};
+ h.route('settings');h.q('[data-action="export-backup"]').click();
+ for(let i=0;i<300&&!finished;i++)await new Promise(resolve=>setTimeout(resolve,10));
+ assert.equal(finished,true);assert.ok(total>40000000);assert.ok(largest<=192*1024);assert.equal(h.exports.length,0,'no aggregate legacy bridge call');assert.deepEqual(h.errors,[]);
+});
+
+async function feedNativeBackup(h,text,id='incoming'){
+ let offset=0;
+ h.w.SpencerianNative.abortImport=()=>{};
+ h.w.SpencerianNative.readImportChunk=request=>{assert.equal(request,id);setImmediate(()=>{const part=text.slice(offset,offset+32768);offset+=part.length;h.emit('native-import-chunk',{id,ok:true,text:part,done:!part})})};
+ h.emit('native-import-start',{id,ok:true});
+ await until(()=>h.q('#modal').open&&h.q('[data-action="confirm-restore"]')||/unchanged/.test(h.q('#toast').textContent),'backup parse');
+}
+
+test('streamed restore publishes only after confirmation and reads images lazily',async t=>{
+ const old=blankState();old.sessions=[session({id:'7'})];const h=await boot(t,{initial:old,native:true}),next=blankState();next.sessions=[session({id:'8',image:png}),session({id:'9',image:png})];
+ let text='';for await(const line of h.w.BackupCodec.records(next,()=>png))text+=line;
+ await feedNativeBackup(h,text);assert.equal((await h.w.ProgressStore.load()).sessions[0].id,'7');
+ await h.click('[data-action="confirm-restore"]');assert.equal(h.state().sessions.length,2);assert.ok(h.state().sessions.every(s=>s.imageKey&&!s.image));
+ assert.equal((await h.w.ProgressStore.load()).sessions[0].image,png);assert.equal(h.q('.journal-card img').src,png);assert.deepEqual(h.errors,[]);
+});
+
+test('canceling or truncating a streamed restore leaves previous progress and drawings intact',async t=>{
+ const old=blankState();old.sessions=[session({id:'7',image:png})];const h=await boot(t,{initial:old,native:true}),next=blankState();next.sessions=[session({id:'8',image:png})];
+ let text='';for await(const line of h.w.BackupCodec.records(next,()=>png))text+=line;
+ await feedNativeBackup(h,text);await h.click('[data-action="close-modal"]');await h.w.ProgressStore.flush();assert.equal((await h.w.ProgressStore.load()).sessions[0].id,'7');
+ await feedNativeBackup(h,text.slice(0,text.lastIndexOf('{"type":"end"')),'truncated');assert.equal((await h.w.ProgressStore.load()).sessions[0].image,png);assert.equal(h.state().sessions[0].id,'7');assert.match(h.q('#toast').textContent,/incomplete/);
+});
+
+test('protected recovery data exports exact Unicode text through the chunked native path',async t=>{
+ const legacy='{ damaged recovery '+('🖋é'.repeat(15000));const h=await boot(t,{legacy,native:true});const parts=[];let finished=false;
+ h.w.SpencerianNative.beginExport=name=>{assert.equal(name,'Spencerian-Desk-Recovery.json');return JSON.stringify({ok:true,id:'recovery'})};
+ h.w.SpencerianNative.appendExport=(id,part)=>{assert.equal(id,'recovery');parts.push(Buffer.from(part,'base64'));return JSON.stringify({ok:true})};
+ h.w.SpencerianNative.finishExport=()=>{finished=true;return JSON.stringify({ok:true})};h.w.SpencerianNative.abortExport=()=>{};
+ await h.click('[data-action="export-recovery"]');for(let i=0;i<100&&!finished;i++)await new Promise(resolve=>setTimeout(resolve,5));
+ assert.equal(finished,true);assert.equal(Buffer.concat(parts).toString('utf8'),legacy);assert.equal(h.exports.length,0);assert.equal(h.w.localStorage.getItem('spencerian-lab-v1'),legacy);
 });

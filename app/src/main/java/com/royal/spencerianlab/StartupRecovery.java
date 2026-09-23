@@ -33,13 +33,6 @@ final class StartupRecovery {
         page.setOrientation(LinearLayout.VERTICAL);
         page.setBackgroundColor(PAPER);
         page.setPadding(padding, padding, padding, padding);
-        page.setOnApplyWindowInsetsListener((view, insets) -> {
-            view.setPadding(padding + insets.getSystemWindowInsetLeft(),
-                padding + insets.getSystemWindowInsetTop(),
-                padding + insets.getSystemWindowInsetRight(),
-                padding + insets.getSystemWindowInsetBottom());
-            return insets;
-        });
 
         TextView label = text(activity, "THE SPENCERIAN DESK", 12, MUTED);
         label.setLetterSpacing(0.14f);
@@ -90,9 +83,12 @@ final class StartupRecovery {
         ScrollView scroll = new ScrollView(activity);
         scroll.setFillViewport(true);
         scroll.setBackgroundColor(PAPER);
+        // MainActivity opts into edge-to-edge only on Android 11 and later.
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R)
+            scroll.setOnApplyWindowInsetsListener(MainActivity::applyContentInsets);
         scroll.addView(page, new ScrollView.LayoutParams(-1, -2));
         activity.setContentView(scroll);
-        page.requestApplyInsets();
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.R) scroll.requestApplyInsets();
     }
 
     private static TextView text(Activity activity, String value, int size, int color) {

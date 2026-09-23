@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "description": "DOM-only integration tests. No browser engine or external API calls.",
-  "scripts": {"test": "node --test app.integration.test.cjs"},
+  "scripts": {"test": "node --test *.test.cjs"},
   "devDependencies": {"fake-indexeddb": "6.2.5", "jsdom": "30.0.1"}
 }

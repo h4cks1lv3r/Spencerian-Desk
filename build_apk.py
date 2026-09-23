@@ -8,7 +8,7 @@ import argparse, subprocess, shutil, json, secrets, os, zipfile, hashlib
 root = Path(__file__).resolve().parent
 parser = argparse.ArgumentParser()
 parser.add_argument('--sdk', default=os.environ.get('ANDROID_SDK_ROOT') or os.environ.get('ANDROID_HOME'), help='SDK with platform 36 and build-tools 36.0.0')
-parser.add_argument('--output', default=str(root / 'output' / 'The-Spencerian-Desk-v1.3.1.apk'))
+parser.add_argument('--output', default=str(root / 'output' / 'The-Spencerian-Desk-v1.4.0.apk'))
 parser.add_argument('--require-existing-signing', action='store_true', help='Require the restored signing pair; never create a new identity for this build')
 args = parser.parse_args()
 keyinfo = root/'.local-signing/key.json'
@@ -57,8 +57,8 @@ print('Compiling Android resources', flush=True)
 run([bt/'aapt2', 'compile', '--dir', native/'res', '-o', build/'compiled.zip'])
 run([bt/'aapt2', 'link', '-o', build/'resources.apk', '-I', android_jar,
      '--manifest', native/'AndroidManifest.xml', '--java', build/'generated',
-     '--min-sdk-version', '26', '--target-sdk-version', '36', '--version-code', '10',
-     '--version-name', '1.3.1', '-A', native/'assets', build/'compiled.zip'])
+     '--min-sdk-version', '26', '--target-sdk-version', '36', '--version-code', '11',
+     '--version-name', '1.4.0', '-A', native/'assets', build/'compiled.zip'])
 print('Compiling native Java and DEX', flush=True)
 sources = sorted((native/'java').rglob('*.java')) + sorted((build/'generated').rglob('*.java'))
 run([java, 'com.sun.tools.javac.Main', '-encoding', 'UTF-8', '--release', '8', '-classpath', android_jar, '-d', build/'classes', *sources])
@@ -83,7 +83,7 @@ if not keystore.exists():
 print('Signing and verifying install package', flush=True)
 run([bt/'apksigner', 'sign', '--ks', keystore, '--ks-key-alias', config['alias'],
      '--ks-pass', 'env:SPENCERIAN_SIGN_PASSWORD', '--min-sdk-version', '26',
-     '--v1-signing-enabled', 'false', '--v2-signing-enabled', 'true', '--v3-signing-enabled', 'true',
+     '--v1-signing-enabled', 'false', '--v2-signing-enabled', 'true', '--v3-signing-enabled', 'true', '--v4-signing-enabled', 'false',
      '--out', out, build/'aligned.apk'], env=env)
 run([bt/'apksigner', 'verify', '--verbose', '--print-certs', out])
 run([bt/'zipalign', '-c', '-P', '16', '4', out])

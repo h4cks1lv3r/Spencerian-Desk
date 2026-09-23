@@ -2,11 +2,11 @@
 
 An offline Android course and practice desk for Spencerian penmanship, with Signature Lab for personal signature concepts.
 
-**Current release: 1.3.1 / code 10.** [Download the signed APK](releases/The-Spencerian-Desk-v1.3.1.apk?raw=true). 
+**Current release: 1.4.0 / code 11.** [Download the signed APK](releases/The-Spencerian-Desk-v1.4.0.apk?raw=true).
 
 ## Install
 
-1. Download `releases/The-Spencerian-Desk-v1.3.1.apk` to your Android phone.
+1. Download `releases/The-Spencerian-Desk-v1.4.0.apk` to your Android phone.
 2. Open the APK. If Android asks, allow this install from the app you used to open it.
 3. Open **The Spencerian Desk** and select **Continue learning**.
 
@@ -14,7 +14,7 @@ Requires Android 8.0 or later. The package targets Android 16. This is a develop
 
 ## Update from an earlier version
 
-Install the new APK over the previous app. Version 1.3.1 uses the same Android package and signing certificate, so it is eligible for an in-place update. Do not uninstall first. Existing local progress remains under the same app identity.
+Install the new APK over the previous app. Version 1.4.0 retains the Android package and signing certificate, so it is eligible for an in-place update. Do not uninstall first. Existing valid progress is migrated to separate drawing storage under the same app identity; failed migration does not replace the old record. Actual update behavior with your phone's records still needs device testing.
 
 If the native startup recovery screen appears, select **Try again**. If it remains, select **Copy startup details** and include that text in the issue report. Details stay on the device until you choose to share them. Retrying does not clear saved progress or provider settings.
 
@@ -58,13 +58,19 @@ The signature coach accepts a design brief and an optional writing image. Import
 
 The **Copy prompt for chat app** option allows manual use with an existing consumer chat subscription.
 
+Requests can be canceled and incomplete provider replies are labeled. Cancellation stops the app waiting and ignores late replies; it cannot recall content already sent or guarantee that a provider stops charging. The coach remains a single-request tool, without streaming replies or follow-up chat.
+
 ## Data and backup
 
-Progress and drawings are stored on the device in IndexedDB. **More → Settings → Export backup** exports your records to JSON; restore validates the entire state before replacement. A failed write reports an error. Do not uninstall or change devices without exporting first. Android cloud backup is disabled to keep provider credentials out of automatic backups.
+Progress and drawings are stored locally in IndexedDB. Version 1.4.0 separates drawing payloads from progress metadata, batches frequent edits, and pages the journal. Typing a note no longer copies every saved drawing. The app also remembers its last screen and a bounded vector practice draft; imported photos and AI replies remain temporary.
+
+**More → Settings → Export backup** creates a `.jsonl` backup. The Android app streams it through bounded chunks, allowing journals larger than the former 40 MB total-file limit. Restore stages and validates the full backup before you confirm replacing progress. Older `.json` backups remain supported within their 40 MB limit; browser-preview export is also limited to 40 MB. A failed write reports an error. Do not uninstall or change devices without exporting first. Android cloud backup and device transfer remain disabled.
 
 Exporting from the practice desk records one session; saving that same session again updates it instead of adding its time twice. Minutes are elapsed desk-session time, not a calibrated measure of active writing. API feedback is kept in the current session; save an applied concept to preserve its design.
 
-The app supports up to 2,000 practice sessions and 1,000 saved concepts. At a limit, export a backup and delete selected old records before adding more. Records are never silently trimmed. Version 1.3.1 also blocks ordinary writes when existing saved data fails validation. A persistent recovery notice offers an exact export of that stored record and access to backup tools. Only an explicitly confirmed valid restore can replace it. Large drawings can reach device storage or the native 40 MB transfer limit before the record-count limits.
+The app supports up to 2,000 practice sessions and 1,000 saved concepts. At a limit, export a backup and delete selected old records before adding more. Records are never silently trimmed. Ordinary writes remain blocked when saved data fails validation, with an unchanged recovery export and access to backup tools. Only an explicitly confirmed valid restore or deliberate erase-all action can replace that protected data. The new native backup path has a 32 GiB aggregate safety limit, sized above a valid maximum journal, but exports still require enough private staging space and destination storage. Individual file exports retain their separate limits.
+
+Settings includes **Privacy & data** and **Erase all app data**. Erasure requires typing `ERASE`; it removes local progress, drafts, and saved provider connections. It cannot delete exported files or content already sent to providers. Credential settings and an imported photo shown in Signature Lab are protected from Android screenshots and recent-app previews. This in-app explanation is not a claim of store-policy approval.
 
 The private development signing identity is excluded from this source archive and retained separately in `Spencerian-Lab-Signing-Backup.zip`. Keep that file private. The same identity is required for future APK updates without uninstalling. See `README-native.md` for the native bridge, limits, and build details.
 
@@ -80,17 +86,18 @@ A standard Gradle project is also provided. It requires Gradle 8.13 / Android Gr
 
 For an update to the maintainer-signed APK, privately restore both original files in `.local-signing/` and use `python3 build_apk.py --sdk /absolute/path/to/android-sdk --require-existing-signing`. An incomplete signing pair now stops the build before compilation. Never commit signing keys, the password file, provider credentials, or signing backups. Preserve the package and increase the version code for each distributed update.
 
-The GitHub workflow runs DOM, signature, practice, signing-preflight and native checks, then compiles an APK with a temporary CI signing identity. That CI artifact cannot update the maintainer-signed app. Use the APK in `releases/` for the current update.
+The GitHub workflow runs all DOM suites, storage/backup regressions, signature, practice, signing-preflight, native safety/AI checks, and bounded streaming-transfer checks, then compiles an APK with a temporary CI signing identity. That CI artifact cannot update the maintainer-signed app. Use the APK in `releases/` for the current update.
 
 To run the automated tests locally:
 
 ```sh
 npm ci --ignore-scripts --prefix tests/dom
-node --test tests/dom/app.integration.test.cjs
+node --test tests/dom/*.test.cjs
 node --test tests/signature/source-render.test.cjs
 node --test tools/tests/practice_geometry.test.js
 python3 -m unittest discover -s tools/tests -p '*_test.py'
 sh tests/native/run.sh /absolute/path/to/android-sdk
+sh tests/native/run-transfer.sh
 ```
 
 ## Sources and rights
@@ -103,7 +110,7 @@ See `docs/curriculum-notes.md` for the historical seven/eight-principle distinct
 
 ## Verification limits
 
-See `docs/ornamental-style-verification.md` for the historical artwork and renderer scope, and [docs/verification.md](docs/verification.md) for current checks and the exact APK hash. Native Java is unchanged from 1.2.0. A physical Samsung S24 Ultra, S Pen pressure/palm rejection, file pickers, and live paid AI calls require device testing. Earlier emulator results remain historical evidence and do not validate this release's full interface. DOM tests do not render Android pixels.
+See `docs/ornamental-style-verification.md` for historical artwork scope, [docs/verification.md](docs/verification.md) for current checks and the exact APK hash, and [the audit response](docs/audit-response-v1.4.0.md) for each finding and its acceptance criteria. Version 1.4.0 changes native layout, lifecycle, Back handling, privacy, and transfers as well as web code. No current physical-device pass is claimed: Samsung S24 Ultra installation, S Pen pressure/palm rejection, insets/keyboard behavior, TalkBack, process death, file pickers, and live paid AI still need testing. The real-browser launch attempt was blocked by a missing browser binary. Earlier emulator evidence is historical; DOM tests do not render Android pixels.
 
 ## Rebuild the study artwork
 

@@ -1,0 +1,34 @@
+{
+  "version": "1.4.0",
+  "versionCode": 11,
+  "package": "com.royal.spencerianlab",
+  "apk": "releases/The-Spencerian-Desk-v1.4.0.apk",
+  "bytes": 1378431,
+  "sha256": "a6c4f8421b0e6186a9b9f3989a9a05a461e8985c5e41e5a401340b49db15eeff",
+  "certificateSha256": "680e45d2c014ccb9da17e33517022f7422597585831c17c910dbe1323f36a657",
+  "signatures": [
+    "v2",
+    "v3"
+  ],
+  "minSdk": 26,
+  "targetSdk": 36,
+  "assetByteMatches": 134,
+  "zipIntegrity": "passed",
+  "alignment": "zipalign -c -P 16 4 passed",
+  "checks": {
+    "appIntegration": 47,
+    "auditUI": 16,
+    "backupCodec": 11,
+    "storage": 10,
+    "signatureRenderer": 9,
+    "practiceGeometry": 17,
+    "nativeBoundaries": 29,
+    "aiTransport": 19,
+    "boundedFileTransfer": 27,
+    "signingPreflight": 8
+  },
+  "physicalDeviceTested": false,
+  "liveProviderTested": false,
+  "browserRenderingTested": false,
+  "browserLimitation": "Playwright installed; Chromium executable unavailable."
+}

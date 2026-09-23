@@ -1,8 +1,14 @@
 # The Spencerian Desk — project handoff
 
-Prepared 22 September 2026; publication verified 23 September 2026. Read this file first in a fresh development session, then inspect the current source and Git history. It records the user's goals, the implemented app, its evidence, and its remaining limits. A requirement in the conversation is not proof that the requirement has been fully achieved.
+Prepared 22 September 2026; the 1.3.1 publication was verified 23 September 2026. Updated 23 September 2026 for the prepared 1.4.0 audit response. Read this file first in a fresh development session, then inspect the current source and Git history. It records the user's goals, the implemented app, its evidence, and its remaining limits. A requirement in the conversation is not proof that the requirement has been fully achieved.
 
-The repository is [h4cks1lv3r/Spencerian-Desk](https://github.com/h4cks1lv3r/Spencerian-Desk). The user explicitly requested review of the complete work, correction of confirmed issues, and a push to this repository for continued development. The first publication stopped after creating only `README.md` on `main` (commit `de4813cffb97d0aed46b53cb9e40f3ab0bc5dc79`). The continuation session recovered the complete unpublished 1.3.1 working tree, signed APK, and this handoff. It reran all 104 checks and independently confirmed the APK identity, certificate, alignment, and all 133 asset bytes. On 23 September, commit `9b75a6c6d930fd0ba74d15c2ce02a1ca232acad9` completed publication to `main`; all 438 remote file hashes and modes matched the intended project. The intervening README simplification in `620ea751a319bdbcae3b7149f3d3ba11a552a80f` was preserved. The saved source ZIP was still 1.3.0, so it was not used to overwrite the later work. Use the repository history for subsequent changes; the repository is authoritative over that older archive.
+The repository is [h4cks1lv3r/Spencerian-Desk](https://github.com/h4cks1lv3r/Spencerian-Desk). The user explicitly requested review of the complete work, correction of confirmed issues, and a push to this repository for continued development. The first publication stopped after creating only `README.md` on `main` (commit `de4813cffb97d0aed46b53cb9e40f3ab0bc5dc79`). The continuation session recovered the complete unpublished 1.3.1 working tree, signed APK, and this handoff. It reran all 104 checks and independently confirmed the APK identity, certificate, alignment, and all 133 asset bytes. On 23 September, commit `9b75a6c6d930fd0ba74d15c2ce02a1ca232acad9` completed the **1.3.1** publication to `main`; all 438 remote file hashes and modes matched that release. The intervening README simplification in `620ea751a319bdbcae3b7149f3d3ba11a552a80f` was preserved. The saved source ZIP was still 1.3.0, so it was not used to overwrite the later work. Use the repository history for subsequent changes; the repository is authoritative over that older archive.
+
+## Current prepared release: 1.4.0 / code 11
+
+The signed `releases/The-Spencerian-Desk-v1.4.0.apk` and its source address the user's security and quality review of 1.3.1. The work includes a version-2 IndexedDB layout with separate drawing records, bounded streaming `.jsonl` backup/restore, draft/navigation recovery, file-picker staging, modern Android insets and Back handling, WebView lifecycle handling, optional AI cancellation/truncation notices, sensitive-screen protection, accessibility changes, local erasure, privacy text, and a monochrome launcher icon. The APK retains package `com.royal.spencerianlab` and the original signing certificate. The detailed item dispositions, deferred scope, and device acceptance matrix are in [audit-response-v1.4.0.md](audit-response-v1.4.0.md).
+
+The local release record reports **193 automated checks passed**, a verified signed APK, and exact source matches for 134 packaged assets. The APK is 1,378,431 bytes with SHA-256 `a6c4f8421b0e6186a9b9f3989a9a05a461e8985c5e41e5a401340b49db15eeff`; the machine-readable record is [release-v1.4.0.json](release-v1.4.0.json). No current physical phone or emulator, real-browser rendering, live paid provider, or Google Play test passed. A source change and a locally verified package do not establish publication: check Git history and [the current verification record](verification.md) for the actual remote state and any later test results. Sections below retain historical 1.3.1 design and repair context where marked.
 
 ## 1. Product and user direction
 
@@ -16,20 +22,21 @@ The visual direction is warm white stationery, dark ink, restrained gold details
 
 The user repeatedly corrected the visual work. Their main concern was actual handwriting quality, not more decoration in the interface. A generic handwritten font, arbitrary curves, or a signature-like scribble does not satisfy the requirement. Paper stains, low-resolution crops, scanning defects, and whole-page snapshots are also unacceptable as lesson illustrations.
 
-## 2. Current release and protected identities
+## 2. Release identities and protected data
 
 | Item | Current value or rule |
 | --- | --- |
 | Product and launcher name | The Spencerian Desk |
 | Signature feature | Signature Lab |
-| Publication baseline | 1.3.1, Android version code 10; preserves the 1.3.0 signature design |
+| Current prepared release | 1.4.0, Android version code 11; preserves the 1.3.0 signature design and 1.3.1 recovery repair |
+| Previously published baseline | 1.3.1, Android version code 10; verify Git history for subsequent publication |
 | Android package / namespace | `com.royal.spencerianlab` |
 | Minimum / target / compile API | 26 / 36 / 36 |
 | Java build | JDK 17; source compiles with Java 8 compatibility |
 | Native bridge | `window.SpencerianNative` |
-| IndexedDB | `SpencerianLab`, version 1, `progress` store, `state` record |
+| IndexedDB | `SpencerianLab`, version 2; `progress`/`state` plus separate `sessionImages` and staged `pendingImports` stores |
 | Legacy migration key | `spencerian-lab-v1` in localStorage |
-| Progress export schema | Integer version `1` |
+| Progress schema and backup | Existing progress schema `1`; new streamed backup container version `2` (`.jsonl`), with validated legacy JSON import |
 | Stable curriculum identities | 80 lesson IDs; retain them during future edits |
 | Update signing identity | Retain the existing private development certificate |
 
@@ -45,7 +52,7 @@ For historical comparison, the original 1.3.0 build report records `The-Spenceri
 bc2945563100595c4f3d8aeb93afc1ea7aa330d8988a934419286462565fc454
 ```
 
-The reviewed 1.3.1 APK is `releases/The-Spencerian-Desk-v1.3.1.apk`, 1,357,721 bytes, SHA-256 `989db6077220276450fae0b40a754c9fb37b08afc7122869386739396791f594`. Use `docs/signature-lab-build-verification.json` and the current release checks for this artifact. A later rebuild can have a different APK hash even when its functional source is unchanged. The historical 1.3.0 report records 133 packaged assets, exact asset-byte matches, valid v2/v3 APK signatures, valid ZIP alignment, and native DEX identical to 1.2.0. The publication audit found a confirmed storage-limit defect and implemented the 1.3.1 repair described below.
+The previously reviewed 1.3.1 APK is `releases/The-Spencerian-Desk-v1.3.1.apk`, 1,357,721 bytes, SHA-256 `989db6077220276450fae0b40a754c9fb37b08afc7122869386739396791f594`. Use `docs/signature-lab-build-verification.json` and the archived 1.3.1 release checks for that artifact. A later rebuild can have a different APK hash even when its functional source is unchanged. The historical 1.3.0 report records 133 packaged assets, exact asset-byte matches, valid v2/v3 APK signatures, valid ZIP alignment, and native DEX identical to 1.2.0. The publication audit found a confirmed storage-limit defect and implemented the 1.3.1 repair described below.
 
 Private signing inputs are intentionally absent from public source. They are maintained separately in a private signing backup. Never commit signing keys, passwords, API keys, a user's current signature image, or progress backups. Preserve the package and certificate to install an update over the existing app. Uninstalling deletes local app data; it is not a routine update instruction.
 
@@ -266,22 +273,23 @@ For a maintainer release, restore the complete original private signing pair and
 python3 build_apk.py --sdk /absolute/path/to/android-sdk --require-existing-signing
 ```
 
-The 1.3.1 build preflight rejects a partial signing pair or invalid configuration before compiling or replacing output. The release flag also rejects a missing pair. It must never silently replace a missing keystore when its password/configuration file remains. A personal development build without the flag can generate a new identity only when both original files are absent. Eight Python tests exercise these boundaries without printing their password sentinel.
+The signing preflight introduced in 1.3.1 rejects a partial signing pair or invalid configuration before compiling or replacing output. The release flag also rejects a missing pair. It must never silently replace a missing keystore when its password/configuration file remains. A personal development build without the flag can generate a new identity only when both original files are absent. Eight Python tests exercise these boundaries without printing their password sentinel.
 
 Focused test commands, from the repository root:
 
 ```sh
-npm --prefix tests/dom ci --ignore-scripts
-npm --prefix tests/dom test
+npm ci --ignore-scripts --prefix tests/dom
+node --test tests/dom/*.test.cjs
 node --test tests/signature/source-render.test.cjs
 node --test tools/tests/practice_geometry.test.js
 python3 -m unittest discover -s tools/tests -p '*_test.py'
 sh tests/native/run.sh /absolute/path/to/android-sdk
+sh tests/native/run-transfer.sh
 ```
 
 DOM tests require Node.js 20.19+ and the pinned `jsdom` and `fake-indexeddb` dependencies. Native boundary tests use the Android platform JAR. They do not make paid provider calls.
 
-The GitHub Actions workflow runs on pushes to `main`, pull requests, and manual dispatch. It installs the pinned test dependencies and required SDK, runs the 104 checks, and builds a temporary CI APK. The workflow deliberately has no original signing secret. Its downloadable test APK cannot update the maintainer-signed installed app. Use the maintainer-signed artifact for an in-place update; a green CI build is not evidence of a phone launch or live AI request. The first remote run passed the DOM, renderer, geometry, and signing checks, then failed because `sdkmanager` was absent from PATH. The workflow now invokes the executable at its documented absolute location beneath `ANDROID_HOME`. Check the [Actions history](https://github.com/h4cks1lv3r/Spencerian-Desk/actions/workflows/verify.yml) for the result on the current commit.
+The GitHub Actions workflow runs on pushes to `main`, pull requests, and manual dispatch. It installs the pinned test dependencies and required SDK, runs the suites listed above, and builds a temporary CI APK. The 1.4.0 local suite count is 193; check the remote workflow result separately after publication. The workflow deliberately has no original signing secret. Its downloadable test APK cannot update the maintainer-signed installed app. Use the maintainer-signed artifact for an in-place update; a green CI build is not evidence of a phone launch or live AI request. The first 1.3.1 remote run passed the DOM, renderer, geometry, and signing checks, then failed because `sdkmanager` was absent from PATH. The workflow now invokes the executable at its documented absolute location beneath `ANDROID_HOME`. Check the [Actions history](https://github.com/h4cks1lv3r/Spencerian-Desk/actions/workflows/verify.yml) for the result on the current commit.
 
 Optional real-browser check, only where Chromium is already available or can be installed normally:
 
@@ -294,7 +302,7 @@ It supports `PLAYWRIGHT_MODULE` and `CHROMIUM_EXECUTABLE`. It checks mobile/desk
 Actual Android launch check, with an authorized, unlocked device already connected:
 
 ```sh
-python3 tests/android/launch_smoke.py output/The-Spencerian-Desk-v1.3.1.apk --sdk /absolute/path/to/android-sdk --timeout 180
+python3 tests/android/launch_smoke.py releases/The-Spencerian-Desk-v1.4.0.apk --sdk /absolute/path/to/android-sdk --timeout 180
 ```
 
 The gate installs with `-r`, starts the real launcher Activity, and requires visible loaded-home content plus stable operation. A blank WebView, splash screen, or native recovery page cannot pass. See `tests/android/README.md` for serial selection and evidence files. This gate does not prove the full app workflow.
@@ -321,9 +329,9 @@ RESVG_MODULE=/path/to/@resvg/resvg-js node tools/render_signature_preview.cjs
 
 The default example is Reuben Royal; a different name can be passed as the final argument. It also renders six other names to check varying lengths, capitals and descenders. These are specimen sheets, **not screenshots of an Android screen**. Use Resvg or a correct browser for this composer: earlier MuPDF SVG output misrendered currentColor/clipping and falsely appeared to have overlapping tails.
 
-## 9. Verification: what is established and what is not
+## 9. Historical verification and remaining limits
 
-The 1.3.0 release originally ran 45 focused tests: 36 DOM integration and 9 signature renderer checks. Before the storage repair, the repository review reran those plus 17 practice-geometry and 29 native boundary checks: 91 checks passed. The final 1.3.1 review passed **104 automated checks**: 41 DOM, 9 renderer, 17 practice geometry, 29 native boundary, and 8 signing-preflight checks.
+The 1.3.0 release originally ran 45 focused tests: 36 DOM integration and 9 signature renderer checks. Before the storage repair, the repository review reran those plus 17 practice-geometry and 29 native boundary checks: 91 checks passed. The final 1.3.1 review passed **104 automated checks**: 41 DOM, 9 renderer, 17 practice geometry, 29 native boundary, and 8 signing-preflight checks. These numbers are historical; [the 1.4.0 verification record](verification.md) reports 193 local checks and the current APK evidence.
 
 Coverage includes data and routes, all lesson references, name preservation, draft distinction, saved settings and restore, bounded AI settings, stale replies, photo consent with mocks, finish availability, matching preview/study paths, and curve bounds. Five new DOM cases cover paper capacity, digital capacity and same-record update, signature capacity, invalid-record recovery, and legacy migration/recovery. The signing checks cover partial/missing/invalid private inputs and fail before build mutation. Consult current release verification for artifact evidence. Test count alone does not prove a good-looking or comfortable signature.
 
@@ -376,4 +384,4 @@ Cloud sync, OCR, distribution through a store, auto-update infrastructure, or a 
 
 Copy this into a new development conversation with access to the repository:
 
-> Continue The Spencerian Desk at https://github.com/h4cks1lv3r/Spencerian-Desk. Read `docs/PROJECT_HANDOFF.md`, the current README files, release verification, and current Git history before editing. The handoff publication baseline is Android version 1.3.1/code 10: 80 lessons, clean source-based Spencerian specimens, a white folded-paper theme, and Signature Lab with typed-name generation, optional consent-based photo review, three expressive finishes, saved concepts, and practice. The repository audit also repaired storage capacity and invalid-record recovery. Preserve `com.royal.spencerianlab`, the native bridge/storage identities, all lesson IDs, and the existing signing certificate. Signing secrets are private and must never enter Git. Preserve the distinction between classical 52° and the ornamental source's 50°. Do not claim exact photo copying, signing speed, uniqueness, verified pen order, physical-phone testing, or live-provider testing without evidence. Inspect the actual current state, implement the requested next change, run relevant checks, review real vector output, and update the handoff and release evidence. Ask for missing private build inputs only when required; do not invent them. My next requested change is: [insert task].
+> Continue The Spencerian Desk at https://github.com/h4cks1lv3r/Spencerian-Desk. Read `docs/PROJECT_HANDOFF.md`, both current READMEs, `docs/audit-response-v1.4.0.md`, `docs/verification.md`, and current Git history before editing. The prepared Android release is 1.4.0/code 11: 80 lessons, clean source-based Spencerian specimens, a warm folded-paper theme, and Signature Lab with typed-name generation, optional consent-based photo review, three expressive finishes, saved concepts, and practice. The 1.3.1 storage-capacity/recovery repair remains, while 1.4.0 separates drawing storage and adds streaming backup/restore, draft/navigation recovery, Android insets/Back/lifecycle changes, AI cancellation, sensitive-screen protection, accessibility changes, explicit erase, privacy text, and a themed icon. Check the remote HEAD and workflow result to establish publication; a local package and local checks do not prove remote publication or a device pass. Preserve `com.royal.spencerianlab`, the `SpencerianLab` database and stable keys, all lesson IDs, and the existing signing certificate. Signing secrets are private and must never enter Git. Preserve the distinction between classical 52° and the ornamental source's 50°. Do not claim exact photo copying, signing speed, uniqueness, verified pen order, physical-phone testing, real-browser rendering, or live-provider testing without evidence. Inspect the actual current state, implement the requested next change, run relevant checks, review real vector output, and update the handoff and release evidence. Ask for missing private build inputs only when required; do not invent them. My next requested change is: [insert task].

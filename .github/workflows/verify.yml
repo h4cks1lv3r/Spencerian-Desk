@@ -34,14 +34,16 @@ jobs:
         run: npm ci --ignore-scripts --prefix tests/dom
       - name: Test app flows and vector geometry
         run: |
-          node --test tests/dom/app.integration.test.cjs
+          node --test tests/dom/*.test.cjs
           node --test tests/signature/source-render.test.cjs
           node --test tools/tests/practice_geometry.test.js
           python3 -m unittest discover -s tools/tests -p '*_test.py'
       - name: Install Android build packages
         run: '"$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" "platforms;android-36" "build-tools;36.0.0"'
       - name: Test native boundaries
-        run: sh tests/native/run.sh "$ANDROID_HOME"
+        run: |
+          sh tests/native/run.sh "$ANDROID_HOME"
+          sh tests/native/run-transfer.sh
       - name: Build with a temporary CI signing identity
         run: python3 build_apk.py --sdk "$ANDROID_HOME" --output output/The-Spencerian-Desk-CI.apk
       - name: Retain CI package for inspection

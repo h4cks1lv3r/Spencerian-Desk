@@ -1,59 +1,64 @@
-# Current release verification — The Spencerian Desk 1.3.1
+# Release verification — The Spencerian Desk 1.4.0
 
-Reviewed and built on 22 September 2026 for the initial GitHub publication. After the original chat stopped with only README.md published, the continuation session recovered this exact signed APK and reran all 104 checks. It independently verified version, certificate, ZIP integrity, alignment, checksum, and all 133 bundled assets without rebuilding or changing the app. This report supersedes the old current-verification entrypoint; historical reports remain in `docs/archive/` and the versioned artwork notes.
+This release implements the confirmed repairs from the 23 September 2026 review of version 1.3.1. The item-by-item response, scope decisions, and pending device acceptance checks are in [audit-response-v1.4.0.md](audit-response-v1.4.0.md). The previous report is retained in [archive/release-verification-v1.3.1.md](archive/release-verification-v1.3.1.md).
 
-Publication completed on 23 September 2026 in commit `9b75a6c6d930fd0ba74d15c2ce02a1ca232acad9`. All 438 GitHub file hashes and modes were checked against the intended project, including the existing README edit. The signed release APK remains unchanged.
+## Verified package
 
-## Release identity
-
-| Item | Verified value |
+| Item | Result |
 | --- | --- |
-| APK | `releases/The-Spencerian-Desk-v1.3.1.apk` |
-| Version | 1.3.1, code 10 |
-| Package | `com.royal.spencerianlab` |
-| Launcher | The Spencerian Desk |
-| Bytes | 1,357,721 |
-| SHA-256 | `989db6077220276450fae0b40a754c9fb37b08afc7122869386739396791f594` |
+| APK | `releases/The-Spencerian-Desk-v1.4.0.apk` |
+| Version | 1.4.0 / code 11 |
+| Package / label | `com.royal.spencerianlab` / The Spencerian Desk |
+| Android | Minimum API 26, target and compile API 36 |
+| Bytes | 1,378,431 |
+| SHA-256 | `a6c4f8421b0e6186a9b9f3989a9a05a461e8985c5e41e5a401340b49db15eeff` |
 | Certificate SHA-256 | `680e45d2c014ccb9da17e33517022f7422597585831c17c910dbe1323f36a657` |
-| Signatures | v2 and v3 verified |
+| APK signatures | v2 and v3 verified with `apksigner` |
 | Alignment | `zipalign -c -P 16 4` passed |
-| Bundled assets | All 133 match the working files exactly |
-| Native DEX | Byte-identical to 1.3.0 |
+| Integrity / assets | ZIP integrity passed; all 134 bundled asset files match source bytes |
 
-The original package and signing identity are retained. The increasing version code supports installation over the prior app. The actual phone update remains untested here.
+The release was built with the existing private signing pair. The unchanged certificate/package and increasing version code make it eligible to update the previous install. A real phone update was not performed here. Optional v4 sidecar generation is explicitly disabled; no sidecar is required to install the APK. Machine-readable evidence is in [release-v1.4.0.json](release-v1.4.0.json).
 
 ## Automated checks
 
-**104 checks passed** in this review:
+**193 checks passed locally.**
 
-| Suite | Count | Scope |
+| Suite | Checks | Evidence and scope |
 | --- | ---: | --- |
-| DOM integration | 41 | Course routes, all lessons, completion, state, backups, name review, photo consent, AI response bounds, finish controls, record limits and protected recovery |
-| Signature renderer | 9 | Source glyphs, slant adjustment, complete bounds, distinct drafts, matching finish-study paths |
-| Practice geometry | 17 | Guide angles, transformations and movement calculations |
-| Native boundaries | 29 | Provider validation, protocol limits, transfer handling and related pure helpers |
-| Signing preflight | 8 | Missing or incomplete signing pairs, invalid configuration and safe continuation without reading real signing secrets |
+| App integration | 47 | Existing course, signature, consent, storage protection and backup flows; Clear starts a new saved drawing session, lazy journal pages, batched typing, Android bridge chunk export above 40 MB, atomic streamed restore, canceled/truncated import, exact Unicode recovery export |
+| Audit UI | 16 | History/focus/headings, draft recovery and stale-draft removal, explicit erase, failed-delete rollback, duplicate-ID delete targeting, viewport-only drawing loads, truthful storage-failure notice, AI cancel/truncation, restore cancellation races, preserved large runtime strokes, rejected malformed stored drafts |
+| Backup codec | 11 | Above-40 MB stream, one-character/Unicode boundaries, old JSON, duplicate/missing/invalid images, incomplete footer, chunk/record bounds, cancellation during staging, refusal to export corrupt drawings |
+| Storage | 10 | Atomic v1 migration, protected invalid records, lazy references, no unchanged-image rewrites, failed transactions, staged imports, interrupted cleanup, erase and duplicate session IDs |
+| Signature renderer | 9 | Source contours, spelling protection, bounds, variations and finish consistency |
+| Practice geometry | 17 | Movement/letter guides, target angles, print geometry, transformation and animation calculations |
+| Native boundaries | 29 | Provider and file-transfer pure helper boundaries |
+| AI transport | 19 | Cancellation tokens/races and provider/local truncation decisions |
+| Bounded file transfer | 27 | More than 40 MB, exact Unicode/UTF-8, malformed bytes, limits, closure, stalled provider streams, integer overflow and full journal bound |
+| Signing preflight | 8 | Missing, partial and invalid signing inputs cannot silently replace an identity |
 
-The DOM suite uses jsdom and mocked providers/canvas. The native suite is an offline JVM check of helpers. Neither is a physical Android or live-provider test. The source and native suites were run in this audit; the five new data-protection regressions were run after that repair. Signing tests run in temporary fixtures without an SDK or private keys.
+DOM checks use jsdom, fake IndexedDB, and simulated canvas/native callbacks. The native tests run pure Java helpers; the Android SDK JSON implementation is a stub in those tests, so live provider response parsing is not established by their passes. Compilation verifies integration of all Java files against API 36.
 
-The GitHub workflow at `.github/workflows/verify.yml` runs these suites and an Android build for pushes to `main`, pull requests, or manual dispatch. A local YAML structure check passed. Consult the repository Actions page for actual remote run results; adding a workflow is not evidence of a successful run. CI uses a temporary signing identity and does not produce an update for the maintainer-signed install.
+The file-transfer suite passes with `java -Xmx32m`, copying/reading a 50,000,001-byte synthetic stream. This demonstrates bounded helper memory, not a measured Android WebView memory profile. The storage regression fixture uses approximately 19 MB of drawings and 30 queued metadata edits: zero image writes occur, and serialized metadata stays below 1.5 MB total. The UI exporter regression streams 220 synthetic drawings totaling more than 40 MB in chunks no larger than 192 KiB. These are reproducible regression assertions, not a new phone/browser speed benchmark.
 
-The [first remote run](https://github.com/h4cks1lv3r/Spencerian-Desk/actions/runs/35890414485) passed 41 DOM, 9 renderer, 17 geometry, and 8 signing-preflight checks. It then failed at SDK setup with `sdkmanager: command not found`, before native tests or compilation. The workflow repair uses `"$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager"`, the executable location established by the official Ubuntu runner-image installer. This changes CI setup only; no app source or signed release bytes changed. See the [current workflow history](https://github.com/h4cks1lv3r/Spencerian-Desk/actions/workflows/verify.yml) for later results.
+Run the suites with:
 
-## Confirmed repairs
+```sh
+npm ci --ignore-scripts --prefix tests/dom
+node --test tests/dom/*.test.cjs
+node --test tests/signature/source-render.test.cjs
+node --test tools/tests/practice_geometry.test.js
+python3 -m unittest discover -s tools/tests -p '*_test.py'
+sh tests/native/run.sh /absolute/path/to/android-sdk
+sh tests/native/run-transfer.sh
+python3 build_apk.py --sdk /absolute/path/to/android-sdk --require-existing-signing
+```
 
-The audit reproduced a data-loss risk in 1.3.0: normal actions could store more sessions or concepts than the loader accepted, then a later save could replace the rejected state with defaults. Version 1.3.1 rejects new records at the existing 2,000-session / 1,000-concept limits, permits updating an existing digital session, validates writes, and preserves invalid data with an exact recovery export. Only a successful confirmed valid restore removes that protection. Details and reproduction are in [publication-audit.md](publication-audit.md).
+The GitHub workflow runs these suites and a clean build using a temporary CI signing identity. Its APK cannot update the maintainer-signed installation. Consult the [workflow history](https://github.com/h4cks1lv3r/Spencerian-Desk/actions/workflows/verify.yml) for remote results.
 
-The builder now rejects an incomplete signing pair before compilation. `--require-existing-signing` also rejects a missing identity. All current entrypoint documentation now points to 1.3.1; versioned older notes remain historical.
+## Limits and remaining acceptance work
 
-## Artwork and package review
+No physical Android device/emulator, S Pen test, real Android file picker, live paid AI call, or actual browser rendering pass was available. Playwright is installed, but Chromium launch failed because its executable is absent. The native layout/keyboard and lifecycle fixes are source-reviewed and compile-tested; that does not prove their behavior on every API level or document provider. The audit response includes a concrete API 26/30/33/35/36 manual matrix.
 
-The 1.3.0 vector designs are retained. Their actual rendered comparison, finish study, and six additional names were visually inspected during that work. The oval curves were revised after the first visual review. The teaching assets contain clean vectors, not embedded paper-page photographs. Asset and model mapping checks do not certify every handwritten form as an expert exemplar.
+Imported photos and AI responses remain transient. The bounded vector draft can restore navigation and drawing after interruption; a warning asks the user to save when the recovery draft exceeds its limits. Streaming backups still need enough local staging space and destination capacity. New JSONL backups require version 1.4.0 or newer; validated legacy schema-1 JSON remains accepted up to 40 MB. The 32 GiB native streaming guard covers the existing 2,000-record, per-image schema limits. Browser-only preview downloads remain capped at 40 MB.
 
-Source candidates were checked for accidental credential patterns. The Git ignore rules exclude signing material, dependency folders and generated working output. The reviewed signed APK is included under `releases/`; its checksum is beside it. The APK's signature is verified separately from the source tests.
-
-## Remaining limits
-
-No full 1.3.1 physical-phone launch, S Pen pressure/palm-rejection test, Android file-picker exercise, or live paid AI call was performed. Browser visual testing was unavailable in the local environment because Chromium could not be downloaded. Runnable Android and browser smoke tests are included.
-
-No check establishes signing speed, stroke order from a still image, pressure technique, global signature uniqueness, or expert mastery. Those need handwritten trials and qualified review. See [PROJECT_HANDOFF.md](PROJECT_HANDOFF.md) for the remaining work and fresh-context instructions.
+No test certifies handwriting quality, speed, identity, universal stroke order, Play policy compliance, or a production privacy-policy review. Optional dark mode, translation, multi-turn/streamed AI conversation and Play distribution remain separate product decisions.
