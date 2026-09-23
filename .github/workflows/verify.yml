@@ -39,7 +39,7 @@ jobs:
           node --test tools/tests/practice_geometry.test.js
           python3 -m unittest discover -s tools/tests -p '*_test.py'
       - name: Install Android build packages
-        run: sdkmanager 'platforms;android-36' 'build-tools;36.0.0'
+        run: '"$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" "platforms;android-36" "build-tools;36.0.0"'
       - name: Test native boundaries
         run: sh tests/native/run.sh "$ANDROID_HOME"
       - name: Build with a temporary CI signing identity

@@ -2,6 +2,8 @@
 
 Reviewed and built on 22 September 2026 for the initial GitHub publication. After the original chat stopped with only README.md published, the continuation session recovered this exact signed APK and reran all 104 checks. It independently verified version, certificate, ZIP integrity, alignment, checksum, and all 133 bundled assets without rebuilding or changing the app. This report supersedes the old current-verification entrypoint; historical reports remain in `docs/archive/` and the versioned artwork notes.
 
+Publication completed on 23 September 2026 in commit `9b75a6c6d930fd0ba74d15c2ce02a1ca232acad9`. All 438 GitHub file hashes and modes were checked against the intended project, including the existing README edit. The signed release APK remains unchanged.
+
 ## Release identity
 
 | Item | Verified value |
@@ -35,6 +37,8 @@ The original package and signing identity are retained. The increasing version c
 The DOM suite uses jsdom and mocked providers/canvas. The native suite is an offline JVM check of helpers. Neither is a physical Android or live-provider test. The source and native suites were run in this audit; the five new data-protection regressions were run after that repair. Signing tests run in temporary fixtures without an SDK or private keys.
 
 The GitHub workflow at `.github/workflows/verify.yml` runs these suites and an Android build for pushes to `main`, pull requests, or manual dispatch. A local YAML structure check passed. Consult the repository Actions page for actual remote run results; adding a workflow is not evidence of a successful run. CI uses a temporary signing identity and does not produce an update for the maintainer-signed install.
+
+The [first remote run](https://github.com/h4cks1lv3r/Spencerian-Desk/actions/runs/35890414485) passed 41 DOM, 9 renderer, 17 geometry, and 8 signing-preflight checks. It then failed at SDK setup with `sdkmanager: command not found`, before native tests or compilation. The workflow repair uses `"$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager"`, the executable location established by the official Ubuntu runner-image installer. This changes CI setup only; no app source or signed release bytes changed. See the [current workflow history](https://github.com/h4cks1lv3r/Spencerian-Desk/actions/workflows/verify.yml) for later results.
 
 ## Confirmed repairs
 
