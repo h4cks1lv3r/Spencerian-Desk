@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" width="900" height="560">
+<title>The 52 degree Spencerian main slant, measured from the baseline</title>
+<rect width="900" height="560" fill="#fff"/>
+<g stroke-linecap="round" fill="none">
+<path d="M 90 440 H 810" stroke="#68776d" stroke-width="2.5"/>
+<path d="M 160 440 V 62" stroke="#a9b4ab" stroke-width="2" stroke-dasharray="9 10"/>
+<path d="M 160 440 L 455.517508 61.754838 M 370 440 L 665.517508 61.754838" stroke="#20362d" stroke-width="4"/>
+<path d="M 260 440 A 100 100 0 0 0 221.566148 361.198925" stroke="#876733" stroke-width="3"/>
+</g><g font-family="sans-serif" fill="#20362d">
+<text x="276" y="398" font-size="40">52°</text>
+<text x="605" y="482" font-size="27">Baseline · 0°</text>
+<text x="138" y="42" font-size="25">90°</text>
+<text x="450" y="535" text-anchor="middle" font-size="28">52° from the baseline</text>
+</g></svg>

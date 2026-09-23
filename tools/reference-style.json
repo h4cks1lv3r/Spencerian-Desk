@@ -1,0 +1,90 @@
+{
+  "style": {
+    "title": "Graceful capitals. Light, flowing words.",
+    "description": "Your selected reference sets the direction throughout the course: fine lowercase, open capital ovals, and carefully placed shades. Complete alphabet and word models are drawn from the cited historical plates.",
+    "traits": [
+      "Fine hairlines connect small, consistent lowercase letters.",
+      "Large open ovals give the leading capitals room to breathe.",
+      "A few tapered shades create emphasis while most curves remain light.",
+      "Long finishing strokes balance the words and leave clear space."
+    ],
+    "learningNote": "Build light, consistent letters before adding larger flourishes. Study the complete source words for natural joins and spacing; use the individual letters to learn each form.",
+    "heroExample": "ref-heading",
+    "collectionId": "chosen-reference",
+    "aiBrief": "Aim for the user-selected handwriting direction: fine connected lowercase with consistent small-letter height; broad, open capital ovals; smoothly tapered selective shades on leading capitals; long light return curves and balanced white space. Preserve readable source-based letter construction and a consistent main slant: 50 degrees for the ornamental source models, or 52 degrees for classical foundations. Develop this character using the user’s own initials and name. Offer a repeatable daily version and, where relevant, a slower display version. These are described style qualities; no reference photograph is attached automatically."
+  },
+  "examples": [
+    {
+      "id": "ref-heading",
+      "title": "P and H: open oval capitals",
+      "transcription": "P · H",
+      "focus": "Compare the fine oval returns with the selective, tapered shades in the P and H. These capitals are isolated from the photograph’s heading.",
+      "sourcePhrase": "Penmanship Headquarters",
+      "vectorFile": "ref-heading.svg"
+    },
+    {
+      "id": "ref-greeting",
+      "title": "P and S: balanced capital flourishes",
+      "transcription": "P · S",
+      "focus": "Trace the large oval envelopes with a light movement. The shaded capital strokes stay inside open, unshaded return curves.",
+      "sourcePhrase": "Prospective Student:—",
+      "vectorFile": "ref-greeting.svg"
+    },
+    {
+      "id": "ref-place",
+      "title": "C and O: controlled oval movement",
+      "transcription": "C · O",
+      "focus": "Follow the continuous oval movement through the C and O, keeping the shaded segment selective and the return stroke fine.",
+      "sourcePhrase": "Columbus, Ohio.",
+      "vectorFile": "ref-place.svg"
+    },
+    {
+      "id": "ref-signature",
+      "title": "Z and B: signature capitals and finish",
+      "transcription": "Z · B",
+      "focus": "Study the balance between the ornamental Z and B and the broad terminal flourish. Use the curve relationships when composing your own initials.",
+      "sourcePhrase": "Zaner and Bloser.",
+      "vectorFile": "ref-signature.svg"
+    }
+  ],
+  "lessonModels": {
+    "r01": [
+      "ref-heading"
+    ],
+    "r04": [
+      "ref-place"
+    ],
+    "a01": [
+      "ref-greeting"
+    ],
+    "a03": [
+      "ref-place"
+    ],
+    "a04": [
+      "ref-heading"
+    ],
+    "a07": [
+      "ref-signature"
+    ],
+    "a08": [
+      "ref-greeting"
+    ],
+    "x06": [
+      "ref-heading",
+      "ref-place"
+    ],
+    "s01": [
+      "ref-signature"
+    ],
+    "s02": [
+      "ref-heading",
+      "ref-place"
+    ],
+    "s03": [
+      "ref-signature"
+    ],
+    "s06": [
+      "ref-signature"
+    ]
+  }
+}

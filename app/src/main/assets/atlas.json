@@ -1,0 +1,2479 @@
+{
+  "version": 4,
+  "plates": [
+    {
+      "id": "posture",
+      "title": "A balanced writing position",
+      "description": "Study the seat, desk, supported forearm, and paper position. Use a relaxed setup that lets the hand travel across the line without raising the shoulder.",
+      "category": "posture",
+      "exampleIds": [
+        "f03-1"
+      ],
+      "file": "examples/f03-1.svg",
+      "width": 1202,
+      "height": 1599,
+      "source": "Spencerian Key to Practical Penmanship",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "physicalPage": 41,
+      "glyphs": []
+    },
+    {
+      "id": "grip",
+      "title": "A light, supported pen hold",
+      "description": "Study finger contact, hand support, and right-handed paper alignment. Hold the pen with only enough pressure to guide it and keep the writing area in view.",
+      "category": "posture",
+      "exampleIds": [
+        "f04-1"
+      ],
+      "file": "examples/f04-1.svg",
+      "width": 1097,
+      "height": 309,
+      "source": "Spencerian Key to Practical Penmanship",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "physicalPage": 44,
+      "glyphs": []
+    },
+    {
+      "id": "principles",
+      "title": "The seven Spencerian principles",
+      "description": "Study the straight line, right curve, left curve, extended loop, direct oval, reversed oval, and capital stem. Use this map to identify the parts within complete letters.",
+      "category": "principles",
+      "exampleIds": [
+        "m01-1"
+      ],
+      "file": "examples/m01-1.svg",
+      "width": 840,
+      "height": 1280,
+      "source": "Spencerian Key to Practical Penmanship",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "physicalPage": 61,
+      "glyphs": []
+    },
+    {
+      "id": "lowercase-models",
+      "title": "The complete lowercase alphabet",
+      "description": "Study all 26 small letters in lesson order, from i and u through the extended letters and f. Compare each body, entry, exit, and distinguishing feature before writing a connected word.",
+      "category": "lowercase",
+      "exampleIds": [
+        "l01-1",
+        "l02-1",
+        "l03-1",
+        "l04-1",
+        "l05-1",
+        "l06-1",
+        "l07-1",
+        "l08-1",
+        "l09-1",
+        "l10-1",
+        "l10-2",
+        "e01-1",
+        "e01-2",
+        "e02-1",
+        "e02-2",
+        "e03-1",
+        "e03-2",
+        "e04-1",
+        "e04-2",
+        "e05-1",
+        "e05-2",
+        "e06-1",
+        "e06-2",
+        "e07-1",
+        "e07-2",
+        "e08-1"
+      ],
+      "file": "examples/l01-1.svg",
+      "width": 240.326,
+      "height": 106.689,
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "glyphs": [],
+      "sourceKind": "pdf"
+    },
+    {
+      "id": "capital-models",
+      "title": "The complete capital alphabet",
+      "description": "Study all 26 capitals by construction family. Compare oval direction, stems, loops, lobes, and feet, then preserve the identifying body when connecting a capital to lowercase.",
+      "category": "capitals",
+      "exampleIds": [
+        "c01-1",
+        "c02-1",
+        "c03-1",
+        "c04-1",
+        "c05-1",
+        "c06-1",
+        "c07-1",
+        "c08-1",
+        "c09-1",
+        "c10-1"
+      ],
+      "file": "examples/c01-1.svg",
+      "width": 1995.25,
+      "height": 446.32,
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 60,
+      "glyphs": [],
+      "sourceKind": "pdf"
+    },
+    {
+      "id": "numeral-models",
+      "title": "Numerals 0 to 9",
+      "description": "Study the five numeral pairs: 0 and 1, 2 and 3, 4 and 5, 6 and 7, and 8 and 9. Compare clear turns, closures, crossings, and the source height conventions.",
+      "category": "numerals",
+      "exampleIds": [
+        "w04-1",
+        "w04-2",
+        "w05-1",
+        "w05-2",
+        "w06-1",
+        "w06-2",
+        "w07-1",
+        "w07-2",
+        "w08-1",
+        "w08-2"
+      ],
+      "file": "examples/w04-1.svg",
+      "width": 81.0,
+      "height": 96.0,
+      "source": "Spencerian Key to Practical Penmanship",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "physicalPage": 97,
+      "glyphs": []
+    },
+    {
+      "id": "measured-alphabet",
+      "title": "Slant and proportion guide",
+      "description": "Compare the 52° main slant measured from the baseline with the shallower connective slope. Then compare the common small-letter height and width in the i and u models.",
+      "category": "principles",
+      "exampleIds": [
+        "f06-1",
+        "f07-1"
+      ],
+      "file": "examples/f06-1.svg",
+      "width": 900,
+      "height": 560,
+      "source": "Spencerian Key to Practical Penmanship",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "physicalPage": 61,
+      "glyphs": []
+    },
+    {
+      "id": "basic-movement",
+      "title": "Lines, turns, loops, and ovals",
+      "description": "Study straight stems, lower turns, upper turns, extended loops, oval directions, and the compound capital stem. Practice one movement family at a time before combining its parts.",
+      "category": "principles",
+      "exampleIds": [
+        "m02-1",
+        "m03-1",
+        "m04-1",
+        "m05-1",
+        "m06-1",
+        "m07-1"
+      ],
+      "file": "examples/m02-1.svg",
+      "width": 158,
+      "height": 148,
+      "source": "Spencerian Key to Practical Penmanship",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "physicalPage": 58,
+      "glyphs": []
+    },
+    {
+      "id": "lowercase-families",
+      "title": "Small-letter families: turns, ovals, and loops",
+      "description": "Compare the related small letters across all 18 lowercase lessons. Look for shared turns and bodies, then examine the features that distinguish short letters, retraced stems, and upper or lower loops.",
+      "category": "lowercase",
+      "exampleIds": [
+        "l01-1",
+        "l02-1",
+        "l03-1",
+        "l04-1",
+        "l05-1",
+        "l06-1",
+        "l07-1",
+        "l08-1",
+        "l09-1",
+        "l10-1",
+        "l10-2",
+        "e01-1",
+        "e01-2",
+        "e02-1",
+        "e02-2",
+        "e03-1",
+        "e03-2",
+        "e04-1",
+        "e04-2",
+        "e05-1",
+        "e05-2",
+        "e06-1",
+        "e06-2",
+        "e07-1",
+        "e07-2",
+        "e08-1"
+      ],
+      "file": "examples/l01-1.svg",
+      "width": 240.326,
+      "height": 106.689,
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "glyphs": [],
+      "sourceKind": "pdf"
+    },
+    {
+      "id": "capital-ovals",
+      "title": "Oval and top-loop capital families",
+      "description": "Compare direct-oval O, C, E, D; reverse-oval X, W, Q, Z; open forms V, U, Y; and top-loop I, J. Study each family separately and keep its direction changes clear.",
+      "category": "capitals",
+      "exampleIds": [
+        "c01-1",
+        "c02-1",
+        "c03-1",
+        "c04-1"
+      ],
+      "file": "examples/c01-1.svg",
+      "width": 1995.25,
+      "height": 446.32,
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 60,
+      "glyphs": [],
+      "sourceKind": "pdf"
+    },
+    {
+      "id": "capital-stems",
+      "title": "Capital stems and combinations",
+      "description": "Study A, N, M; T, F; S, L; G; P, B, R; and H, K. Compare how each stem combines with a cap, return, lobe, arm, or foot to form a readable capital.",
+      "category": "capitals",
+      "exampleIds": [
+        "c05-1",
+        "c06-1",
+        "c07-1",
+        "c08-1",
+        "c09-1",
+        "c10-1"
+      ],
+      "file": "examples/c05-1.svg",
+      "width": 2363.23,
+      "height": 546.82,
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 39,
+      "glyphs": [],
+      "sourceKind": "pdf"
+    },
+    {
+      "id": "shading",
+      "title": "Controlled shade: hairlines, swells, and release",
+      "description": "Study a controlled straight shade, a swell that returns to a hairline, selective lowercase shade, and an oval capital joined to a word. Keep pressure off the turns and preserve clear spaces within each form.",
+      "category": "principles",
+      "exampleIds": [
+        "r01-1",
+        "r02-1",
+        "r03-1",
+        "r04-1"
+      ],
+      "file": "examples/r01-1.svg",
+      "width": 600,
+      "height": 520,
+      "source": "Redrawn from Spencerian Key to Practical Penmanship",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "physicalPage": 104,
+      "glyphs": []
+    },
+    {
+      "id": "capitals-a-d",
+      "title": "Capital stems and bowls",
+      "description": "Compare the stem structures of A, N, M with the lobes of P, B, R. Keep the main stroke, enclosed spaces, and finishing direction clear before adding ornament.",
+      "category": "capitals",
+      "exampleIds": [
+        "c05-1",
+        "c09-1"
+      ],
+      "file": "examples/c05-1.svg",
+      "width": 2363.23,
+      "height": 546.82,
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 39,
+      "glyphs": [],
+      "sourceKind": "pdf"
+    },
+    {
+      "id": "capitals-e-i",
+      "title": "Direct ovals and top loops",
+      "description": "Study O, C, E, D beside I and J. Compare the direct-oval bodies with the shared top loop of I and J, then check the lower reach that distinguishes those two letters.",
+      "category": "capitals",
+      "exampleIds": [
+        "c01-1",
+        "c04-1"
+      ],
+      "file": "examples/c01-1.svg",
+      "width": 1995.25,
+      "height": 446.32,
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 60,
+      "glyphs": [],
+      "sourceKind": "pdf"
+    },
+    {
+      "id": "capitals-j-o",
+      "title": "Stem structure, curved feet, and cross strokes",
+      "description": "Study A, N, M; S, L; and H, K. Compare repeated stems, controlled lower curves, and the connecting parts that keep each capital distinct.",
+      "category": "capitals",
+      "exampleIds": [
+        "c05-1",
+        "c07-1",
+        "c10-1"
+      ],
+      "file": "examples/c05-1.svg",
+      "width": 2363.23,
+      "height": 546.82,
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 39,
+      "glyphs": [],
+      "sourceKind": "pdf"
+    },
+    {
+      "id": "capitals-p-r",
+      "title": "P, B, and R: stems and lobes",
+      "description": "Compare the shared beginning of P, B, and R, then study each lobe and exit. Keep the counters open and the R finish distinct.",
+      "category": "capitals",
+      "exampleIds": [
+        "c09-1"
+      ],
+      "file": "examples/c09-1.svg",
+      "width": 1502.96,
+      "height": 508.61,
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 45,
+      "glyphs": [],
+      "sourceKind": "pdf"
+    },
+    {
+      "id": "capitals-s-v",
+      "title": "Open ovals, capped stems, and curved feet",
+      "description": "Compare V, U, Y with T, F and S, L. Study the open inner spaces, cap placement, and lower curves as separate features rather than interchangeable ornaments.",
+      "category": "capitals",
+      "exampleIds": [
+        "c03-1",
+        "c06-1",
+        "c07-1"
+      ],
+      "file": "examples/c03-1.svg",
+      "width": 1895.21,
+      "height": 492.5,
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 61,
+      "glyphs": [],
+      "sourceKind": "pdf"
+    },
+    {
+      "id": "capitals-w-z",
+      "title": "X, W, Q, and Z: reverse-oval forms",
+      "description": "Study the shared reverse-oval start of X, W, Q, and Z. Compare each completion and exit so the four capitals remain easy to identify.",
+      "category": "capitals",
+      "exampleIds": [
+        "c02-1"
+      ],
+      "file": "examples/c02-1.svg",
+      "width": 2175.89,
+      "height": 538.64,
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 61,
+      "glyphs": [],
+      "sourceKind": "pdf"
+    },
+    {
+      "id": "flourish-foundations",
+      "title": "Flourish purpose and progressive loops",
+      "description": "Study the role of an entry, exit, or underline flourish, then practice large ovals and loops that increase or decrease in size. Keep the word complete and readable when the ornament is covered.",
+      "category": "flourishes",
+      "exampleIds": [
+        "a01-1",
+        "a02-1"
+      ],
+      "file": "examples/a01-1.svg",
+      "width": 1300.349,
+      "height": 366.835,
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 63,
+      "glyphs": [],
+      "sourceKind": "pdf"
+    },
+    {
+      "id": "flourish-progressions",
+      "title": "From letter extensions to compound flourishes",
+      "description": "Study entries, exits, ascender and descender extensions, clean crossings, and balanced empty space. Continue into compound curves, spirals, and tapered S-curve endings.",
+      "category": "flourishes",
+      "exampleIds": [
+        "a03-1",
+        "a04-1",
+        "a05-1",
+        "a06-1",
+        "a07-1",
+        "x01-1",
+        "x02-1"
+      ],
+      "file": "examples/a03-1.svg",
+      "width": 1048.5,
+      "height": 350.521,
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 60,
+      "glyphs": [],
+      "sourceKind": "pdf"
+    },
+    {
+      "id": "flourish-construction",
+      "title": "Layered ornament and the offhand bird",
+      "description": "Plan the major curves before supporting curves and details. Compare layered ornament with the structural curves of an offhand bird, then rehearse a repeatable stroke sequence.",
+      "category": "flourishes",
+      "exampleIds": [
+        "x03-1",
+        "x03-2",
+        "x04-1"
+      ],
+      "file": "examples/x03-1.svg",
+      "width": 1264,
+      "height": 834,
+      "source": "Redrawn from New Spencerian Compendium, P. R. Spencer's Sons",
+      "sourceFile": "New Spencerian Compendium_text.pdf",
+      "physicalPage": 129,
+      "glyphs": []
+    },
+    {
+      "id": "flourish-composition",
+      "title": "Finished phrases, monograms, and ornamental pages",
+      "description": "Study a finished phrase, two complete capitals before monogram construction, a four-line verse, and a finished bird. Compare hierarchy, clear spaces, and restraint, then apply those criteria in a portfolio review.",
+      "category": "flourishes",
+      "exampleIds": [
+        "a08-1",
+        "x05-1",
+        "x06-1",
+        "x07-1"
+      ],
+      "file": "examples/a08-1.svg",
+      "width": 3956.804,
+      "height": 574.608,
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 66,
+      "glyphs": [],
+      "sourceKind": "pdf"
+    },
+    {
+      "id": "chosen-reference",
+      "title": "Capitals from your chosen reference",
+      "description": "Four focused studies preserve the open capital ovals, tapered shades, and long return curves in your chosen photograph. Pair them with the course’s lowercase and word models, then apply the same balance to your own writing.",
+      "category": "flourishes",
+      "exampleIds": [
+        "ref-heading",
+        "ref-greeting",
+        "ref-place",
+        "ref-signature"
+      ],
+      "file": "examples/ref-heading.svg",
+      "width": 583,
+      "height": 179,
+      "sourceKind": "image",
+      "source": "User-selected handwriting reference",
+      "sourceFile": "Screenshot_20260816_230008_Firefox.jpg",
+      "glyphs": []
+    }
+  ],
+  "examples": [
+    {
+      "id": "f01-1",
+      "title": "i · u — light connected forms",
+      "transcription": "i · u",
+      "focus": "Compare the common small-letter height. Repeat each form lightly, keeping equal turns and a consistent main slant.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "width": 600,
+      "height": 170,
+      "file": "examples/f01-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "f02-1",
+      "title": "Test the point and paper",
+      "transcription": "Straight line · continuous curve",
+      "focus": "Use light straight and curved trial strokes to check that your point moves smoothly and your paper keeps a clean edge. Shading is not needed for this first tool test.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 59,
+      "printedPage": "41",
+      "file": "examples/f02-1.svg",
+      "sourcePages": [
+        59,
+        61
+      ],
+      "width": 840,
+      "height": 320,
+      "panels": [
+        {
+          "file": "examples/f02-1-part1.svg",
+          "title": "Straight line",
+          "width": 113,
+          "height": 99
+        },
+        {
+          "file": "examples/f02-1-part2.svg",
+          "title": "Continuous curve",
+          "width": 375,
+          "height": 92
+        }
+      ]
+    },
+    {
+      "id": "f03-1",
+      "title": "Supported writing position",
+      "transcription": "Historical seated writing position",
+      "focus": "Observe the supported forearm, stable feet, and other hand holding the sheet. Adjust your own desk and page for relaxed movement rather than copying the furniture height.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 41,
+      "printedPage": "29",
+      "file": "examples/f03-1.svg",
+      "sourcePages": [
+        41
+      ],
+      "width": 1202,
+      "height": 1599
+    },
+    {
+      "id": "f04-1",
+      "title": "A light, supported grip",
+      "transcription": "Two views of the pen hold",
+      "focus": "See how the thumb and fingers support the holder while the hand rests lightly on the page. These are historical views of the grip, not a left-handed setup diagram.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 44,
+      "printedPage": "32",
+      "file": "examples/f04-1.svg",
+      "sourcePages": [
+        44
+      ],
+      "width": 1097,
+      "height": 309
+    },
+    {
+      "id": "f05-1",
+      "title": "The same slant for either hand",
+      "transcription": "52° from the baseline",
+      "focus": "Keep the same right-leaning letter axis when writing with the left hand. Change page position for comfort; do not mirror the letter forms.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 61,
+      "printedPage": "43",
+      "file": "examples/f05-1.svg",
+      "sourcePages": [
+        61
+      ],
+      "width": 900,
+      "height": 560
+    },
+    {
+      "id": "f06-1",
+      "title": "The main 52° slant",
+      "transcription": "52° scale and straight stem",
+      "focus": "Read the angle upward from the horizontal baseline to the right-leaning stem. This is the letter axis, not the angle of the page on your desk.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 61,
+      "printedPage": "43",
+      "file": "examples/f06-1.svg",
+      "sourcePages": [
+        61
+      ],
+      "width": 900,
+      "height": 560
+    },
+    {
+      "id": "f07-1",
+      "title": "i · u — common height and width",
+      "transcription": "i · u",
+      "focus": "Compare the common small-letter height. Repeat each form lightly, keeping equal turns and a consistent main slant.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "width": 600,
+      "height": 170,
+      "file": "examples/f07-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "f08-1",
+      "title": "Compare curves and turns",
+      "transcription": "Direct and inverted pointed ovals",
+      "focus": "Compare where the two curves join and where each rounded turn sits. Review one feature at a time instead of judging the whole line as simply good or bad.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 61,
+      "printedPage": "43",
+      "file": "examples/f08-1.svg",
+      "sourcePages": [
+        61
+      ],
+      "width": 226,
+      "height": 101
+    },
+    {
+      "id": "m01-1",
+      "title": "Seven movement families",
+      "transcription": "Straight · right curve · left curve · loop · direct oval · reversed oval · capital stem",
+      "focus": "Find the same named movement families in later letters. These source forms come from the Key; its original principle numbers differ from the seven-family map used in this course.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 61,
+      "printedPage": "43",
+      "file": "examples/m01-1.svg",
+      "sourcePages": [
+        60,
+        61,
+        79
+      ],
+      "width": 840,
+      "height": 1280,
+      "panels": [
+        {
+          "file": "examples/m01-1-part1.svg",
+          "title": "Straight line",
+          "width": 113,
+          "height": 99
+        },
+        {
+          "file": "examples/m01-1-part2.svg",
+          "title": "Right curve",
+          "width": 114,
+          "height": 101
+        },
+        {
+          "file": "examples/m01-1-part3.svg",
+          "title": "Left curve",
+          "width": 125,
+          "height": 100
+        },
+        {
+          "file": "examples/m01-1-part4.svg",
+          "title": "Extended loop",
+          "width": 213,
+          "height": 195
+        },
+        {
+          "file": "examples/m01-1-part5.svg",
+          "title": "Direct oval",
+          "width": 241,
+          "height": 209
+        },
+        {
+          "file": "examples/m01-1-part6.svg",
+          "title": "Reversed oval",
+          "width": 235,
+          "height": 204
+        },
+        {
+          "file": "examples/m01-1-part7.svg",
+          "title": "Capital stem",
+          "width": 271,
+          "height": 183
+        }
+      ]
+    },
+    {
+      "id": "m02-1",
+      "title": "Parallel straight stems",
+      "transcription": "Parallel slanting lines",
+      "focus": "Compare the direction and spacing of these two straight lines. Keep your own stems light and let the hand travel across the row.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 58,
+      "printedPage": "40",
+      "file": "examples/m02-1.svg",
+      "sourcePages": [
+        58
+      ],
+      "width": 158,
+      "height": 148
+    },
+    {
+      "id": "m03-1",
+      "title": "The right curve",
+      "transcription": "Right side of an oval and the isolated right curve",
+      "focus": "Follow the lower right side of the oval into its shallow finish. This curve helps you form the rounded lower turns of the i family.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 61,
+      "printedPage": "43",
+      "file": "examples/m03-1.svg",
+      "sourcePages": [
+        61
+      ],
+      "width": 393,
+      "height": 248
+    },
+    {
+      "id": "m04-1",
+      "title": "The left curve",
+      "transcription": "Left side of an oval and the isolated left curve",
+      "focus": "Follow the upper left side of the oval toward the shoulder. Compare it with the right curve before making the upper turns of the n family.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 61,
+      "printedPage": "43",
+      "file": "examples/m04-1.svg",
+      "sourcePages": [
+        61
+      ],
+      "width": 402,
+      "height": 248
+    },
+    {
+      "id": "m05-1",
+      "title": "An open extended loop",
+      "transcription": "Extended loop",
+      "focus": "Keep the long inner space open and narrow, and observe where the return path crosses the rising curve. Carry the main slant through the whole loop.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 61,
+      "printedPage": "43",
+      "file": "examples/m05-1.svg",
+      "sourcePages": [
+        61
+      ],
+      "width": 213,
+      "height": 195
+    },
+    {
+      "id": "m06-1",
+      "title": "Three oval directions",
+      "transcription": "Direct · reversed · inverted oval",
+      "focus": "Follow the source arrows: direct begins down the left, reversed begins down the right, and inverted begins up the left. Keep the same oval axis while changing the start and direction.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 60,
+      "printedPage": "42",
+      "file": "examples/m06-1.svg",
+      "sourcePages": [
+        60
+      ],
+      "width": 840,
+      "height": 640,
+      "panels": [
+        {
+          "file": "examples/m06-1-part1.svg",
+          "title": "Direct oval",
+          "width": 241,
+          "height": 209
+        },
+        {
+          "file": "examples/m06-1-part2.svg",
+          "title": "Reversed oval",
+          "width": 235,
+          "height": 204
+        },
+        {
+          "file": "examples/m06-1-part3.svg",
+          "title": "Inverted oval",
+          "width": 208,
+          "height": 204
+        }
+      ]
+    },
+    {
+      "id": "m07-1",
+      "title": "The continuous capital stem",
+      "transcription": "Capital stem and foot oval",
+      "focus": "Trace the change of curvature into the shallow oval at the foot. The Key calls this its eighth principle; it is the named capital-stem family used in this course.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 79,
+      "printedPage": "61",
+      "file": "examples/m07-1.svg",
+      "sourcePages": [
+        79
+      ],
+      "width": 271,
+      "height": 183
+    },
+    {
+      "id": "m08-1",
+      "title": "Movement review",
+      "transcription": "Straight · curves · loop · ovals · capital stem",
+      "focus": "Write each named form once from the model and once from memory. Compare slant, proportion, spacing, and smoothness, then select one repair drill.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 61,
+      "printedPage": "43",
+      "file": "examples/m08-1.svg",
+      "sourcePages": [
+        60,
+        61,
+        79
+      ],
+      "width": 840,
+      "height": 1280,
+      "panels": [
+        {
+          "file": "examples/m08-1-part1.svg",
+          "title": "Straight line",
+          "width": 113,
+          "height": 99
+        },
+        {
+          "file": "examples/m08-1-part2.svg",
+          "title": "Right curve",
+          "width": 114,
+          "height": 101
+        },
+        {
+          "file": "examples/m08-1-part3.svg",
+          "title": "Left curve",
+          "width": 125,
+          "height": 100
+        },
+        {
+          "file": "examples/m08-1-part4.svg",
+          "title": "Extended loop",
+          "width": 213,
+          "height": 195
+        },
+        {
+          "file": "examples/m08-1-part5.svg",
+          "title": "Direct oval",
+          "width": 241,
+          "height": 209
+        },
+        {
+          "file": "examples/m08-1-part6.svg",
+          "title": "Reversed oval",
+          "width": 235,
+          "height": 204
+        },
+        {
+          "file": "examples/m08-1-part7.svg",
+          "title": "Capital stem",
+          "width": 271,
+          "height": 183
+        }
+      ]
+    },
+    {
+      "id": "l01-1",
+      "title": "i · Zaner ornamental model",
+      "transcription": "i",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "width": 240.326,
+      "height": 106.689,
+      "file": "examples/l01-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "l02-1",
+      "title": "u · Zaner ornamental model",
+      "transcription": "u",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "width": 248.5,
+      "height": 76.441,
+      "file": "examples/l02-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "l03-1",
+      "title": "w · Zaner ornamental model",
+      "transcription": "w",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 19,
+      "printedPage": "17",
+      "width": 287.977,
+      "height": 86.256,
+      "file": "examples/l03-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "l04-1",
+      "title": "n · Zaner ornamental model",
+      "transcription": "n",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "width": 257.288,
+      "height": 81.655,
+      "file": "examples/l04-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "l05-1",
+      "title": "m · Zaner ornamental model",
+      "transcription": "m",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "width": 315.681,
+      "height": 88.715,
+      "file": "examples/l05-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "l06-1",
+      "title": "x · Zaner ornamental model",
+      "transcription": "x",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "width": 221.5,
+      "height": 75.723,
+      "file": "examples/l06-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "l07-1",
+      "title": "v · Zaner ornamental model",
+      "transcription": "v",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "width": 208.079,
+      "height": 80.883,
+      "file": "examples/l07-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "l08-1",
+      "title": "o · Zaner ornamental model",
+      "transcription": "o",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 19,
+      "printedPage": "17",
+      "width": 234.333,
+      "height": 80.907,
+      "file": "examples/l08-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "l09-1",
+      "title": "a · Zaner ornamental model",
+      "transcription": "a",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 19,
+      "printedPage": "17",
+      "width": 277.833,
+      "height": 97.638,
+      "file": "examples/l09-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "l10-1",
+      "title": "e · Zaner ornamental model",
+      "transcription": "e",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 19,
+      "printedPage": "17",
+      "width": 199.0,
+      "height": 77.352,
+      "file": "examples/l10-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "l10-2",
+      "title": "c · Zaner ornamental model",
+      "transcription": "c",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 19,
+      "printedPage": "17",
+      "width": 227.262,
+      "height": 80.0,
+      "file": "examples/l10-2.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "e01-1",
+      "title": "r · Zaner ornamental model",
+      "transcription": "r",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "width": 213.769,
+      "height": 82.544,
+      "file": "examples/e01-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "e01-2",
+      "title": "s · Zaner ornamental model",
+      "transcription": "s",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 19,
+      "printedPage": "17",
+      "width": 202.778,
+      "height": 83.408,
+      "file": "examples/e01-2.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "e02-1",
+      "title": "t · Zaner ornamental model",
+      "transcription": "t",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 21,
+      "printedPage": "19",
+      "width": 230.935,
+      "height": 151.462,
+      "file": "examples/e02-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "e02-2",
+      "title": "d · Zaner ornamental model",
+      "transcription": "d",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 21,
+      "printedPage": "19",
+      "width": 234.235,
+      "height": 153.463,
+      "file": "examples/e02-2.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "e03-1",
+      "title": "p · Zaner ornamental model",
+      "transcription": "p",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 21,
+      "printedPage": "19",
+      "width": 465.0,
+      "height": 253.697,
+      "file": "examples/e03-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "e03-2",
+      "title": "q · Zaner ornamental model",
+      "transcription": "q",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 27,
+      "printedPage": "25",
+      "width": 227.971,
+      "height": 184.535,
+      "file": "examples/e03-2.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "e04-1",
+      "title": "l · Zaner ornamental model",
+      "transcription": "l",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 23,
+      "printedPage": "21",
+      "width": 237.289,
+      "height": 176.998,
+      "file": "examples/e04-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "e04-2",
+      "title": "h · Zaner ornamental model",
+      "transcription": "h",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 23,
+      "printedPage": "21",
+      "width": 280.488,
+      "height": 176.841,
+      "file": "examples/e04-2.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "e05-1",
+      "title": "k · Zaner ornamental model",
+      "transcription": "k",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 23,
+      "printedPage": "21",
+      "width": 266.762,
+      "height": 186.825,
+      "file": "examples/e05-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "e05-2",
+      "title": "b · Zaner ornamental model",
+      "transcription": "b",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 23,
+      "printedPage": "21",
+      "width": 230.096,
+      "height": 183.805,
+      "file": "examples/e05-2.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "e06-1",
+      "title": "j · Zaner ornamental model",
+      "transcription": "j",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 25,
+      "printedPage": "23",
+      "width": 253.543,
+      "height": 220.443,
+      "file": "examples/e06-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "e06-2",
+      "title": "y · Zaner ornamental model",
+      "transcription": "y",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 25,
+      "printedPage": "23",
+      "width": 258.462,
+      "height": 189.283,
+      "file": "examples/e06-2.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "e07-1",
+      "title": "g · Zaner ornamental model",
+      "transcription": "g",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 25,
+      "printedPage": "23",
+      "width": 231.664,
+      "height": 179.906,
+      "file": "examples/e07-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "e07-2",
+      "title": "z · Zaner ornamental model",
+      "transcription": "z",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 25,
+      "printedPage": "23",
+      "width": 236.904,
+      "height": 198.588,
+      "file": "examples/e07-2.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "e08-1",
+      "title": "f · Zaner ornamental model",
+      "transcription": "f",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 27,
+      "printedPage": "25",
+      "width": 215.769,
+      "height": 298.93,
+      "file": "examples/e08-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "w01-1",
+      "title": "mug · connected letter rhythm",
+      "transcription": "mug",
+      "focus": "Follow the m-to-u join without adding pressure; retain the same small-letter height into the g.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 27,
+      "printedPage": "25",
+      "width": 467.93,
+      "height": 177.711,
+      "file": "examples/w01-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "w02-1",
+      "title": "Even word spacing",
+      "transcription": "In lines both smooth and graceful.",
+      "focus": "Compare the spaces between words with the compact joins inside each word.",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 66,
+      "printedPage": "64",
+      "width": 3746.227,
+      "height": 441.041,
+      "file": "examples/w02-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "w03-1",
+      "title": "time · dots and crossbars",
+      "transcription": "time",
+      "focus": "Place the i-dot and t-crossings after the connected body; keep their weight light.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 21,
+      "printedPage": "19",
+      "width": 703.574,
+      "height": 214.547,
+      "file": "examples/w03-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "w04-1",
+      "title": "1 · fine-line numeral study",
+      "transcription": "1",
+      "focus": "Follow the source-shaped 1 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "source": "Spencerian Key to Practical Penmanship",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "physicalPage": 97,
+      "printedPage": "79",
+      "sourcePages": [
+        97
+      ],
+      "width": 81.0,
+      "height": 96.0,
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "file": "examples/w04-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "w04-2",
+      "title": "0 · fine-line numeral study",
+      "transcription": "0",
+      "focus": "Follow the source-shaped 0 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "source": "New Spencerian Compendium, P. R. Spencer's Sons",
+      "sourceFile": "New Spencerian Compendium_text.pdf",
+      "physicalPage": 73,
+      "printedPage": "Plate 2",
+      "sourcePages": [
+        73
+      ],
+      "width": 138.0,
+      "height": 150.0,
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "file": "examples/w04-2.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "w05-1",
+      "title": "2 · fine-line numeral study",
+      "transcription": "2",
+      "focus": "Follow the source-shaped 2 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "source": "Spencerian Key to Practical Penmanship",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "physicalPage": 98,
+      "printedPage": "80",
+      "sourcePages": [
+        98
+      ],
+      "width": 99.0,
+      "height": 96.0,
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "file": "examples/w05-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "w05-2",
+      "title": "3 · fine-line numeral study",
+      "transcription": "3",
+      "focus": "Follow the source-shaped 3 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "source": "Spencerian Key to Practical Penmanship",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "physicalPage": 98,
+      "printedPage": "80",
+      "sourcePages": [
+        98
+      ],
+      "width": 90.0,
+      "height": 101.0,
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "file": "examples/w05-2.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "w06-1",
+      "title": "4 · fine-line numeral study",
+      "transcription": "4",
+      "focus": "Follow the source-shaped 4 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "source": "Spencerian Key to Practical Penmanship",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "physicalPage": 98,
+      "printedPage": "80",
+      "sourcePages": [
+        98
+      ],
+      "width": 90.0,
+      "height": 94.0,
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "file": "examples/w06-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "w06-2",
+      "title": "5 · fine-line numeral study",
+      "transcription": "5",
+      "focus": "Follow the source-shaped 5 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "source": "Spencerian Key to Practical Penmanship",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "physicalPage": 99,
+      "printedPage": "81",
+      "sourcePages": [
+        99
+      ],
+      "width": 106.0,
+      "height": 100.0,
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "file": "examples/w06-2.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "w07-1",
+      "title": "6 · fine-line numeral study",
+      "transcription": "6",
+      "focus": "Follow the source-shaped 6 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "source": "Spencerian Key to Practical Penmanship",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "physicalPage": 99,
+      "printedPage": "81",
+      "sourcePages": [
+        99
+      ],
+      "width": 94.0,
+      "height": 115.0,
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "file": "examples/w07-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "w07-2",
+      "title": "7 · fine-line numeral study",
+      "transcription": "7",
+      "focus": "Follow the source-shaped 7 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "source": "Spencerian Key to Practical Penmanship",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "physicalPage": 99,
+      "printedPage": "81",
+      "sourcePages": [
+        99
+      ],
+      "width": 113.0,
+      "height": 124.0,
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "file": "examples/w07-2.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "w08-1",
+      "title": "8 · fine-line numeral study",
+      "transcription": "8",
+      "focus": "Follow the source-shaped 8 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "source": "Spencerian Key to Practical Penmanship",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "physicalPage": 100,
+      "printedPage": "82",
+      "sourcePages": [
+        100
+      ],
+      "width": 111.0,
+      "height": 100.0,
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "file": "examples/w08-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "w08-2",
+      "title": "9 · fine-line numeral study",
+      "transcription": "9",
+      "focus": "Follow the source-shaped 9 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "source": "Spencerian Key to Practical Penmanship",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "physicalPage": 100,
+      "printedPage": "82",
+      "sourcePages": [
+        100
+      ],
+      "width": 99.0,
+      "height": 119.0,
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "file": "examples/w08-2.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "c01-1",
+      "title": "Capital family · O D C E",
+      "transcription": "O D C E",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 60,
+      "printedPage": "58",
+      "sourcePages": [
+        39,
+        58,
+        60
+      ],
+      "width": 1995.25,
+      "height": 446.32,
+      "file": "examples/c01-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "c02-1",
+      "title": "Capital family · X W Z Q",
+      "transcription": "X W Z Q",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 61,
+      "printedPage": "59",
+      "sourcePages": [
+        51,
+        60,
+        61
+      ],
+      "width": 2175.89,
+      "height": 538.64,
+      "file": "examples/c02-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "c03-1",
+      "title": "Capital family · V U Y",
+      "transcription": "V U Y",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 61,
+      "printedPage": "59",
+      "sourcePages": [
+        43,
+        61
+      ],
+      "width": 1895.21,
+      "height": 492.5,
+      "file": "examples/c03-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "c04-1",
+      "title": "Capital family · I J",
+      "transcription": "I J",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 59,
+      "printedPage": "57",
+      "sourcePages": [
+        59
+      ],
+      "width": 1274.64,
+      "height": 534.71,
+      "file": "examples/c04-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "c05-1",
+      "title": "Capital family · A N M",
+      "transcription": "A N M",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 39,
+      "printedPage": "37",
+      "sourcePages": [
+        39,
+        60
+      ],
+      "width": 2363.23,
+      "height": 546.82,
+      "file": "examples/c05-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "c06-1",
+      "title": "Capital family · T F",
+      "transcription": "T F",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 45,
+      "printedPage": "43",
+      "sourcePages": [
+        45,
+        58
+      ],
+      "width": 1405.05,
+      "height": 482.57,
+      "file": "examples/c06-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "c07-1",
+      "title": "Capital family · S L",
+      "transcription": "S L",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 47,
+      "printedPage": "45",
+      "sourcePages": [
+        47,
+        59
+      ],
+      "width": 1054.22,
+      "height": 571.05,
+      "file": "examples/c07-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "c08-1",
+      "title": "Capital family · G",
+      "transcription": "G",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 59,
+      "printedPage": "57",
+      "sourcePages": [
+        59
+      ],
+      "width": 712.25,
+      "height": 431.53,
+      "file": "examples/c08-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "c09-1",
+      "title": "Capital family · P B R",
+      "transcription": "P B R",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 45,
+      "printedPage": "43",
+      "sourcePages": [
+        45,
+        60
+      ],
+      "width": 1502.96,
+      "height": 508.61,
+      "file": "examples/c09-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "c10-1",
+      "title": "Capital family · H K",
+      "transcription": "H K",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 59,
+      "printedPage": "57",
+      "sourcePages": [
+        59
+      ],
+      "width": 1456.57,
+      "height": 519.83,
+      "file": "examples/c10-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "r01-1",
+      "title": "A controlled straight shade",
+      "transcription": "",
+      "focus": "Test the nib on scrap paper and compare the heavy beginning with the fine finish. The gradual taper requires an even release of pressure.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Redrawn from Spencerian Key to Practical Penmanship",
+      "physicalPage": 104,
+      "printedPage": "",
+      "file": "examples/r01-1.svg",
+      "sourcePages": [
+        104
+      ],
+      "width": 600,
+      "height": 520
+    },
+    {
+      "id": "r02-1",
+      "title": "A swell that returns to a hairline",
+      "transcription": "",
+      "focus": "Follow the curve from its fine beginning through its widest shade and back to a fine finish. Release pressure before the rising movement.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 104,
+      "printedPage": "86",
+      "file": "examples/r02-1.svg",
+      "sourcePages": [
+        104
+      ],
+      "width": 245,
+      "height": 182
+    },
+    {
+      "id": "r03-1",
+      "title": "Selective shading in a sentence",
+      "transcription": "On each and every page of white.",
+      "focus": "Keep connectors light. Study the sparse shaded strokes among the small letters.",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 66,
+      "printedPage": "64",
+      "width": 3359.208,
+      "height": 554.366,
+      "file": "examples/r03-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "r04-1",
+      "title": "An oval capital joined to a word",
+      "transcription": "Oklahoma",
+      "focus": "Compare the open capital O with the light, smaller connected letters.",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 60,
+      "printedPage": "58",
+      "width": 1048.5,
+      "height": 350.521,
+      "file": "examples/r04-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "r05-1",
+      "title": "Light connected writing",
+      "transcription": "In lines both smooth and graceful.",
+      "focus": "Use a consistent small-letter height and steady spaces; make the word legible before adding ornament.",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 66,
+      "printedPage": "64",
+      "width": 3746.227,
+      "height": 441.041,
+      "file": "examples/r05-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "r06-1",
+      "title": "A complete ornamental letter",
+      "transcription": "Columbus, Ohio. Dear Lillian: I am getting along nicely at the Zanerian ... Your cousin, Gertrude.",
+      "focus": "Study the date, greeting, text, closing and signature as one page. Preserve clear line spacing.",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 63,
+      "printedPage": "61",
+      "width": 4096.761,
+      "height": 2813.373,
+      "file": "examples/r06-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "r07-1",
+      "title": "Review an entire specimen",
+      "transcription": "Truthfulness is the corner-stone in character; and if it is not firmly laid in youth there will ever after be a weak spot in the foundation.",
+      "focus": "Review slant, small-letter height, word spaces, sparse shading, and the final flourish separately.",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 64,
+      "printedPage": "62",
+      "width": 3733.83,
+      "height": 1824.135,
+      "file": "examples/r07-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "a01-1",
+      "title": "A purposeful greeting flourish",
+      "transcription": "Dear Lillian:",
+      "focus": "Let the open greeting capitals announce the line while the lowercase stays legible.",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 63,
+      "printedPage": "61",
+      "width": 1300.349,
+      "height": 366.835,
+      "file": "examples/a01-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "a02-1",
+      "title": "Progressive oval movement: light to shaded",
+      "transcription": "Light oval chain · selective shade · continuous oval rhythm",
+      "focus": "Compare the same open oval rhythm without shade and with controlled swells. Keep the return curves fine. This ornamental study does not replace the course’s 52° guide construction.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 29,
+      "printedPage": "27",
+      "width": 1000,
+      "height": 922.334,
+      "file": "examples/a02-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "a03-1",
+      "title": "A light exit and an open capital entry",
+      "transcription": "Oklahoma",
+      "focus": "Study the capital entry and the final light return. The printed shape does not by itself establish stroke order.",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 60,
+      "printedPage": "58",
+      "width": 1048.5,
+      "height": 350.521,
+      "file": "examples/a03-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "a04-1",
+      "title": "Open ascenders above light words",
+      "transcription": "In lines both smooth and graceful.",
+      "focus": "Compare the long thin ascender loops with the smaller connected body; leave room above the line.",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 66,
+      "printedPage": "64",
+      "width": 3746.227,
+      "height": 441.041,
+      "file": "examples/a04-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "a05-1",
+      "title": "Descenders beneath connected words",
+      "transcription": "Thoughts of the truly grateful.",
+      "focus": "Give the lower loops room beneath the baseline. Keep their return curves light and clear.",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 66,
+      "printedPage": "64",
+      "width": 3530.954,
+      "height": 553.304,
+      "file": "examples/a05-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "a06-1",
+      "title": "Open crossings in a compound flourish",
+      "transcription": "",
+      "focus": "The fine return lines cross between the stronger swells. Follow each path through the design and keep thick strokes from forming a dark knot.",
+      "sourceFile": "New Spencerian Compendium_text.pdf",
+      "source": "Redrawn from New Spencerian Compendium, P. R. Spencer's Sons",
+      "physicalPage": 126,
+      "printedPage": "Plate 48",
+      "file": "examples/a06-1.svg",
+      "sourcePages": [
+        126
+      ],
+      "width": 1150,
+      "height": 700
+    },
+    {
+      "id": "a07-1",
+      "title": "A balanced ornamental signature",
+      "transcription": "O. P. Hoffmann",
+      "focus": "Compare the capital group, compact surname and long light return. Apply the balance to your own initials.",
+      "sourceKind": "pdf",
+      "source": "Signature plate · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 90,
+      "printedPage": "88",
+      "width": 1688.219,
+      "height": 634.738,
+      "file": "examples/a07-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "a08-1",
+      "title": "A finished ornamental phrase",
+      "transcription": "The pen may leave while in its flight.",
+      "focus": "Study the opening capital, light connected text and generous spacing as one finished line.",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 66,
+      "printedPage": "64",
+      "width": 3956.804,
+      "height": 574.608,
+      "file": "examples/a08-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "x01-1",
+      "title": "Compound curves with continuous direction",
+      "transcription": "",
+      "focus": "Each S-shaped movement changes its bend without a sharp corner. Rehearse one complete route before extending it into a sequence.",
+      "sourceFile": "New Spencerian Compendium_text.pdf",
+      "source": "Redrawn from New Spencerian Compendium, P. R. Spencer's Sons",
+      "physicalPage": 126,
+      "printedPage": "Plate 48",
+      "file": "examples/x01-1.svg",
+      "sourcePages": [
+        126
+      ],
+      "width": 572,
+      "height": 119
+    },
+    {
+      "id": "x02-1",
+      "title": "Spirals that change radius gradually",
+      "transcription": "",
+      "focus": "Compare the inner turns with the wide outer curves in this spiral sequence. Let the radius change gradually and finish with a light line.",
+      "sourceFile": "New Spencerian Compendium_text.pdf",
+      "source": "Redrawn from New Spencerian Compendium, P. R. Spencer's Sons",
+      "physicalPage": 127,
+      "printedPage": "Plate 49",
+      "file": "examples/x02-1.svg",
+      "sourcePages": [
+        127
+      ],
+      "width": 1240,
+      "height": 300
+    },
+    {
+      "id": "x03-1",
+      "title": "The bird’s main body curves",
+      "transcription": "",
+      "focus": "Start with the body and the long supporting curves. Keep their direction clear before adding parallel curves or feather details.",
+      "sourceFile": "New Spencerian Compendium_text.pdf",
+      "source": "Redrawn from New Spencerian Compendium, P. R. Spencer's Sons",
+      "physicalPage": 129,
+      "printedPage": "Plate 51",
+      "file": "examples/x03-1.svg",
+      "sourcePages": [
+        129
+      ],
+      "width": 1264,
+      "height": 834
+    },
+    {
+      "id": "x03-2",
+      "title": "The framework before ornament",
+      "transcription": "",
+      "focus": "Add the head, body boundary, and broad wing curves around the first framework. Preserve open space between the main lines.",
+      "sourceFile": "New Spencerian Compendium_text.pdf",
+      "source": "Redrawn from New Spencerian Compendium, P. R. Spencer's Sons",
+      "physicalPage": 129,
+      "printedPage": "Plate 51",
+      "file": "examples/x03-2.svg",
+      "sourcePages": [
+        129
+      ],
+      "width": 1264,
+      "height": 834
+    },
+    {
+      "id": "x04-1",
+      "title": "Offhand bird: the complete structure",
+      "transcription": "",
+      "focus": "Study the same bird with its secondary curves and light feather accents added. Keep the head readable and the outer curves open.",
+      "sourceFile": "New Spencerian Compendium_text.pdf",
+      "source": "Redrawn from New Spencerian Compendium, P. R. Spencer's Sons",
+      "physicalPage": 129,
+      "printedPage": "Plate 51",
+      "file": "examples/x04-1.svg",
+      "sourcePages": [
+        129
+      ],
+      "width": 1264,
+      "height": 834
+    },
+    {
+      "id": "x05-1",
+      "title": "Complete capitals before a monogram",
+      "transcription": "G. G.",
+      "focus": "Study the two complete capital G forms before composing an overlap. Keep each identifying curve readable.",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 39,
+      "printedPage": "37",
+      "width": 821.538,
+      "height": 314.835,
+      "file": "examples/x05-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "x06-1",
+      "title": "A composed four-line specimen",
+      "transcription": "On each and every page of white, / In lines both smooth and graceful, / The pen may leave while in its flight, / Thoughts of the truly grateful.",
+      "focus": "Balance the four lines and leave space for the capitals, ascenders and descenders.",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 66,
+      "printedPage": "64",
+      "width": 4353.096,
+      "height": 2129.64,
+      "file": "examples/x06-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "x07-1",
+      "title": "Critique a finished ornamental study",
+      "transcription": "",
+      "focus": "Critique the finished bird: look for smooth curves, restrained shading, clear crossings, and balanced white space. Compare your study at normal reading size before adding detail.",
+      "sourceFile": "New Spencerian Compendium_text.pdf",
+      "source": "Redrawn from New Spencerian Compendium, P. R. Spencer's Sons",
+      "physicalPage": 129,
+      "printedPage": "Plate 51",
+      "file": "examples/x07-1.svg",
+      "sourcePages": [
+        129
+      ],
+      "width": 1264,
+      "height": 834
+    },
+    {
+      "id": "s01-1",
+      "title": "Set the character of your signature",
+      "transcription": "W. S. McDaniels",
+      "focus": "Describe the qualities to carry into your own name: open capitals, light lowercase and a balanced finish.",
+      "sourceKind": "pdf",
+      "source": "Signature plate · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 90,
+      "printedPage": "88",
+      "width": 1885.428,
+      "height": 476.549,
+      "file": "examples/s01-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "s02-1",
+      "title": "Combine two open capital forms",
+      "transcription": "O. P. Hoffmann",
+      "focus": "Inspect the relation of the two initials before adapting comparable forms to your own initials.",
+      "sourceKind": "pdf",
+      "source": "Signature plate · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 90,
+      "printedPage": "88",
+      "width": 1688.219,
+      "height": 634.738,
+      "file": "examples/s02-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "s03-1",
+      "title": "A flowing lowercase name",
+      "transcription": "J. Phillips",
+      "focus": "The compact surname gives the capital group a clear ending. Keep your own letters readable and repeatable.",
+      "sourceKind": "pdf",
+      "source": "Signature plate · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 90,
+      "printedPage": "88",
+      "width": 1158.582,
+      "height": 603.179,
+      "file": "examples/s03-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "s04-1",
+      "title": "Control a signature return",
+      "transcription": "J. Phillips",
+      "focus": "Practice a light return with room around the readable name. Reduce the flourish for a faster daily version.",
+      "sourceKind": "pdf",
+      "source": "Signature plate · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 90,
+      "printedPage": "88",
+      "width": 1158.582,
+      "height": 603.179,
+      "file": "examples/s04-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "s05-1",
+      "title": "Test spacing and repeatability",
+      "transcription": "A. S. Harvey",
+      "focus": "Check balanced initials, consistent lowercase, and an exit that does not cross through the name.",
+      "sourceKind": "pdf",
+      "source": "Signature plate · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 90,
+      "printedPage": "88",
+      "width": 1364.627,
+      "height": 467.153,
+      "file": "examples/s05-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "s06-1",
+      "title": "A finished display signature",
+      "transcription": "W. S. McDaniels",
+      "focus": "Use this as a composition study, then finish a signature for your own name with clear capital hierarchy.",
+      "sourceKind": "pdf",
+      "source": "Signature plate · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 90,
+      "printedPage": "88",
+      "width": 1885.428,
+      "height": 476.549,
+      "file": "examples/s06-1.svg",
+      "styleSet": "ornamental-reference"
+    },
+    {
+      "id": "ref-heading",
+      "title": "P and H: open oval capitals",
+      "transcription": "P · H",
+      "focus": "Compare the fine oval returns with the selective, tapered shades in the P and H. These capitals are isolated from the photograph’s heading.",
+      "sourcePhrase": "Penmanship Headquarters",
+      "file": "examples/ref-heading.svg",
+      "width": 583,
+      "height": 179,
+      "sourceKind": "image",
+      "sourceFile": "Screenshot_20260816_230008_Firefox.jpg",
+      "source": "User-selected handwriting reference",
+      "sourceDetail": "Capital study reconstructed from the supplied photograph"
+    },
+    {
+      "id": "ref-greeting",
+      "title": "P and S: balanced capital flourishes",
+      "transcription": "P · S",
+      "focus": "Trace the large oval envelopes with a light movement. The shaded capital strokes stay inside open, unshaded return curves.",
+      "sourcePhrase": "Prospective Student:—",
+      "file": "examples/ref-greeting.svg",
+      "width": 450,
+      "height": 185,
+      "sourceKind": "image",
+      "sourceFile": "Screenshot_20260816_230008_Firefox.jpg",
+      "source": "User-selected handwriting reference",
+      "sourceDetail": "Capital study reconstructed from the supplied photograph"
+    },
+    {
+      "id": "ref-place",
+      "title": "C and O: controlled oval movement",
+      "transcription": "C · O",
+      "focus": "Follow the continuous oval movement through the C and O, keeping the shaded segment selective and the return stroke fine.",
+      "sourcePhrase": "Columbus, Ohio.",
+      "file": "examples/ref-place.svg",
+      "width": 401,
+      "height": 175,
+      "sourceKind": "image",
+      "sourceFile": "Screenshot_20260816_230008_Firefox.jpg",
+      "source": "User-selected handwriting reference",
+      "sourceDetail": "Capital study reconstructed from the supplied photograph"
+    },
+    {
+      "id": "ref-signature",
+      "title": "Z and B: signature capitals and finish",
+      "transcription": "Z · B",
+      "focus": "Study the balance between the ornamental Z and B and the broad terminal flourish. Use the curve relationships when composing your own initials.",
+      "sourcePhrase": "Zaner and Bloser.",
+      "file": "examples/ref-signature.svg",
+      "width": 419,
+      "height": 205,
+      "sourceKind": "image",
+      "sourceFile": "Screenshot_20260816_230008_Firefox.jpg",
+      "source": "User-selected handwriting reference",
+      "sourceDetail": "Capital study reconstructed from the supplied photograph"
+    }
+  ],
+  "lessonExamples": {
+    "f01": [
+      "f01-1"
+    ],
+    "f02": [
+      "f02-1"
+    ],
+    "f03": [
+      "f03-1"
+    ],
+    "f04": [
+      "f04-1"
+    ],
+    "f05": [
+      "f05-1"
+    ],
+    "f06": [
+      "f06-1"
+    ],
+    "f07": [
+      "f07-1"
+    ],
+    "f08": [
+      "f08-1"
+    ],
+    "m01": [
+      "m01-1"
+    ],
+    "m02": [
+      "m02-1"
+    ],
+    "m03": [
+      "m03-1"
+    ],
+    "m04": [
+      "m04-1"
+    ],
+    "m05": [
+      "m05-1"
+    ],
+    "m06": [
+      "m06-1"
+    ],
+    "m07": [
+      "m07-1"
+    ],
+    "m08": [
+      "m08-1"
+    ],
+    "l01": [
+      "l01-1"
+    ],
+    "l02": [
+      "l02-1"
+    ],
+    "l03": [
+      "l03-1"
+    ],
+    "l04": [
+      "l04-1"
+    ],
+    "l05": [
+      "l05-1"
+    ],
+    "l06": [
+      "l06-1"
+    ],
+    "l07": [
+      "l07-1"
+    ],
+    "l08": [
+      "l08-1"
+    ],
+    "l09": [
+      "l09-1"
+    ],
+    "l10": [
+      "l10-1",
+      "l10-2"
+    ],
+    "e01": [
+      "e01-1",
+      "e01-2"
+    ],
+    "e02": [
+      "e02-1",
+      "e02-2"
+    ],
+    "e03": [
+      "e03-1",
+      "e03-2"
+    ],
+    "e04": [
+      "e04-1",
+      "e04-2"
+    ],
+    "e05": [
+      "e05-1",
+      "e05-2"
+    ],
+    "e06": [
+      "e06-1",
+      "e06-2"
+    ],
+    "e07": [
+      "e07-1",
+      "e07-2"
+    ],
+    "e08": [
+      "e08-1"
+    ],
+    "w01": [
+      "w01-1"
+    ],
+    "w02": [
+      "w02-1"
+    ],
+    "w03": [
+      "w03-1"
+    ],
+    "w04": [
+      "w04-1",
+      "w04-2"
+    ],
+    "w05": [
+      "w05-1",
+      "w05-2"
+    ],
+    "w06": [
+      "w06-1",
+      "w06-2"
+    ],
+    "w07": [
+      "w07-1",
+      "w07-2"
+    ],
+    "w08": [
+      "w08-1",
+      "w08-2"
+    ],
+    "c01": [
+      "c01-1"
+    ],
+    "c02": [
+      "c02-1"
+    ],
+    "c03": [
+      "c03-1"
+    ],
+    "c04": [
+      "c04-1"
+    ],
+    "c05": [
+      "c05-1"
+    ],
+    "c06": [
+      "c06-1"
+    ],
+    "c07": [
+      "c07-1"
+    ],
+    "c08": [
+      "c08-1"
+    ],
+    "c09": [
+      "c09-1"
+    ],
+    "c10": [
+      "c10-1"
+    ],
+    "r01": [
+      "r01-1",
+      "ref-heading"
+    ],
+    "r02": [
+      "r02-1"
+    ],
+    "r03": [
+      "r03-1"
+    ],
+    "r04": [
+      "ref-place",
+      "r04-1"
+    ],
+    "r05": [
+      "r05-1"
+    ],
+    "r06": [
+      "r06-1"
+    ],
+    "r07": [
+      "r07-1"
+    ],
+    "a01": [
+      "ref-greeting",
+      "a01-1"
+    ],
+    "a02": [
+      "a02-1"
+    ],
+    "a03": [
+      "ref-place",
+      "a03-1"
+    ],
+    "a04": [
+      "ref-heading",
+      "a04-1"
+    ],
+    "a05": [
+      "a05-1"
+    ],
+    "a06": [
+      "a06-1"
+    ],
+    "a07": [
+      "ref-signature",
+      "a07-1"
+    ],
+    "a08": [
+      "ref-greeting",
+      "a08-1"
+    ],
+    "x01": [
+      "x01-1"
+    ],
+    "x02": [
+      "x02-1"
+    ],
+    "x03": [
+      "x03-1",
+      "x03-2"
+    ],
+    "x04": [
+      "x04-1"
+    ],
+    "x05": [
+      "x05-1"
+    ],
+    "x06": [
+      "ref-heading",
+      "ref-place",
+      "x06-1"
+    ],
+    "x07": [
+      "x07-1"
+    ],
+    "s01": [
+      "ref-signature",
+      "s01-1"
+    ],
+    "s02": [
+      "ref-heading",
+      "ref-place",
+      "s02-1"
+    ],
+    "s03": [
+      "ref-signature",
+      "s03-1"
+    ],
+    "s04": [
+      "s04-1"
+    ],
+    "s05": [
+      "s05-1"
+    ],
+    "s06": [
+      "ref-signature",
+      "s06-1"
+    ]
+  },
+  "styleReference": {
+    "title": "Graceful capitals. Light, flowing words.",
+    "description": "Your selected reference sets the direction throughout the course: fine lowercase, open capital ovals, and carefully placed shades. Complete alphabet and word models are drawn from the cited historical plates.",
+    "traits": [
+      "Fine hairlines connect small, consistent lowercase letters.",
+      "Large open ovals give the leading capitals room to breathe.",
+      "A few tapered shades create emphasis while most curves remain light.",
+      "Long finishing strokes balance the words and leave clear space."
+    ],
+    "learningNote": "Build light, consistent letters before adding larger flourishes. Study the complete source words for natural joins and spacing; use the individual letters to learn each form.",
+    "heroExample": "ref-heading",
+    "collectionId": "chosen-reference",
+    "aiBrief": "Aim for the user-selected handwriting direction: fine connected lowercase with consistent small-letter height; broad, open capital ovals; smoothly tapered selective shades on leading capitals; long light return curves and balanced white space. Preserve readable source-based letter construction and a consistent main slant: 50 degrees for the ornamental source models, or 52 degrees for classical foundations. Develop this character using the user’s own initials and name. Offer a repeatable daily version and, where relevant, a slower display version. These are described style qualities; no reference photograph is attached automatically."
+  },
+  "specimenStyle": {
+    "name": "Ornamental writing in your chosen direction",
+    "description": "Clean source-based models with fine connections, open capital ovals and selective shading. The photograph sets the visual direction; complete letters and words come from the cited historical plates.",
+    "sourceSlantNote": "Zaner’s ornamental manual uses a 50° main slant. The course also teaches the classical 52° reference. Choose one guide for each practice row."
+  }
+}

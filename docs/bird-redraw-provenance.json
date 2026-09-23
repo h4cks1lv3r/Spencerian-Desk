@@ -1,0 +1,12 @@
+{
+ "type": "source-guided redrawn teaching diagram",
+ "sourceFile": "New Spencerian Compendium_text.pdf",
+ "suppliedPhysicalPage": 129,
+ "printedPlate": "51",
+ "crop": [0.269, 0.144, 0.561, 0.765],
+ "rotationDegreesCounterclockwise": 90,
+ "description": "Manually fitted cubic Bezier curves follow the original central bird. Main body and ornamental curve routes are retained; scanned paper, detached stains, grain, and unintended scan gaps are removed. Stroke widths are regularized for a clear lesson display.",
+ "full": "bird129-redrawn.svg",
+ "structure": "bird129-framework.svg",
+ "bodyStage": "bird129-body-stage.svg"
+}

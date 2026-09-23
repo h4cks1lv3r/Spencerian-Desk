@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="114" height="101" viewBox="0 0 114 101" preserveAspectRatio="xMidYMid meet">
+<title>Right curve</title><rect width="114" height="101" fill="#fff" /><g transform="translate(0.000000,101.000000) scale(0.100000,-0.100000)" fill="#20362d" stroke="none">
+<path d="M816 690 c-74 -88 -134 -140 -287 -248 -106 -74 -131 -89 -231 -142 -56 -29 -68 -43 -49 -54 16 -10 192 86 279 152 45 34 87 62 92 62 17 0 280 266 280 283 0 36 -20 23 -84 -53z" />
+<path d="M455 270 c-11 -17 15 -20 155 -16 74 2 159 4 188 5 28 0 52 6 52 11 0 14 -387 14 -395 0z" />
+</g>
+</svg>

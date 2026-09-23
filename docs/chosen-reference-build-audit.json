@@ -1,0 +1,17 @@
+{
+  "version": "1.1.4",
+  "versionCode": 6,
+  "package": "com.royal.spencerianlab",
+  "bytes": 1251157,
+  "sha256": "b33d3aa4697c3ffb51275bd2bfd045e0734deafca162a03873a62941a9bdff96",
+  "assetFilesMatchSource": 132,
+  "svgFiles": 121,
+  "mainExamples": 98,
+  "unchangedBookExamples": 94,
+  "lessonMappings": 80,
+  "referenceCollections": 23,
+  "rasterTeachingAssets": 0,
+  "nativeDexIdenticalTo": "1.1.3",
+  "domTestsPassed": 23,
+  "signingCertificateSha256": "680e45d2c014ccb9da17e33517022f7422597585831c17c910dbe1323f36a657"
+}

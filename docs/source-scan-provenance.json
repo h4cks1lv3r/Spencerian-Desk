@@ -1,0 +1,12 @@
+{
+  "url": "https://luc.devroye.org/NewSpencerianCompendium.pdf",
+  "retrievedDate": "2026-09-17",
+  "bytes": 55360755,
+  "sha256": "d7d31046a2e6cd83d49045fedebca3fe99737c5538b22052efdfb5f4b00b7197",
+  "pages": 176,
+  "suppliedPages": 175,
+  "pageMapping": "Supplied physical page N is original PDF physical page N+1. Extract the sole image from that PDF page, ignoring FreshView HTML headers.",
+  "dimensionMatches": 175,
+  "dimensionMismatches": [],
+  "comparison": "Original JPEGs have smoother continuous hairlines than the supplied MRC-reencoded PDF on Plate 25 (supplied physical 96) and signature Plate 27 (supplied physical 98). Same underlying scans; quality remains limited by original 1660x1276/1636x1264 JPEGs. It is not a new higher-resolution scan."
+}

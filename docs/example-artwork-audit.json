@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "f01-1",
+    "parts": [
+      {
+        "originalPixels": [
+          1366,
+          2268
+        ],
+        "cropPixels": [
+          96,
+          249,
+          239,
+          324
+        ],
+        "inkPixels": 1051,
+        "padding": 24,
+        "svgBytes": 1036,
+        "svgSha256": "3cbfd383a1eeb9a28e86a66ec1803a1b9afde17d48f1681b60cb14da3243f806"
+      },
+      {
+        "originalPixels": [
+          1366,
+          2268
+        ],
+        "cropPixels": [
+          102,
+          590,
+          277,
+          655
+        ],
+        "inkPixels": 1312,
+        "padding": 24,
+        "svgBytes": 1422,
+        "svgSha256": "e2a80f8b915ef564ac0f666da0f8422ef792b221e64eff7c1e432c8dc3c5c6ad"
+      }
+    ],
+    "svgBytes": 2876
+  },
+  {
+    "id": "f02-1",
+    "parts": [
+      {
+        "originalPixels": [
+          1376,
+          2278
+        ],
+        "cropPixels": [
+          480,
+          522,
+          560,
+          592
+        ],
+        "inkPixels": 394,
+        "padding": 24,
+        "svgBytes": 790,
+        "svgSha256": "195611c66ad50ed1da41507f6eb75650c342d6c2b69148919afcfb130be4f1ef"
+      },
+      {
+        "originalPixels": [
+          1376,
+          2278
+        ],
+        "cropPixels": [
+          96,
+          200,
+          451,
+          285
+        ],
+        "inkPixels": 1190,
+        "padding": 24,
+        "svgBytes": 886,
+        "svgSha256": "1257e9809581995ab46d989c83995fea75fb30b6e40902ba9baac28c9a6807d7"
+      }
+    ],
+    "svgBytes": 2087
+  },
+  {
+    "id": "f03-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      141,
+      454,
+      1215,
+      1924
+    ],
+    "inkPixels": 473950,
+    "padding": 78,
+    "svgBytes": 741459,
+    "svgSha256": "d258d89c2c70f73d6c101e5ff58203b5e6d9dc04102726cd0dbd72aa6e55cbb9"
+  },
+  {
+    "id": "f04-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      144,
+      794,
+      1213,
+      1089
+    ],
+    "inkPixels": 78135,
+    "padding": 24,
+    "svgBytes": 61390,
+    "svgSha256": "67ea81334760ab0528a9ba5effa724e56c03e85546923257f4e5598f5fc552f8"
+  },
+  {
+    "id": "f05-1",
+    "reconstruction": "Exact 52 degree geometry based on the cited source diagram",
+    "angleDegrees": 52,
+    "svgBytes": 908
+  },
+  {
+    "id": "f06-1",
+    "reconstruction": "Exact 52 degree geometry based on the cited source diagram",
+    "angleDegrees": 52,
+    "svgBytes": 908
+  },
+  {
+    "id": "f07-1",
+    "parts": [
+      {
+        "originalPixels": [
+          1366,
+          2268
+        ],
+        "cropPixels": [
+          96,
+          249,
+          239,
+          324
+        ],
+        "inkPixels": 1051,
+        "padding": 24,
+        "svgBytes": 1036,
+        "svgSha256": "3cbfd383a1eeb9a28e86a66ec1803a1b9afde17d48f1681b60cb14da3243f806"
+      },
+      {
+        "originalPixels": [
+          1366,
+          2268
+        ],
+        "cropPixels": [
+          102,
+          590,
+          277,
+          655
+        ],
+        "inkPixels": 1312,
+        "padding": 24,
+        "svgBytes": 1422,
+        "svgSha256": "e2a80f8b915ef564ac0f666da0f8422ef792b221e64eff7c1e432c8dc3c5c6ad"
+      }
+    ],
+    "svgBytes": 2871
+  },
+  {
+    "id": "f08-1",
+    "originalPixels": [
+      1376,
+      2278
+    ],
+    "cropPixels": [
+      103,
+      1169,
+      294,
+      1242
+    ],
+    "inkPixels": 1357,
+    "padding": 24,
+    "svgBytes": 1208,
+    "svgSha256": "38c9e6a901ddd4118a9c15e2cef040904d5da3cb37de2f63e82fa23821b22ed2"
+  },
+  {
+    "id": "m01-1",
+    "parts": [
+      {
+        "originalPixels": [
+          1376,
+          2278
+        ],
+        "cropPixels": [
+          480,
+          522,
+          560,
+          592
+        ],
+        "inkPixels": 394,
+        "padding": 24,
+        "svgBytes": 790,
+        "svgSha256": "195611c66ad50ed1da41507f6eb75650c342d6c2b69148919afcfb130be4f1ef"
+      },
+      {
+        "originalPixels": [
+          1376,
+          2278
+        ],
+        "cropPixels": [
+          405,
+          818,
+          494,
+          888
+        ],
+        "inkPixels": 385,
+        "padding": 24,
+        "svgBytes": 646,
+        "svgSha256": "c5368ca52119f810e4492c1b48e4a64724b39a3c1b00303d8c413ab43eacd938"
+      },
+      {
+        "originalPixels": [
+          1376,
+          2278
+        ],
+        "cropPixels": [
+          405,
+          939,
+          497,
+          1018
+        ],
+        "inkPixels": 370,
+        "padding": 24,
+        "svgBytes": 799,
+        "svgSha256": "bd1fab4ba2514d43ba29a3b82f8024d1106fd39212ca96b072872da0e5eb9d02"
+      },
+      {
+        "originalPixels": [
+          1376,
+          2278
+        ],
+        "cropPixels": [
+          109,
+          1465,
+          288,
+          1633
+        ],
+        "inkPixels": 1351,
+        "padding": 24,
+        "svgBytes": 1050,
+        "svgSha256": "f1d3d4b6de76f684071269648b83de1c430c5d454fa48eca487b942bafeb042a"
+      },
+      {
+        "originalPixels": [
+          1366,
+          2268
+        ],
+        "cropPixels": [
+          100,
+          1066,
+          316,
+          1256
+        ],
+        "inkPixels": 2442,
+        "padding": 24,
+        "svgBytes": 1325,
+        "svgSha256": "e4d2b5c121613aa5f183ebe9838fc2e22572978636f76ddb6b8f89e4595c1e2d"
+      },
+      {
+        "originalPixels": [
+          1366,
+          2268
+        ],
+        "cropPixels": [
+          100,
+          1263,
+          316,
+          1454
+        ],
+        "inkPixels": 2021,
+        "padding": 24,
+        "svgBytes": 1209,
+        "svgSha256": "cee59dc3a2bd6aea2d2351a103ac7b6556ef79fdb1a56d518377577d5e2f59ee"
+      },
+      {
+        "originalPixels": [
+          1376,
+          2278
+        ],
+        "cropPixels": [
+          89,
+          1613,
+          344,
+          1793
+        ],
+        "inkPixels": 1349,
+        "padding": 24,
+        "svgBytes": 1137,
+        "svgSha256": "466e736da0513823afc2829cb7fee26c37d64fe2c6e18ff35319613579db6e11"
+      }
+    ],
+    "svgBytes": 7835
+  },
+  {
+    "id": "m02-1",
+    "originalPixels": [
+      1366,
+      2268
+    ],
+    "cropPixels": [
+      139,
+      1919,
+      265,
+      2064
+    ],
+    "inkPixels": 1024,
+    "padding": 24,
+    "svgBytes": 1101,
+    "svgSha256": "2ef2d9729d7631e3ffd5d8978ca94ca8702e39bb15e55c8446a5de1bb5b66c60"
+  },
+  {
+    "id": "m03-1",
+    "originalPixels": [
+      1376,
+      2278
+    ],
+    "cropPixels": [
+      129,
+      667,
+      495,
+      888
+    ],
+    "inkPixels": 2948,
+    "padding": 24,
+    "svgBytes": 5265,
+    "svgSha256": "8f5e1aeb096d53ce6accb819a079c3d35334898ca09d752145b68bc3a3c9d443"
+  },
+  {
+    "id": "m04-1",
+    "originalPixels": [
+      1376,
+      2278
+    ],
+    "cropPixels": [
+      122,
+      927,
+      499,
+      1153
+    ],
+    "inkPixels": 2799,
+    "padding": 24,
+    "svgBytes": 5307,
+    "svgSha256": "fd74c1bd533804a1837c79c9e091824884dff7b5b5c90159116a9f4980d1b73e"
+  },
+  {
+    "id": "m05-1",
+    "originalPixels": [
+      1376,
+      2278
+    ],
+    "cropPixels": [
+      109,
+      1465,
+      288,
+      1633
+    ],
+    "inkPixels": 1351,
+    "padding": 24,
+    "svgBytes": 1058,
+    "svgSha256": "145c42449d175d7a19d805ab6df9f71708de4bf1965a65a87160c7098696f332"
+  },
+  {
+    "id": "m06-1",
+    "parts": [
+      {
+        "originalPixels": [
+          1366,
+          2268
+        ],
+        "cropPixels": [
+          100,
+          1066,
+          316,
+          1256
+        ],
+        "inkPixels": 2442,
+        "padding": 24,
+        "svgBytes": 1325,
+        "svgSha256": "e4d2b5c121613aa5f183ebe9838fc2e22572978636f76ddb6b8f89e4595c1e2d"
+      },
+      {
+        "originalPixels": [
+          1366,
+          2268
+        ],
+        "cropPixels": [
+          100,
+          1263,
+          316,
+          1454
+        ],
+        "inkPixels": 2021,
+        "padding": 24,
+        "svgBytes": 1209,
+        "svgSha256": "cee59dc3a2bd6aea2d2351a103ac7b6556ef79fdb1a56d518377577d5e2f59ee"
+      },
+      {
+        "originalPixels": [
+          1366,
+          2268
+        ],
+        "cropPixels": [
+          89,
+          1474,
+          303,
+          1653
+        ],
+        "inkPixels": 1910,
+        "padding": 24,
+        "svgBytes": 1456,
+        "svgSha256": "8c35ee25bc592e1674ba034b449c9ed2d146bebb3aa7c9aa58310f507078a8b3"
+      }
+    ],
+    "svgBytes": 4486
+  },
+  {
+    "id": "m07-1",
+    "originalPixels": [
+      1376,
+      2278
+    ],
+    "cropPixels": [
+      89,
+      1613,
+      344,
+      1793
+    ],
+    "inkPixels": 1349,
+    "padding": 24,
+    "svgBytes": 1152,
+    "svgSha256": "f9e85ab938ea8d813ee7ce27ea8ef84587041f6a5ffd95517b81dcbd4c3d0b62"
+  },
+  {
+    "id": "m08-1",
+    "parts": [
+      {
+        "originalPixels": [
+          1376,
+          2278
+        ],
+        "cropPixels": [
+          480,
+          522,
+          560,
+          592
+        ],
+        "inkPixels": 394,
+        "padding": 24,
+        "svgBytes": 790,
+        "svgSha256": "195611c66ad50ed1da41507f6eb75650c342d6c2b69148919afcfb130be4f1ef"
+      },
+      {
+        "originalPixels": [
+          1376,
+          2278
+        ],
+        "cropPixels": [
+          405,
+          818,
+          494,
+          888
+        ],
+        "inkPixels": 385,
+        "padding": 24,
+        "svgBytes": 646,
+        "svgSha256": "c5368ca52119f810e4492c1b48e4a64724b39a3c1b00303d8c413ab43eacd938"
+      },
+      {
+        "originalPixels": [
+          1376,
+          2278
+        ],
+        "cropPixels": [
+          405,
+          939,
+          497,
+          1018
+        ],
+        "inkPixels": 370,
+        "padding": 24,
+        "svgBytes": 799,
+        "svgSha256": "bd1fab4ba2514d43ba29a3b82f8024d1106fd39212ca96b072872da0e5eb9d02"
+      },
+      {
+        "originalPixels": [
+          1376,
+          2278
+        ],
+        "cropPixels": [
+          109,
+          1465,
+          288,
+          1633
+        ],
+        "inkPixels": 1351,
+        "padding": 24,
+        "svgBytes": 1050,
+        "svgSha256": "f1d3d4b6de76f684071269648b83de1c430c5d454fa48eca487b942bafeb042a"
+      },
+      {
+        "originalPixels": [
+          1366,
+          2268
+        ],
+        "cropPixels": [
+          100,
+          1066,
+          316,
+          1256
+        ],
+        "inkPixels": 2442,
+        "padding": 24,
+        "svgBytes": 1325,
+        "svgSha256": "e4d2b5c121613aa5f183ebe9838fc2e22572978636f76ddb6b8f89e4595c1e2d"
+      },
+      {
+        "originalPixels": [
+          1366,
+          2268
+        ],
+        "cropPixels": [
+          100,
+          1263,
+          316,
+          1454
+        ],
+        "inkPixels": 2021,
+        "padding": 24,
+        "svgBytes": 1209,
+        "svgSha256": "cee59dc3a2bd6aea2d2351a103ac7b6556ef79fdb1a56d518377577d5e2f59ee"
+      },
+      {
+        "originalPixels": [
+          1376,
+          2278
+        ],
+        "cropPixels": [
+          89,
+          1613,
+          344,
+          1793
+        ],
+        "inkPixels": 1349,
+        "padding": 24,
+        "svgBytes": 1137,
+        "svgSha256": "466e736da0513823afc2829cb7fee26c37d64fe2c6e18ff35319613579db6e11"
+      }
+    ],
+    "svgBytes": 7827
+  },
+  {
+    "id": "l01-1",
+    "originalPixels": [
+      1366,
+      2268
+    ],
+    "cropPixels": [
+      117,
+      736,
+      262,
+      867
+    ],
+    "inkPixels": 1054,
+    "padding": 24,
+    "svgBytes": 1161,
+    "svgSha256": "8c0b3662969e4031d77205ac070390d6accd6e27a6062ab8381f7c9fe7a1e8cf"
+  },
+  {
+    "id": "l02-1",
+    "originalPixels": [
+      1376,
+      2278
+    ],
+    "cropPixels": [
+      109,
+      235,
+      310,
+      319
+    ],
+    "inkPixels": 1289,
+    "padding": 24,
+    "svgBytes": 1383,
+    "svgSha256": "54a82efa907f69e6c81611ea48de248f8d065a57bee15dd2e9a131bcf1a3f956"
+  },
+  {
+    "id": "l03-1",
+    "originalPixels": [
+      1376,
+      2278
+    ],
+    "cropPixels": [
+      127,
+      1434,
+      305,
+      1517
+    ],
+    "inkPixels": 1520,
+    "padding": 24,
+    "svgBytes": 1490,
+    "svgSha256": "dc6e152ddf79a1763225c2cde63fd9b54701c3119c22f3a677837ef09c8662ab"
+  },
+  {
+    "id": "l04-1",
+    "originalPixels": [
+      1366,
+      2268
+    ],
+    "cropPixels": [
+      119,
+      337,
+      309,
+      410
+    ],
+    "inkPixels": 1285,
+    "padding": 24,
+    "svgBytes": 1462,
+    "svgSha256": "f853b1cadfeea283e678fccb694d8bd8734580756140a76cdacd6b4e9fab3ca3"
+  },
+  {
+    "id": "l05-1",
+    "originalPixels": [
+      1366,
+      2268
+    ],
+    "cropPixels": [
+      111,
+      1548,
+      340,
+      1629
+    ],
+    "inkPixels": 2006,
+    "padding": 24,
+    "svgBytes": 1874,
+    "svgSha256": "51b680dea1a6c24d2839cb3426b096eae4cad5099c9321c65e4caca24276ca75"
+  },
+  {
+    "id": "l06-1",
+    "originalPixels": [
+      1376,
+      2278
+    ],
+    "cropPixels": [
+      106,
+      891,
+      278,
+      972
+    ],
+    "inkPixels": 1258,
+    "padding": 24,
+    "svgBytes": 1254,
+    "svgSha256": "c1d3eab8ad3d42dd3894bfce3757079e8b5c5e5e238af849a166ab90baa91b4b"
+  },
+  {
+    "id": "l07-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      97,
+      239,
+      277,
+      320
+    ],
+    "inkPixels": 1137,
+    "padding": 24,
+    "svgBytes": 1143,
+    "svgSha256": "1c53221f8f53335d7514ad574ce1469239e72b791b454e5b753a74630ec17417"
+  },
+  {
+    "id": "l08-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      106,
+      1018,
+      255,
+      1103
+    ],
+    "inkPixels": 1147,
+    "padding": 24,
+    "svgBytes": 1174,
+    "svgSha256": "c3113bec09f81a97fe0a5680780d1a64b5b4bd2fdc64eae8b60ec1313913cba8"
+  },
+  {
+    "id": "l09-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      92,
+      1982,
+      282,
+      2066
+    ],
+    "inkPixels": 1467,
+    "padding": 24,
+    "svgBytes": 1438,
+    "svgSha256": "94742bb94cf2522c4540e2176ec5dbace8cd5c7bf54f51827dbe7d217356f161"
+  },
+  {
+    "id": "l10-1",
+    "originalPixels": [
+      1376,
+      2278
+    ],
+    "cropPixels": [
+      107,
+      1548,
+      241,
+      1627
+    ],
+    "inkPixels": 814,
+    "padding": 24,
+    "svgBytes": 981,
+    "svgSha256": "88f380d86dd0cb5b823efbade964c40b29690e8ec07d2d6d4d8c592225f481ba"
+  },
+  {
+    "id": "l10-2",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      100,
+      410,
+      237,
+      483
+    ],
+    "inkPixels": 1463,
+    "padding": 24,
+    "svgBytes": 1666,
+    "svgSha256": "e7907a9f6c09296d1313856aee2cb212e414342b303e4a0be44c92a5686ac75e"
+  },
+  {
+    "id": "e01-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      110,
+      1376,
+      276,
+      1471
+    ],
+    "inkPixels": 1343,
+    "padding": 24,
+    "svgBytes": 1123,
+    "svgSha256": "47cbb8275c097e08e8285be1c1468cc4949c0a291bcb279cb59b56e97f2d516e"
+  },
+  {
+    "id": "e01-2",
+    "originalPixels": [
+      1376,
+      2278
+    ],
+    "cropPixels": [
+      106,
+      564,
+      256,
+      662
+    ],
+    "inkPixels": 1182,
+    "padding": 24,
+    "svgBytes": 1384,
+    "svgSha256": "c4e571bf7aea62d4d7fb82f97fa75b2ee930b0738db1eada4be1fcf43df8fe42"
+  },
+  {
+    "id": "e02-1",
+    "originalPixels": [
+      1376,
+      2278
+    ],
+    "cropPixels": [
+      96,
+      1643,
+      274,
+      1776
+    ],
+    "inkPixels": 1442,
+    "padding": 24,
+    "svgBytes": 1797,
+    "svgSha256": "b869a8ca944f30069cfec4bd6625410260c38f349b27a2f1452a8c08dfbb2070"
+  },
+  {
+    "id": "e02-2",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      95,
+      842,
+      270,
+      977
+    ],
+    "inkPixels": 1347,
+    "padding": 24,
+    "svgBytes": 1521,
+    "svgSha256": "ad9e8125f02f89a345b521c14c16733060d48339addeb7733dcfb697054fa1d7"
+  },
+  {
+    "id": "e03-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      80,
+      1753,
+      322,
+      1975
+    ],
+    "inkPixels": 3399,
+    "padding": 24,
+    "svgBytes": 2571,
+    "svgSha256": "49c43deefa34fa5ccd02411975be81047c3aad5fc305b6a2ad90f7ef5bc02078"
+  },
+  {
+    "id": "e03-2",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      80,
+      1207,
+      263,
+      1368
+    ],
+    "inkPixels": 1779,
+    "padding": 24,
+    "svgBytes": 1704,
+    "svgSha256": "8f1115bd92c3b3d7c39b75b9cc1b7000e4e74feaec102719e0bfb1dec1ac0278"
+  },
+  {
+    "id": "e04-1",
+    "originalPixels": [
+      1376,
+      2278
+    ],
+    "cropPixels": [
+      103,
+      937,
+      292,
+      1114
+    ],
+    "inkPixels": 1679,
+    "padding": 24,
+    "svgBytes": 1603,
+    "svgSha256": "835c33b80e43da6ca6e660ab84739b9d8d9847351c7eda0fabdc8a097378e33b"
+  },
+  {
+    "id": "e04-2",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      85,
+      210,
+      304,
+      388
+    ],
+    "inkPixels": 3116,
+    "padding": 24,
+    "svgBytes": 2368,
+    "svgSha256": "15469e362474bcfe6bc24d30b168821d68bd315df11d45911e7e0aa7108c0655"
+  },
+  {
+    "id": "e05-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      88,
+      1449,
+      274,
+      1626
+    ],
+    "inkPixels": 1836,
+    "padding": 24,
+    "svgBytes": 2121,
+    "svgSha256": "86c2c0eb7e1f1e23766454e5798424fc195633d4c16ecebe21b1eb0756535988"
+  },
+  {
+    "id": "e05-2",
+    "originalPixels": [
+      1376,
+      2278
+    ],
+    "cropPixels": [
+      103,
+      1825,
+      305,
+      2003
+    ],
+    "inkPixels": 1679,
+    "padding": 24,
+    "svgBytes": 1872,
+    "svgSha256": "57287dec9ebd2571c7e174bd322874a5617c566207137dafeb271d1062fbf33f"
+  },
+  {
+    "id": "e06-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      110,
+      717,
+      307,
+      907
+    ],
+    "inkPixels": 2256,
+    "padding": 24,
+    "svgBytes": 2390,
+    "svgSha256": "eb1fc2a3b7bd20f5df0bfed2a2bda9bf205aab359711dcbf25d1c405790508cf"
+  },
+  {
+    "id": "e06-2",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      89,
+      1803,
+      317,
+      1985
+    ],
+    "inkPixels": 2847,
+    "padding": 24,
+    "svgBytes": 2596,
+    "svgSha256": "cd877d0e9dda92aa1b0525189c5adeea9b20f97bc6f9d1cf09acb58a4da1458c"
+  },
+  {
+    "id": "e07-1",
+    "originalPixels": [
+      1376,
+      2278
+    ],
+    "cropPixels": [
+      89,
+      840,
+      300,
+      1014
+    ],
+    "inkPixels": 2277,
+    "padding": 24,
+    "svgBytes": 2142,
+    "svgSha256": "78889b6baad5bdce39296816beb8290a1911007474934f0af1226162a6817379"
+  },
+  {
+    "id": "e07-2",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      114,
+      840,
+      288,
+      1012
+    ],
+    "inkPixels": 1555,
+    "padding": 24,
+    "svgBytes": 1702,
+    "svgSha256": "7442fc91f763682c1e4c96d4527c695f9f2425ae266919c71463d89cc17fc3b3"
+  },
+  {
+    "id": "e08-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      93,
+      1730,
+      339,
+      2007
+    ],
+    "inkPixels": 3451,
+    "padding": 24,
+    "svgBytes": 2829,
+    "svgSha256": "1223c9629af58d320ad96f73212f2c1729bff229121b05b777412c33103da464"
+  },
+  {
+    "id": "w01-1",
+    "originalPixels": [
+      1376,
+      2278
+    ],
+    "cropPixels": [
+      99,
+      717,
+      442,
+      805
+    ],
+    "inkPixels": 3094,
+    "padding": 24,
+    "svgBytes": 2624,
+    "svgSha256": "99052df90833b51d3bd8bb0bce27842971806886d1f2a70376e3b66bbd4289e1"
+  },
+  {
+    "id": "w02-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/r07-centerline.svg",
+    "svgBytes": 58965,
+    "svgSha256": "5852c927f19f0c8a88bc40ee477104f9ef386a4dd8e8348725bd2f6bfd75cc76"
+  },
+  {
+    "id": "w03-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      101,
+      634,
+      288,
+      772
+    ],
+    "inkPixels": 1713,
+    "padding": 24,
+    "svgBytes": 1789,
+    "svgSha256": "84c4b5e6d3d7dd9a66abaf3b9a6e8df5977b13897961f2d5592802cba1f34665"
+  },
+  {
+    "id": "w04-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      89,
+      1794,
+      145,
+      1864
+    ],
+    "inkPixels": 174,
+    "padding": 24,
+    "svgBytes": 530,
+    "svgSha256": "5cd259381f1c6b7b4f1ad619fb83f61a00740748716eaf82554be2651b53bbac"
+  },
+  {
+    "id": "w04-2",
+    "originalPixels": [
+      1621,
+      1273
+    ],
+    "cropPixels": [
+      983,
+      987,
+      1014,
+      1033
+    ],
+    "inkPixels": 1624,
+    "padding": 24,
+    "svgBytes": 834,
+    "svgSha256": "9157268ace1c70800b5890ee246a8c96e0c7e835ec4bdcd2ac0ca3a5867d0ed8"
+  },
+  {
+    "id": "w05-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      92,
+      232,
+      166,
+      307
+    ],
+    "inkPixels": 580,
+    "padding": 24,
+    "svgBytes": 775,
+    "svgSha256": "0e5677d7af8ec46de0790283a3f2ff049d1812fb15efa10e1379dfa7b150d8c1"
+  },
+  {
+    "id": "w05-2",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      93,
+      929,
+      163,
+      1006
+    ],
+    "inkPixels": 424,
+    "padding": 24,
+    "svgBytes": 853,
+    "svgSha256": "a1d09feacfa03e7400f7326d8e121217ed0efc9ec62a8f114293b25fa2a304d3"
+  },
+  {
+    "id": "w06-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      103,
+      1579,
+      170,
+      1652
+    ],
+    "inkPixels": 319,
+    "padding": 24,
+    "svgBytes": 764,
+    "svgSha256": "c66e50111c70a033aa72fcb18b3d0373e4afa95fd1d290d6adb472f7e4385372"
+  },
+  {
+    "id": "w06-2",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      106,
+      210,
+      188,
+      289
+    ],
+    "inkPixels": 411,
+    "padding": 24,
+    "svgBytes": 766,
+    "svgSha256": "fc0c87ba1c085ba4c01076284125f415b3f631c95f70afdd012f821674e3102b"
+  },
+  {
+    "id": "w07-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      107,
+      752,
+      185,
+      845
+    ],
+    "inkPixels": 498,
+    "padding": 24,
+    "svgBytes": 640,
+    "svgSha256": "a6b277f8b05a165648adc2d2c692e60ab5fbd8581edab8fd33268e4ab38fa63a"
+  },
+  {
+    "id": "w07-2",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      106,
+      1344,
+      200,
+      1450
+    ],
+    "inkPixels": 470,
+    "padding": 24,
+    "svgBytes": 897,
+    "svgSha256": "c76531b8c1034a112e4317f9c77c883f945065b4bebd9d7f8a6f7bb6bfcacf49"
+  },
+  {
+    "id": "w08-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      121,
+      213,
+      208,
+      289
+    ],
+    "inkPixels": 585,
+    "padding": 24,
+    "svgBytes": 926,
+    "svgSha256": "c76f7081192cb29fb5472f6ac336730185424e3f7f0a4bb29c85e8b39c1cd2d5"
+  },
+  {
+    "id": "w08-2",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      110,
+      756,
+      186,
+      855
+    ],
+    "inkPixels": 510,
+    "padding": 24,
+    "svgBytes": 667,
+    "svgSha256": "4f5e3acc70b04a840fa280232c114f6d32966f72fbbbeead2876775d19c68c13"
+  },
+  {
+    "id": "c01-1",
+    "reconstruction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected.",
+    "vectorSource": "tools/source-tracings/capital-c01.svg",
+    "svgBytes": 4126,
+    "svgSha256": "7a9fb14d8b24e588b4208ec16500958153a81d4147f0d743a48744321c0ad4d0"
+  },
+  {
+    "id": "c02-1",
+    "reconstruction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected.",
+    "vectorSource": "tools/source-tracings/capital-c02.svg",
+    "svgBytes": 4467,
+    "svgSha256": "1f3f84941164d850c6ce28d3728eafd90472f3efda6cbc397e81da44df1a2219"
+  },
+  {
+    "id": "c03-1",
+    "reconstruction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected.",
+    "vectorSource": "tools/source-tracings/capital-c03.svg",
+    "svgBytes": 4051,
+    "svgSha256": "43cea0436bd324a6bbd9abdbf1304e4698cfec47efd88654a71eda724cfa2389"
+  },
+  {
+    "id": "c04-1",
+    "reconstruction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected.",
+    "vectorSource": "tools/source-tracings/capital-c04.svg",
+    "svgBytes": 2882,
+    "svgSha256": "90c56975ea8a547b318d79d4e0c36b18d25d547b5c5579a1eb1ff19660302499"
+  },
+  {
+    "id": "c05-1",
+    "reconstruction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected.",
+    "vectorSource": "tools/source-tracings/capital-c05.svg",
+    "svgBytes": 3360,
+    "svgSha256": "79a34650cca76bb993d0c5db67926f1e9c1eb7588c35ab021b75c07eaadabb61"
+  },
+  {
+    "id": "c06-1",
+    "reconstruction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected.",
+    "vectorSource": "tools/source-tracings/capital-c06.svg",
+    "svgBytes": 2719,
+    "svgSha256": "ffbb9008c19c917be7eb79134e04b131f01eac893a4f7b99deebf8fbe7916a5f"
+  },
+  {
+    "id": "c07-1",
+    "reconstruction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected.",
+    "vectorSource": "tools/source-tracings/capital-c07.svg",
+    "svgBytes": 2667,
+    "svgSha256": "9136ba196a80b345c62916dedf6a71c98494354c825504aeb950f471f5bff267"
+  },
+  {
+    "id": "c08-1",
+    "reconstruction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected.",
+    "vectorSource": "tools/source-tracings/capital-c08.svg",
+    "svgBytes": 1587,
+    "svgSha256": "b8faf4618674accf238d2271a551371d68421d95f461c4d6db74b4b0a28fb870"
+  },
+  {
+    "id": "c09-1",
+    "reconstruction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected.",
+    "vectorSource": "tools/source-tracings/capital-c09.svg",
+    "svgBytes": 8156,
+    "svgSha256": "64e13e4a93325827900dc3a8d908e6dc966ddbab1e416f0e6206fd3f0ba77d5c"
+  },
+  {
+    "id": "c10-1",
+    "reconstruction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected.",
+    "vectorSource": "tools/source-tracings/capital-c10.svg",
+    "svgBytes": 3107,
+    "svgSha256": "882eca45c97af41c13da167bd858e5b3f1ee159fd7dcfedbfe2f31f5caa39c68"
+  },
+  {
+    "id": "r01-1",
+    "reconstruction": "Regularized source-based redraw of the heavy-to-fine straight shade, with clean parallel rules and a 52-degree stroke axis.",
+    "vectorSource": "tools/source-tracings/r01.svg",
+    "svgBytes": 397,
+    "svgSha256": "03c5a7d834181a3b302cbe04450402170a9c3cf7e96ab7bf45fd7d8e126e6de8"
+  },
+  {
+    "id": "r02-1",
+    "originalPixels": [
+      1371,
+      2269
+    ],
+    "cropPixels": [
+      144,
+      1237,
+      365,
+      1398
+    ],
+    "inkPixels": 2348,
+    "padding": 24,
+    "svgBytes": 792,
+    "svgSha256": "0f13f8e5ef55ba1ec0aa7f55553887a21678c396a8321f553dc1140f6dcccf94"
+  },
+  {
+    "id": "r03-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/r03-centerline.svg",
+    "svgBytes": 24762,
+    "svgSha256": "fcd32e78fb508fac84b78519eaaba5062cc99c8c25fee9b23e6bf36ffaee4620"
+  },
+  {
+    "id": "r04-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/r04-centerline.svg",
+    "svgBytes": 6442,
+    "svgSha256": "198a2c62ba726a558b90482cad31aa07c10b65776632d346f21d4854fd886e69"
+  },
+  {
+    "id": "r05-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/r05-centerline.svg",
+    "svgBytes": 132482,
+    "svgSha256": "9953f26af0aa1d3bb30cbd679992dc5e0365844e622466dcb2cf649e0fa989ab"
+  },
+  {
+    "id": "r06-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/r06-centerline.svg",
+    "svgBytes": 250222,
+    "svgSha256": "8cd67e94837144aba64df45fbfea2caaea5ecc7534c18e5dbbfe760a44909d4d"
+  },
+  {
+    "id": "r07-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/r07-centerline.svg",
+    "svgBytes": 58965,
+    "svgSha256": "5852c927f19f0c8a88bc40ee477104f9ef386a4dd8e8348725bd2f6bfd75cc76"
+  },
+  {
+    "id": "a01-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/a01-centerline.svg",
+    "svgBytes": 7245,
+    "svgSha256": "60468f2e007e55107ce8d761092bb237c1256671845e1b1ae754a5e02e944e54"
+  },
+  {
+    "id": "a02-1",
+    "reconstruction": "Regularized redraw of the progressive slanted oval exercise in Compendium Plate 48, with a 52-degree ellipse axis, continuous hairlines and selective downstroke shading.",
+    "vectorSource": "tools/source-tracings/a02.svg",
+    "svgBytes": 77825,
+    "svgSha256": "665902e5cfc3ac63b25f589d8c4ba451ff7d81c6299ad6b60a8c8f01e12e2d78"
+  },
+  {
+    "id": "a03-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/a03-centerline.svg",
+    "svgBytes": 8531,
+    "svgSha256": "ea231e96f01ccb405770431e6e92b6dcffb50a63d15b958745410b6d5a54caf0"
+  },
+  {
+    "id": "a04-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/a04-centerline.svg",
+    "svgBytes": 7240,
+    "svgSha256": "60d03d91cd4d76bbf3ace101ec14160442557f0a639901dcb8b54df0f01802c5"
+  },
+  {
+    "id": "a05-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/a05-centerline.svg",
+    "svgBytes": 7186,
+    "svgSha256": "8258d016cff10df1a1ad6e25ea5742e7b77988704df487a11fc4046bd27ff641"
+  },
+  {
+    "id": "a06-1",
+    "reconstruction": "Source-traced Bezier reconstruction of the four-row compound flourish in Compendium Plate 48, with smooth continuous hairlines and controlled tapered shading.",
+    "vectorSource": "tools/source-tracings/a06.svg",
+    "svgBytes": 22674,
+    "svgSha256": "f80ef81cceab3c2770ed40a9d44a2d82c1fc95b1615c03689a31d23963d7f612"
+  },
+  {
+    "id": "a07-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/a07-centerline.svg",
+    "svgBytes": 19533,
+    "svgSha256": "e19cf907d010c5b9104bff20961b3d28fbd8cedd700c8e89b836392634e1ebfc"
+  },
+  {
+    "id": "a08-1",
+    "reconstruction": "Source-guided Bezier reconstruction of the visible letter routes; neighboring bird strokes and scan defects omitted.",
+    "vectorSource": "tools/source-tracings/verse-redrawn.svg",
+    "svgBytes": 13641,
+    "svgSha256": "e363ba059edb4783ea0fa390dce58ef658ac70bfd9d14513eec9a4a4b4cb6fba"
+  },
+  {
+    "id": "x01-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/x01-centerline.svg",
+    "svgBytes": 9226,
+    "svgSha256": "1a804487e49b21335a56bc17cfdb7783d7ee4b3c92826dff79e11107112ace07"
+  },
+  {
+    "id": "x02-1",
+    "reconstruction": "Smooth Bezier reconstruction of the concentric spiral sequence in Compendium Plate 49; coordinates follow the source curves, with continuous hairlines and tapered upper shading.",
+    "vectorSource": "tools/source-tracings/x02.svg",
+    "svgBytes": 58934,
+    "svgSha256": "b2632025ec27e8727ebb32d656f44eaef0e7de8771615eac4cba144d22467ded"
+  },
+  {
+    "id": "x03-1",
+    "reconstruction": "Smooth source-guided Bezier reconstruction of the bird in Compendium Plate 51, rotated 90 degrees counterclockwise for study. Body and framework stages isolate the same figure\u2019s construction routes.",
+    "vectorSource": "tools/source-tracings/bird129-body-stage.svg",
+    "svgBytes": 1762,
+    "svgSha256": "595348d5a1ed90d2f67b7715f6a13520c3f92d9a85f6cffac06fa9b353d5fd17"
+  },
+  {
+    "id": "x03-2",
+    "reconstruction": "Smooth source-guided Bezier reconstruction of the bird in Compendium Plate 51, rotated 90 degrees counterclockwise for study. Body and framework stages isolate the same figure\u2019s construction routes.",
+    "vectorSource": "tools/source-tracings/bird129-framework.svg",
+    "svgBytes": 2118,
+    "svgSha256": "d8fb41b5182c8bae331b73fe6dcbd823e2bb3bf6ae510b14f54a04e6f1625c39"
+  },
+  {
+    "id": "x04-1",
+    "reconstruction": "Smooth source-guided Bezier reconstruction of the bird in Compendium Plate 51, rotated 90 degrees counterclockwise for study. Body and framework stages isolate the same figure\u2019s construction routes.",
+    "vectorSource": "tools/source-tracings/bird129-redrawn.svg",
+    "svgBytes": 3859,
+    "svgSha256": "132a1122cbede6b46ef4f956e4dc59d39d82b401f626dc281516f4de5c98fcf7"
+  },
+  {
+    "id": "x05-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/x05-centerline.svg",
+    "svgBytes": 5612,
+    "svgSha256": "517c071886f32b5c790ec1bd9d4e2d3511720c9b3f8f2dd86b29c25bac8c1203"
+  },
+  {
+    "id": "x06-1",
+    "reconstruction": "New teaching arrangement of source-guided bird and lettering reconstructions, derived from supplied physical pages129 and133; not presented as a facsimile of the original page.",
+    "vectorSource": "tools/source-tracings/composition-redrawn.svg",
+    "svgBytes": 18058,
+    "svgSha256": "00ed3fc52e1f9f8186581c5ad0d239aca3daca690452c067a47c7145d3f1ccfb"
+  },
+  {
+    "id": "x07-1",
+    "reconstruction": "Smooth source-guided Bezier reconstruction of the bird in Compendium Plate 51, rotated 90 degrees counterclockwise for study. Body and framework stages isolate the same figure\u2019s construction routes.",
+    "vectorSource": "tools/source-tracings/bird129-redrawn.svg",
+    "svgBytes": 3859,
+    "svgSha256": "132a1122cbede6b46ef4f956e4dc59d39d82b401f626dc281516f4de5c98fcf7"
+  },
+  {
+    "id": "s01-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/s01-centerline.svg",
+    "svgBytes": 13409,
+    "svgSha256": "40945efe8f15842706300ad39385f9602f54546ef39e465dc89071da20d18fb4"
+  },
+  {
+    "id": "s02-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/s02-centerline.svg",
+    "svgBytes": 13402,
+    "svgSha256": "a44f49c5ea49d6c98e1abb48d6cb04362bc0a01cdcead93bf1340fdce72fb39f"
+  },
+  {
+    "id": "s03-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/s03-centerline.svg",
+    "svgBytes": 19536,
+    "svgSha256": "c4944372889de54182a8e304c22aaa6908be9d9b2934c3550f6d2967351bf93b"
+  },
+  {
+    "id": "s04-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/s04-centerline.svg",
+    "svgBytes": 13401,
+    "svgSha256": "f8b367c0824b2c4b35808d9ede929790124fcf25ffcf80719fcfc17d2287e08b"
+  },
+  {
+    "id": "s05-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/s05-centerline.svg",
+    "svgBytes": 28483,
+    "svgSha256": "5eddaa3bc1ad810da5aa0c7d204337d12e79fc6ea25f0e894bc9f21c849ca46e"
+  },
+  {
+    "id": "s06-1",
+    "reconstruction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "vectorSource": "tools/source-tracings/s06-centerline.svg",
+    "svgBytes": 19542,
+    "svgSha256": "c35dd095b4ade6448d4e9aa5683531d08073e3ca47271a35d69b54607a78f051"
+  }
+]

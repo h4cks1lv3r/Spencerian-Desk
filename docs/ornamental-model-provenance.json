@@ -1,0 +1,3079 @@
+{
+  "lowercase": [
+    {
+      "id": "l01-1",
+      "title": "i · Zaner ornamental model",
+      "transcription": "i",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "l01-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "cropPixels": [
+        3309,
+        1899,
+        3538,
+        2011
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 240.326,
+      "height": 106.689,
+      "erase": [],
+      "glyph": "i",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        3309,
+        1899,
+        3538,
+        2011
+      ],
+      "baseline": 69.85,
+      "xHeight": 38.18,
+      "sourceBaselineY": 1987.85,
+      "sourceXHeight": 38.18,
+      "sourceInkBoundsPixels": [
+        20,
+        19,
+        229,
+        94
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        5.29,
+        67.31
+      ],
+      "exit": [
+        208.92,
+        44.4
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "l02-1",
+      "title": "u · Zaner ornamental model",
+      "transcription": "u",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "l02-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "cropPixels": [
+        1033,
+        2051,
+        1308,
+        2163
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 248.5,
+      "height": 76.441,
+      "erase": [],
+      "glyph": "u",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1033,
+        2051,
+        1308,
+        2163
+      ],
+      "baseline": 45.29,
+      "xHeight": 45.81,
+      "sourceBaselineY": 2125.29,
+      "sourceXHeight": 45.81,
+      "sourceInkBoundsPixels": [
+        32,
+        29,
+        249,
+        74
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        4.01,
+        40.2
+      ],
+      "exit": [
+        212.72,
+        4.57
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "l03-1",
+      "title": "w · Zaner ornamental model",
+      "transcription": "w",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "l03-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 19,
+      "printedPage": "17",
+      "cropPixels": [
+        1061,
+        435,
+        1374,
+        542
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 287.977,
+      "height": 86.256,
+      "erase": [],
+      "glyph": "w",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1061,
+        435,
+        1374,
+        542
+      ],
+      "baseline": 47.51,
+      "xHeight": 45.81,
+      "sourceBaselineY": 506.51,
+      "sourceXHeight": 45.81,
+      "sourceInkBoundsPixels": [
+        29,
+        24,
+        286,
+        79
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        4.46,
+        44.96
+      ],
+      "exit": [
+        251.35,
+        6.78
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "l04-1",
+      "title": "n · Zaner ornamental model",
+      "transcription": "n",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "l04-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "cropPixels": [
+        1033,
+        1140,
+        1313,
+        1242
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 257.288,
+      "height": 81.655,
+      "erase": [],
+      "glyph": "n",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1033,
+        1140,
+        1313,
+        1242
+      ],
+      "baseline": 49.18,
+      "xHeight": 38.18,
+      "sourceBaselineY": 1219.18,
+      "sourceXHeight": 38.18,
+      "sourceInkBoundsPixels": [
+        32,
+        30,
+        258,
+        80
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        6.56,
+        46.64
+      ],
+      "exit": [
+        217.81,
+        5.91
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "l05-1",
+      "title": "m · Zaner ornamental model",
+      "transcription": "m",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "l05-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "cropPixels": [
+        1041,
+        1298,
+        1374,
+        1400
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 315.681,
+      "height": 88.715,
+      "erase": [],
+      "glyph": "m",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1041,
+        1298,
+        1374,
+        1400
+      ],
+      "baseline": 52.35,
+      "xHeight": 40.72,
+      "sourceBaselineY": 1369.35,
+      "sourceXHeight": 40.72,
+      "sourceInkBoundsPixels": [
+        28,
+        19,
+        312,
+        76
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        5.1,
+        47.26
+      ],
+      "exit": [
+        272.35,
+        6.54
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "l06-1",
+      "title": "x · Zaner ornamental model",
+      "transcription": "x",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "l06-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "cropPixels": [
+        1038,
+        1443,
+        1288,
+        1548
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 221.5,
+      "height": 75.723,
+      "erase": [],
+      "glyph": "x",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1038,
+        1443,
+        1288,
+        1548
+      ],
+      "baseline": 42.07,
+      "xHeight": 38.18,
+      "sourceBaselineY": 1522.07,
+      "sourceXHeight": 38.18,
+      "sourceInkBoundsPixels": [
+        30,
+        37,
+        220,
+        81
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        3.56,
+        39.52
+      ],
+      "exit": [
+        186.81,
+        1.34
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "l07-1",
+      "title": "v · Zaner ornamental model",
+      "transcription": "v",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "l07-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "cropPixels": [
+        1038,
+        1596,
+        1293,
+        1703
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 208.079,
+      "height": 80.883,
+      "erase": [],
+      "glyph": "v",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1038,
+        1596,
+        1293,
+        1703
+      ],
+      "baseline": 45.15,
+      "xHeight": 43.27,
+      "sourceBaselineY": 1667.15,
+      "sourceXHeight": 43.27,
+      "sourceInkBoundsPixels": [
+        27,
+        26,
+        204,
+        75
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        6.56,
+        42.6
+      ],
+      "exit": [
+        172.0,
+        4.42
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "l08-1",
+      "title": "o · Zaner ornamental model",
+      "transcription": "o",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "l08-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 19,
+      "printedPage": "17",
+      "cropPixels": [
+        1056,
+        1196,
+        1313,
+        1301
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 234.333,
+      "height": 80.907,
+      "erase": [],
+      "glyph": "o",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1056,
+        1196,
+        1313,
+        1301
+      ],
+      "baseline": 43.63,
+      "xHeight": 43.27,
+      "sourceBaselineY": 1272.63,
+      "sourceXHeight": 43.27,
+      "sourceInkBoundsPixels": [
+        29,
+        33,
+        232,
+        82
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        6.92,
+        41.09
+      ],
+      "exit": [
+        195.27,
+        2.91
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "l09-1",
+      "title": "a · Zaner ornamental model",
+      "transcription": "a",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "l09-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 19,
+      "printedPage": "17",
+      "cropPixels": [
+        1056,
+        1349,
+        1362,
+        1456
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 277.833,
+      "height": 97.638,
+      "erase": [],
+      "glyph": "a",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1056,
+        1349,
+        1362,
+        1456
+      ],
+      "baseline": 56.8,
+      "xHeight": 43.27,
+      "sourceBaselineY": 1422.8,
+      "sourceXHeight": 43.27,
+      "sourceInkBoundsPixels": [
+        33,
+        17,
+        279,
+        83
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        2.92,
+        59.35
+      ],
+      "exit": [
+        239.63,
+        5.9
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "l10-1",
+      "title": "e · Zaner ornamental model",
+      "transcription": "e",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "l10-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 19,
+      "printedPage": "17",
+      "cropPixels": [
+        1125,
+        743,
+        1313,
+        842
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 199.0,
+      "height": 77.352,
+      "erase": [],
+      "glyph": "e",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1125,
+        743,
+        1313,
+        842
+      ],
+      "baseline": 39.94,
+      "xHeight": 38.18,
+      "sourceBaselineY": 811.94,
+      "sourceXHeight": 38.18,
+      "sourceInkBoundsPixels": [
+        0,
+        29,
+        167,
+        75
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        5.1,
+        34.85
+      ],
+      "exit": [
+        155.27,
+        1.76
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "l10-2",
+      "title": "c · Zaner ornamental model",
+      "transcription": "c",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "l10-2.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 19,
+      "printedPage": "17",
+      "cropPixels": [
+        1056,
+        593,
+        1296,
+        695
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 227.262,
+      "height": 80.0,
+      "erase": [
+        [
+          226,
+          30,
+          237,
+          42
+        ]
+      ],
+      "glyph": "c",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1056,
+        593,
+        1296,
+        695
+      ],
+      "baseline": 43.77,
+      "xHeight": 40.72,
+      "sourceBaselineY": 661.77,
+      "sourceXHeight": 40.72,
+      "sourceInkBoundsPixels": [
+        31,
+        25,
+        237,
+        73
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        4.92,
+        43.77
+      ],
+      "exit": [
+        193.27,
+        3.04
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "e01-1",
+      "title": "r · Zaner ornamental model",
+      "transcription": "r",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "e01-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "cropPixels": [
+        1036,
+        1733,
+        1288,
+        1843
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 213.769,
+      "height": 82.544,
+      "erase": [],
+      "glyph": "r",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1036,
+        1733,
+        1288,
+        1843
+      ],
+      "baseline": 45.86,
+      "xHeight": 40.72,
+      "sourceBaselineY": 1819.86,
+      "sourceXHeight": 40.72,
+      "sourceInkBoundsPixels": [
+        27,
+        41,
+        209,
+        92
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        6.01,
+        45.86
+      ],
+      "exit": [
+        174.0,
+        7.68
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "e01-2",
+      "title": "s · Zaner ornamental model",
+      "transcription": "s",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "e01-2.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 19,
+      "printedPage": "17",
+      "cropPixels": [
+        1066,
+        1044,
+        1290,
+        1148
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 202.778,
+      "height": 83.408,
+      "erase": [],
+      "glyph": "s",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1066,
+        1044,
+        1290,
+        1148
+      ],
+      "baseline": 48.46,
+      "xHeight": 45.81,
+      "sourceBaselineY": 1122.46,
+      "sourceXHeight": 45.81,
+      "sourceInkBoundsPixels": [
+        27,
+        30,
+        198,
+        83
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        4.01,
+        45.92
+      ],
+      "exit": [
+        161.81,
+        7.74
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "e02-1",
+      "title": "t · Zaner ornamental model",
+      "transcription": "t",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "e02-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 21,
+      "printedPage": "19",
+      "cropPixels": [
+        1028,
+        817,
+        1295,
+        992
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 230.935,
+      "height": 151.462,
+      "erase": [],
+      "glyph": "t",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1028,
+        817,
+        1295,
+        992
+      ],
+      "baseline": 117.91,
+      "xHeight": 45.81,
+      "sourceBaselineY": 961.91,
+      "sourceXHeight": 45.81,
+      "sourceInkBoundsPixels": [
+        30,
+        27,
+        229,
+        147
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        5.7,
+        115.37
+      ],
+      "exit": [
+        196.56,
+        72.11
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "e02-2",
+      "title": "d · Zaner ornamental model",
+      "transcription": "d",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "e02-2.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 21,
+      "printedPage": "19",
+      "cropPixels": [
+        1028,
+        1000,
+        1295,
+        1186
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 234.235,
+      "height": 153.463,
+      "erase": [],
+      "glyph": "d",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1028,
+        1000,
+        1295,
+        1186
+      ],
+      "baseline": 121.31,
+      "xHeight": 45.81,
+      "sourceBaselineY": 1155.31,
+      "sourceXHeight": 45.81,
+      "sourceInkBoundsPixels": [
+        31,
+        34,
+        234,
+        156
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        4.7,
+        116.22
+      ],
+      "exit": [
+        198.1,
+        70.42
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "e03-1",
+      "title": "p · Zaner ornamental model",
+      "transcription": "p",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "e03-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 21,
+      "printedPage": "19",
+      "cropPixels": [
+        1603,
+        1389,
+        2036,
+        1652
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 465.0,
+      "height": 253.697,
+      "erase": [
+        [
+          60,
+          251,
+          66,
+          256
+        ]
+      ],
+      "glyph": "p",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1603,
+        1389,
+        2036,
+        1652
+      ],
+      "baseline": 127.57,
+      "xHeight": 45.81,
+      "sourceBaselineY": 1539.57,
+      "sourceXHeight": 45.81,
+      "sourceInkBoundsPixels": [
+        0,
+        23,
+        433,
+        256
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        0.18,
+        122.48
+      ],
+      "exit": [
+        432.79,
+        125.02
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "e03-2",
+      "title": "q · Zaner ornamental model",
+      "transcription": "q",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "e03-2.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 27,
+      "printedPage": "25",
+      "cropPixels": [
+        1080,
+        514,
+        1335,
+        722
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 227.971,
+      "height": 184.535,
+      "erase": [],
+      "glyph": "q",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1080,
+        514,
+        1335,
+        722
+      ],
+      "baseline": 38.31,
+      "xHeight": 45.76,
+      "sourceBaselineY": 592.31,
+      "sourceXHeight": 45.76,
+      "sourceInkBoundsPixels": [
+        29,
+        40,
+        226,
+        193
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        4.44,
+        35.77
+      ],
+      "exit": [
+        190.02,
+        0.18
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "e04-1",
+      "title": "l · Zaner ornamental model",
+      "transcription": "l",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "e04-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 23,
+      "printedPage": "21",
+      "cropPixels": [
+        3523,
+        1771,
+        3783,
+        1967
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 237.289,
+      "height": 176.998,
+      "erase": [],
+      "glyph": "l",
+      "sourceOrientationDegrees": 180,
+      "uprightCropPixels": [
+        1047,
+        867,
+        1307,
+        1063
+      ],
+      "baseline": 141.09,
+      "xHeight": 45.76,
+      "sourceBaselineY": 1032.09,
+      "sourceXHeight": 45.76,
+      "sourceInkBoundsPixels": [
+        28,
+        26,
+        234,
+        172
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        7.39,
+        141.09
+      ],
+      "exit": [
+        195.51,
+        100.42
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "e04-2",
+      "title": "h · Zaner ornamental model",
+      "transcription": "h",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "e04-2.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 23,
+      "printedPage": "21",
+      "cropPixels": [
+        3478,
+        1321,
+        3788,
+        1527
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 280.488,
+      "height": 176.841,
+      "erase": [],
+      "glyph": "h",
+      "sourceOrientationDegrees": 180,
+      "uprightCropPixels": [
+        1042,
+        1307,
+        1352,
+        1513
+      ],
+      "baseline": 142.05,
+      "xHeight": 45.76,
+      "sourceBaselineY": 1482.05,
+      "sourceXHeight": 45.76,
+      "sourceInkBoundsPixels": [
+        34,
+        28,
+        283,
+        173
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        8.85,
+        139.51
+      ],
+      "exit": [
+        242.73,
+        96.29
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "e05-1",
+      "title": "k · Zaner ornamental model",
+      "transcription": "k",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "e05-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 23,
+      "printedPage": "21",
+      "cropPixels": [
+        3490,
+        1085,
+        3788,
+        1296
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 266.762,
+      "height": 186.825,
+      "erase": [
+        [
+          214,
+          93,
+          218,
+          97
+        ]
+      ],
+      "glyph": "k",
+      "sourceOrientationDegrees": 180,
+      "uprightCropPixels": [
+        1042,
+        1538,
+        1340,
+        1749
+      ],
+      "baseline": 148.38,
+      "xHeight": 45.76,
+      "sourceBaselineY": 1713.38,
+      "sourceXHeight": 45.76,
+      "sourceInkBoundsPixels": [
+        35,
+        29,
+        270,
+        184
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        5.31,
+        148.38
+      ],
+      "exit": [
+        231.56,
+        107.71
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "e05-2",
+      "title": "b · Zaner ornamental model",
+      "transcription": "b",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "e05-2.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 23,
+      "printedPage": "21",
+      "cropPixels": [
+        3528,
+        1545,
+        3785,
+        1749
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 230.096,
+      "height": 183.805,
+      "erase": [],
+      "glyph": "b",
+      "sourceOrientationDegrees": 180,
+      "uprightCropPixels": [
+        1045,
+        1085,
+        1302,
+        1289
+      ],
+      "baseline": 150.88,
+      "xHeight": 45.76,
+      "sourceBaselineY": 1260.88,
+      "sourceXHeight": 45.76,
+      "sourceInkBoundsPixels": [
+        30,
+        27,
+        229,
+        179
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        4.85,
+        145.8
+      ],
+      "exit": [
+        187.88,
+        107.67
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "e06-1",
+      "title": "j · Zaner ornamental model",
+      "transcription": "j",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "e06-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 25,
+      "printedPage": "23",
+      "cropPixels": [
+        991,
+        815,
+        1274,
+        1068
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 253.543,
+      "height": 220.443,
+      "erase": [],
+      "glyph": "j",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        991,
+        815,
+        1274,
+        1068
+      ],
+      "baseline": 82.17,
+      "xHeight": 43.32,
+      "sourceBaselineY": 930.17,
+      "sourceXHeight": 43.32,
+      "sourceInkBoundsPixels": [
+        31,
+        33,
+        253,
+        222
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        38.14,
+        71.98
+      ],
+      "exit": [
+        219.08,
+        41.4
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "e06-2",
+      "title": "y · Zaner ornamental model",
+      "transcription": "y",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "e06-2.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 25,
+      "printedPage": "23",
+      "cropPixels": [
+        1012,
+        1081,
+        1300,
+        1297
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 258.462,
+      "height": 189.283,
+      "erase": [],
+      "glyph": "y",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1012,
+        1081,
+        1300,
+        1297
+      ],
+      "baseline": 26.69,
+      "xHeight": 43.32,
+      "sourceBaselineY": 1141.69,
+      "sourceXHeight": 43.32,
+      "sourceInkBoundsPixels": [
+        28,
+        34,
+        255,
+        192
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        20.14,
+        31.79
+      ],
+      "exit": [
+        221.47,
+        6.31
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "e07-1",
+      "title": "g · Zaner ornamental model",
+      "transcription": "g",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "e07-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 25,
+      "printedPage": "23",
+      "cropPixels": [
+        1017,
+        1315,
+        1279,
+        1519
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 231.664,
+      "height": 179.906,
+      "erase": [],
+      "glyph": "g",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1017,
+        1315,
+        1279,
+        1519
+      ],
+      "baseline": 31.15,
+      "xHeight": 43.32,
+      "sourceBaselineY": 1376.15,
+      "sourceXHeight": 43.32,
+      "sourceInkBoundsPixels": [
+        31,
+        30,
+        231,
+        178
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        4.5,
+        36.24
+      ],
+      "exit": [
+        195.63,
+        8.21
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "e07-2",
+      "title": "z · Zaner ornamental model",
+      "transcription": "z",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "e07-2.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 25,
+      "printedPage": "23",
+      "cropPixels": [
+        996,
+        1537,
+        1267,
+        1743
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 236.904,
+      "height": 198.588,
+      "erase": [],
+      "glyph": "z",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        996,
+        1537,
+        1267,
+        1743
+      ],
+      "baseline": 44.6,
+      "xHeight": 43.32,
+      "sourceBaselineY": 1610.6,
+      "sourceXHeight": 43.32,
+      "sourceInkBoundsPixels": [
+        29,
+        29,
+        234,
+        196
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        32.59,
+        36.96
+      ],
+      "exit": [
+        198.24,
+        6.38
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "e08-1",
+      "title": "f · Zaner ornamental model",
+      "transcription": "f",
+      "focus": "Keep the fine hairlines, open interior and consistent main slant shown in this source model.",
+      "file": "e08-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 27,
+      "printedPage": "25",
+      "cropPixels": [
+        1075,
+        763,
+        1317,
+        1078
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 215.769,
+      "height": 298.93,
+      "erase": [],
+      "glyph": "f",
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        1075,
+        763,
+        1317,
+        1078
+      ],
+      "baseline": 144.41,
+      "xHeight": 45.76,
+      "sourceBaselineY": 930.41,
+      "sourceXHeight": 45.76,
+      "sourceInkBoundsPixels": [
+        31,
+        23,
+        216,
+        290
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background.",
+      "entry": [
+        4.9,
+        144.41
+      ],
+      "exit": [
+        177.76,
+        101.19
+      ],
+      "metricsNote": "Approximate anchors measured from the source; baseline/entry/exit are in upright final SVG viewBox user units."
+    },
+    {
+      "id": "w01-1",
+      "title": "mug · connected letter rhythm",
+      "transcription": "mug",
+      "focus": "Follow the m-to-u join without adding pressure; retain the same small-letter height into the g.",
+      "file": "w01-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 27,
+      "printedPage": "25",
+      "cropPixels": [
+        3267,
+        1879,
+        3750,
+        2092
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 467.93,
+      "height": 177.711,
+      "erase": [],
+      "glyph": null,
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        3267,
+        1879,
+        3750,
+        2092
+      ],
+      "baseline": 39.88,
+      "xHeight": 45.76,
+      "sourceBaselineY": 1954.88,
+      "sourceXHeight": 45.76,
+      "sourceInkBoundsPixels": [
+        30,
+        36,
+        467,
+        183
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background."
+    },
+    {
+      "id": "w03-1",
+      "title": "time · dots and crossbars",
+      "transcription": "time",
+      "focus": "Place the i-dot and t-crossings after the connected body; keep their weight light.",
+      "file": "w03-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 21,
+      "printedPage": "19",
+      "cropPixels": [
+        651,
+        1629,
+        1369,
+        1870
+      ],
+      "threshold": 0.1,
+      "minArea": 12,
+      "width": 703.574,
+      "height": 214.547,
+      "erase": [],
+      "glyph": null,
+      "sourceOrientationDegrees": 0,
+      "uprightCropPixels": [
+        651,
+        1629,
+        1369,
+        1870
+      ],
+      "baseline": 169.67,
+      "xHeight": 45.81,
+      "sourceBaselineY": 1801.67,
+      "sourceXHeight": 45.81,
+      "sourceInkBoundsPixels": [
+        27,
+        3,
+        699,
+        186
+      ],
+      "method": "Locally normalized original source ink contours; no font substitution; white background."
+    },
+    {
+      "id": "f01-1",
+      "title": "i · u — light connected forms",
+      "transcription": "i · u",
+      "focus": "Compare the common small-letter height. Repeat each form lightly, keeping equal turns and a consistent main slant.",
+      "file": "f01-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "cropPixels": [
+        3309,
+        1899,
+        3538,
+        2011
+      ],
+      "componentCrops": [
+        [
+          3309,
+          1899,
+          3538,
+          2011
+        ],
+        [
+          1033,
+          2051,
+          1308,
+          2163
+        ]
+      ],
+      "width": 600,
+      "height": 170,
+      "baseline": 120,
+      "xHeight": 50,
+      "method": "Two authentic source letter models arranged side by side at a common x-height; no font substitution."
+    },
+    {
+      "id": "f07-1",
+      "title": "i · u — common height and width",
+      "transcription": "i · u",
+      "focus": "Compare the common small-letter height. Repeat each form lightly, keeping equal turns and a consistent main slant.",
+      "file": "f07-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 17,
+      "printedPage": "15",
+      "cropPixels": [
+        3309,
+        1899,
+        3538,
+        2011
+      ],
+      "componentCrops": [
+        [
+          3309,
+          1899,
+          3538,
+          2011
+        ],
+        [
+          1033,
+          2051,
+          1308,
+          2163
+        ]
+      ],
+      "width": 600,
+      "height": 170,
+      "baseline": 120,
+      "xHeight": 50,
+      "method": "Two authentic source letter models arranged side by side at a common x-height; no font substitution."
+    }
+  ],
+  "capitals": [
+    {
+      "id": "c01-1",
+      "title": "Capital family · O D C E",
+      "transcription": "O D C E",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "file": "c01-1.svg",
+      "width": 1995.25,
+      "height": 446.32,
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 60,
+      "printedPage": "58",
+      "sourcePages": [
+        39,
+        58,
+        60
+      ],
+      "sourceGlyphs": [
+        {
+          "character": "O",
+          "physicalPage": 60,
+          "printedPage": "58",
+          "cropPixels": [
+            4043,
+            1054,
+            4404,
+            1406
+          ],
+          "erase": [],
+          "attribution": "E. A. Lupfer"
+        },
+        {
+          "character": "D",
+          "physicalPage": 58,
+          "printedPage": "56",
+          "cropPixels": [
+            3894,
+            1328,
+            4419,
+            1647
+          ],
+          "erase": [],
+          "attribution": "E. A. Lupfer"
+        },
+        {
+          "character": "C",
+          "physicalPage": 39,
+          "printedPage": "37",
+          "cropPixels": [
+            2363,
+            1267,
+            2805,
+            1512
+          ],
+          "erase": [
+            [
+              313,
+              181,
+              358,
+              232
+            ]
+          ],
+          "attribution": "C. P. Zaner"
+        },
+        {
+          "character": "E",
+          "physicalPage": 39,
+          "printedPage": "37",
+          "cropPixels": [
+            642,
+            1554,
+            1067,
+            1828
+          ],
+          "erase": [
+            [
+              287,
+              200,
+              332,
+              255
+            ]
+          ],
+          "attribution": "C. P. Zaner"
+        }
+      ],
+      "method": "Source-based vector glyph montage; contour shapes unchanged."
+    },
+    {
+      "id": "c02-1",
+      "title": "Capital family · X W Z Q",
+      "transcription": "X W Z Q",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "file": "c02-1.svg",
+      "width": 2175.89,
+      "height": 538.64,
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 61,
+      "printedPage": "59",
+      "sourcePages": [
+        51,
+        60,
+        61
+      ],
+      "sourceGlyphs": [
+        {
+          "character": "X",
+          "physicalPage": 61,
+          "printedPage": "59",
+          "cropPixels": [
+            3803,
+            1803,
+            4395,
+            2193
+          ],
+          "erase": [
+            [
+              0,
+              64,
+              42,
+              174
+            ]
+          ],
+          "attribution": "E. A. Lupfer"
+        },
+        {
+          "character": "W",
+          "physicalPage": 51,
+          "printedPage": "49",
+          "cropPixels": [
+            2385,
+            868,
+            2783,
+            1127
+          ],
+          "erase": [
+            [
+              336,
+              200,
+              371,
+              255
+            ]
+          ],
+          "attribution": "C. P. Zaner"
+        },
+        {
+          "character": "Z",
+          "physicalPage": 61,
+          "printedPage": "59",
+          "cropPixels": [
+            3951,
+            2190,
+            4395,
+            2637
+          ],
+          "erase": [],
+          "attribution": "E. A. Lupfer"
+        },
+        {
+          "character": "Q",
+          "physicalPage": 60,
+          "printedPage": "58",
+          "cropPixels": [
+            3914,
+            1854,
+            4446,
+            2279
+          ],
+          "erase": [],
+          "attribution": "E. A. Lupfer"
+        }
+      ],
+      "method": "Source-based vector glyph montage; contour shapes unchanged."
+    },
+    {
+      "id": "c03-1",
+      "title": "Capital family · V U Y",
+      "transcription": "V U Y",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "file": "c03-1.svg",
+      "width": 1895.21,
+      "height": 492.5,
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 61,
+      "printedPage": "59",
+      "sourcePages": [
+        43,
+        61
+      ],
+      "sourceGlyphs": [
+        {
+          "character": "V",
+          "physicalPage": 61,
+          "printedPage": "59",
+          "cropPixels": [
+            3812,
+            1368,
+            4392,
+            1694
+          ],
+          "erase": [],
+          "attribution": "E. A. Lupfer"
+        },
+        {
+          "character": "U",
+          "physicalPage": 61,
+          "printedPage": "59",
+          "cropPixels": [
+            3519,
+            995,
+            4363,
+            1401
+          ],
+          "erase": [
+            [
+              0,
+              238,
+              270,
+              406
+            ]
+          ],
+          "attribution": "E. A. Lupfer"
+        },
+        {
+          "character": "Y",
+          "physicalPage": 43,
+          "printedPage": "41",
+          "cropPixels": [
+            963,
+            1182,
+            1282,
+            1536
+          ],
+          "erase": [],
+          "attribution": "C. P. Zaner"
+        }
+      ],
+      "method": "Source-based vector glyph montage; contour shapes unchanged."
+    },
+    {
+      "id": "c04-1",
+      "title": "Capital family · I J",
+      "transcription": "I J",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "file": "c04-1.svg",
+      "width": 1274.64,
+      "height": 534.71,
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 59,
+      "printedPage": "57",
+      "sourcePages": [
+        59
+      ],
+      "sourceGlyphs": [
+        {
+          "character": "I",
+          "physicalPage": 59,
+          "printedPage": "57",
+          "cropPixels": [
+            3841,
+            863,
+            4328,
+            1204
+          ],
+          "erase": [],
+          "attribution": "E. A. Lupfer"
+        },
+        {
+          "character": "J",
+          "physicalPage": 59,
+          "printedPage": "57",
+          "cropPixels": [
+            3684,
+            1285,
+            4315,
+            1713
+          ],
+          "erase": [],
+          "attribution": "E. A. Lupfer"
+        }
+      ],
+      "method": "Source-based vector glyph montage; contour shapes unchanged."
+    },
+    {
+      "id": "c05-1",
+      "title": "Capital family · A N M",
+      "transcription": "A N M",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "file": "c05-1.svg",
+      "width": 2363.23,
+      "height": 546.82,
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 39,
+      "printedPage": "37",
+      "sourcePages": [
+        39,
+        60
+      ],
+      "sourceGlyphs": [
+        {
+          "character": "A",
+          "physicalPage": 39,
+          "printedPage": "37",
+          "cropPixels": [
+            2370,
+            945,
+            2750,
+            1222
+          ],
+          "erase": [
+            [
+              210,
+              206,
+              261,
+              264
+            ]
+          ],
+          "attribution": "C. P. Zaner"
+        },
+        {
+          "character": "N",
+          "physicalPage": 60,
+          "printedPage": "58",
+          "cropPixels": [
+            3611,
+            622,
+            4452,
+            1077
+          ],
+          "erase": [
+            [
+              0,
+              181,
+              184,
+              322
+            ],
+            [
+              106,
+              142,
+              135,
+              171
+            ]
+          ],
+          "attribution": "E. A. Lupfer"
+        },
+        {
+          "character": "M",
+          "physicalPage": 60,
+          "printedPage": "58",
+          "cropPixels": [
+            3504,
+            232,
+            4452,
+            648
+          ],
+          "erase": [
+            [
+              0,
+              229,
+              319,
+              310
+            ]
+          ],
+          "attribution": "E. A. Lupfer"
+        }
+      ],
+      "method": "Source-based vector glyph montage; contour shapes unchanged."
+    },
+    {
+      "id": "c06-1",
+      "title": "Capital family · T F",
+      "transcription": "T F",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "file": "c06-1.svg",
+      "width": 1405.05,
+      "height": 482.57,
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 45,
+      "printedPage": "43",
+      "sourcePages": [
+        45,
+        58
+      ],
+      "sourceGlyphs": [
+        {
+          "character": "T",
+          "physicalPage": 45,
+          "printedPage": "43",
+          "cropPixels": [
+            2396,
+            892,
+            2943,
+            1236
+          ],
+          "erase": [
+            [
+              396,
+              106,
+              547,
+              345
+            ],
+            [
+              277,
+              235,
+              328,
+              274
+            ],
+            [
+              126,
+              325,
+              399,
+              345
+            ]
+          ],
+          "attribution": "C. P. Zaner"
+        },
+        {
+          "character": "F",
+          "physicalPage": 58,
+          "printedPage": "56",
+          "cropPixels": [
+            3723,
+            2102,
+            4432,
+            2469
+          ],
+          "erase": [],
+          "attribution": "E. A. Lupfer"
+        }
+      ],
+      "method": "Source-based vector glyph montage; contour shapes unchanged."
+    },
+    {
+      "id": "c07-1",
+      "title": "Capital family · S L",
+      "transcription": "S L",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "file": "c07-1.svg",
+      "width": 1054.22,
+      "height": 571.05,
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 47,
+      "printedPage": "45",
+      "sourcePages": [
+        47,
+        59
+      ],
+      "sourceGlyphs": [
+        {
+          "character": "S",
+          "physicalPage": 47,
+          "printedPage": "45",
+          "cropPixels": [
+            2349,
+            1246,
+            2734,
+            1491
+          ],
+          "erase": [
+            [
+              252,
+              194,
+              294,
+              245
+            ]
+          ],
+          "attribution": "C. P. Zaner"
+        },
+        {
+          "character": "L",
+          "physicalPage": 59,
+          "printedPage": "57",
+          "cropPixels": [
+            3841,
+            2093,
+            4337,
+            2573
+          ],
+          "erase": [],
+          "attribution": "E. A. Lupfer"
+        }
+      ],
+      "method": "Source-based vector glyph montage; contour shapes unchanged."
+    },
+    {
+      "id": "c08-1",
+      "title": "Capital family · G",
+      "transcription": "G",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "file": "c08-1.svg",
+      "width": 712.25,
+      "height": 431.53,
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 59,
+      "printedPage": "57",
+      "sourcePages": [
+        59
+      ],
+      "sourceGlyphs": [
+        {
+          "character": "G",
+          "physicalPage": 59,
+          "printedPage": "57",
+          "cropPixels": [
+            3722,
+            132,
+            4347,
+            496
+          ],
+          "erase": [
+            [
+              0,
+              61,
+              171,
+              274
+            ]
+          ],
+          "attribution": "E. A. Lupfer"
+        }
+      ],
+      "method": "Source-based vector glyph montage; contour shapes unchanged."
+    },
+    {
+      "id": "c09-1",
+      "title": "Capital family · P B R",
+      "transcription": "P B R",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "file": "c09-1.svg",
+      "width": 1502.96,
+      "height": 508.61,
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner and E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 45,
+      "printedPage": "43",
+      "sourcePages": [
+        45,
+        60
+      ],
+      "sourceGlyphs": [
+        {
+          "character": "P",
+          "physicalPage": 45,
+          "printedPage": "43",
+          "cropPixels": [
+            2785,
+            1214,
+            3178,
+            1484
+          ],
+          "erase": [],
+          "attribution": "C. P. Zaner"
+        },
+        {
+          "character": "B",
+          "physicalPage": 45,
+          "printedPage": "43",
+          "cropPixels": [
+            708,
+            1520,
+            1137,
+            1852
+          ],
+          "erase": [
+            [
+              367,
+              158,
+              428,
+              332
+            ],
+            [
+              290,
+              225,
+              345,
+              299
+            ]
+          ],
+          "attribution": "C. P. Zaner"
+        },
+        {
+          "character": "R",
+          "physicalPage": 60,
+          "printedPage": "58",
+          "cropPixels": [
+            3982,
+            2241,
+            4439,
+            2657
+          ],
+          "erase": [],
+          "attribution": "E. A. Lupfer"
+        }
+      ],
+      "method": "Source-based vector glyph montage; contour shapes unchanged."
+    },
+    {
+      "id": "c10-1",
+      "title": "Capital family · H K",
+      "transcription": "H K",
+      "focus": "Compare the main oval, the narrow shade, and the light return curves. Keep each capital readable before adding flourishes.",
+      "file": "c10-1.svg",
+      "width": 1456.57,
+      "height": 519.83,
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 59,
+      "printedPage": "57",
+      "sourcePages": [
+        59
+      ],
+      "sourceGlyphs": [
+        {
+          "character": "H",
+          "physicalPage": 59,
+          "printedPage": "57",
+          "cropPixels": [
+            3642,
+            502,
+            4347,
+            895
+          ],
+          "erase": [],
+          "attribution": "E. A. Lupfer"
+        },
+        {
+          "character": "K",
+          "physicalPage": 59,
+          "printedPage": "57",
+          "cropPixels": [
+            3726,
+            1710,
+            4357,
+            2103
+          ],
+          "erase": [
+            [
+              0,
+              174,
+              68,
+              296
+            ]
+          ],
+          "attribution": "E. A. Lupfer"
+        }
+      ],
+      "method": "Source-based vector glyph montage; contour shapes unchanged."
+    }
+  ],
+  "words": [
+    {
+      "id": "x05-1",
+      "title": "Complete capitals before a monogram",
+      "transcription": "G. G.",
+      "focus": "Study the two complete capital G forms before composing an overlap. Keep each identifying curve readable.",
+      "file": "x05-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 39,
+      "printedPage": "37",
+      "cropPixels": [
+        650,
+        1266,
+        1457,
+        1578
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 821.538,
+      "height": 314.835,
+      "erase": [],
+      "artist": "C. P. Zaner",
+      "attributionNote": "Capital study in the author’s instructional sequence."
+    },
+    {
+      "id": "w02-1",
+      "title": "Even word spacing",
+      "transcription": "In lines both smooth and graceful.",
+      "focus": "Compare the spaces between words with the compact joins inside each word.",
+      "file": "w02-1.svg",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 66,
+      "printedPage": "64",
+      "cropPixels": [
+        818,
+        873,
+        4620,
+        1290
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 3746.227,
+      "height": 441.041,
+      "erase": [],
+      "artist": "E. A. Lupfer",
+      "attributionNote": "Printed page65 credits the ten preceding plates to E. A. Lupfer."
+    },
+    {
+      "id": "r03-1",
+      "title": "Selective shading in a sentence",
+      "transcription": "On each and every page of white.",
+      "focus": "Keep connectors light. Study the sparse shaded strokes among the small letters.",
+      "file": "r03-1.svg",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 66,
+      "printedPage": "64",
+      "cropPixels": [
+        404,
+        276,
+        3816,
+        862
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 3359.208,
+      "height": 554.366,
+      "erase": [],
+      "artist": "E. A. Lupfer",
+      "attributionNote": "Printed page65 credits the ten preceding plates to E. A. Lupfer."
+    },
+    {
+      "id": "r04-1",
+      "title": "An oval capital joined to a word",
+      "transcription": "Oklahoma",
+      "focus": "Compare the open capital O with the light, smaller connected letters.",
+      "file": "r04-1.svg",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 60,
+      "printedPage": "58",
+      "cropPixels": [
+        1693,
+        1029,
+        2791,
+        1420
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 1048.5,
+      "height": 350.521,
+      "erase": [
+        [
+          0,
+          0,
+          41,
+          391
+        ]
+      ],
+      "artist": "E. A. Lupfer",
+      "attributionNote": "Printed page65 credits the ten preceding plates to E. A. Lupfer."
+    },
+    {
+      "id": "r05-1",
+      "title": "Light connected writing",
+      "transcription": "In lines both smooth and graceful.",
+      "focus": "Use a consistent small-letter height and steady spaces; make the word legible before adding ornament.",
+      "file": "r05-1.svg",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 66,
+      "printedPage": "64",
+      "cropPixels": [
+        821,
+        869,
+        4616,
+        1290
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 3746.227,
+      "height": 441.041,
+      "erase": [],
+      "artist": "E. A. Lupfer",
+      "attributionNote": "Printed page65 credits the ten preceding plates to E. A. Lupfer."
+    },
+    {
+      "id": "r06-1",
+      "title": "A complete ornamental letter",
+      "transcription": "Columbus, Ohio. Dear Lillian: I am getting along nicely at the Zanerian ... Your cousin, Gertrude.",
+      "focus": "Study the date, greeting, text, closing and signature as one page. Preserve clear line spacing.",
+      "file": "r06-1.svg",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 63,
+      "printedPage": "61",
+      "cropPixels": [
+        443,
+        166,
+        4383,
+        2749
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 4096.761,
+      "height": 2813.373,
+      "erase": [],
+      "artist": "E. A. Lupfer",
+      "attributionNote": "Printed page65 credits the ten preceding plates to E. A. Lupfer."
+    },
+    {
+      "id": "r07-1",
+      "title": "Review an entire specimen",
+      "transcription": "Truthfulness is the corner-stone in character; and if it is not firmly laid in youth there will ever after be a weak spot in the foundation.",
+      "focus": "Review slant, small-letter height, word spaces, sparse shading, and the final flourish separately.",
+      "file": "r07-1.svg",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 64,
+      "printedPage": "62",
+      "cropPixels": [
+        573,
+        504,
+        4310,
+        2241
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 3733.83,
+      "height": 1824.135,
+      "erase": [
+        [
+          0,
+          756,
+          186,
+          929
+        ],
+        [
+          0,
+          1706,
+          3737,
+          1737
+        ]
+      ],
+      "artist": "E. A. Lupfer",
+      "attributionNote": "Printed page65 credits the ten preceding plates to E. A. Lupfer."
+    },
+    {
+      "id": "a01-1",
+      "title": "A purposeful greeting flourish",
+      "transcription": "Dear Lillian:",
+      "focus": "Let the open greeting capitals announce the line while the lowercase stays legible.",
+      "file": "a01-1.svg",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 63,
+      "printedPage": "61",
+      "cropPixels": [
+        457,
+        460,
+        1811,
+        855
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 1300.349,
+      "height": 366.835,
+      "erase": [
+        [
+          0,
+          294,
+          530,
+          395
+        ],
+        [
+          962,
+          357,
+          1354,
+          395
+        ]
+      ],
+      "artist": "E. A. Lupfer",
+      "attributionNote": "Printed page65 credits the ten preceding plates to E. A. Lupfer."
+    },
+    {
+      "id": "a03-1",
+      "title": "A light exit and an open capital entry",
+      "transcription": "Oklahoma",
+      "focus": "Study the capital entry and the final light return. The printed shape does not by itself establish stroke order.",
+      "file": "a03-1.svg",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 60,
+      "printedPage": "58",
+      "cropPixels": [
+        1693,
+        1029,
+        2791,
+        1420
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 1048.5,
+      "height": 350.521,
+      "erase": [
+        [
+          0,
+          0,
+          41,
+          391
+        ]
+      ],
+      "artist": "E. A. Lupfer",
+      "attributionNote": "Printed page65 credits the ten preceding plates to E. A. Lupfer."
+    },
+    {
+      "id": "a04-1",
+      "title": "Open ascenders above light words",
+      "transcription": "In lines both smooth and graceful.",
+      "focus": "Compare the long thin ascender loops with the smaller connected body; leave room above the line.",
+      "file": "a04-1.svg",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 66,
+      "printedPage": "64",
+      "cropPixels": [
+        821,
+        869,
+        4616,
+        1290
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 3746.227,
+      "height": 441.041,
+      "erase": [],
+      "artist": "E. A. Lupfer",
+      "attributionNote": "Printed page65 credits the ten preceding plates to E. A. Lupfer."
+    },
+    {
+      "id": "a05-1",
+      "title": "Descenders beneath connected words",
+      "transcription": "Thoughts of the truly grateful.",
+      "focus": "Give the lower loops room beneath the baseline. Keep their return curves light and clear.",
+      "file": "a05-1.svg",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 66,
+      "printedPage": "64",
+      "cropPixels": [
+        911,
+        1760,
+        4520,
+        2305
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 3530.954,
+      "height": 553.304,
+      "erase": [
+        [
+          1849,
+          0,
+          3609,
+          121
+        ]
+      ],
+      "artist": "E. A. Lupfer",
+      "attributionNote": "Printed page65 credits the ten preceding plates to E. A. Lupfer."
+    },
+    {
+      "id": "a07-1",
+      "title": "A balanced ornamental signature",
+      "transcription": "O. P. Hoffmann",
+      "focus": "Compare the capital group, compact surname and long light return. Apply the balance to your own initials.",
+      "file": "a07-1.svg",
+      "sourceKind": "pdf",
+      "source": "Signature plate · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 90,
+      "printedPage": "88",
+      "cropPixels": [
+        2823,
+        220,
+        4556,
+        879
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 1688.219,
+      "height": 634.738,
+      "erase": [],
+      "artist": "Unattributed signature plate",
+      "attributionNote": "The transcribed name is a subject of the specimen, not an attribution of its penman."
+    },
+    {
+      "id": "a08-1",
+      "title": "A finished ornamental phrase",
+      "transcription": "The pen may leave while in its flight.",
+      "focus": "Study the opening capital, light connected text and generous spacing as one finished line.",
+      "file": "a08-1.svg",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 66,
+      "printedPage": "64",
+      "cropPixels": [
+        380,
+        1290,
+        4461,
+        1828
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 3956.804,
+      "height": 574.608,
+      "erase": [
+        [
+          0,
+          473,
+          2915,
+          538
+        ],
+        [
+          1346,
+          0,
+          4081,
+          90
+        ],
+        [
+          1677,
+          110,
+          1708,
+          141
+        ]
+      ],
+      "artist": "E. A. Lupfer",
+      "attributionNote": "Printed page65 credits the ten preceding plates to E. A. Lupfer."
+    },
+    {
+      "id": "x06-1",
+      "title": "A composed four-line specimen",
+      "transcription": "On each and every page of white, / In lines both smooth and graceful, / The pen may leave while in its flight, / Thoughts of the truly grateful.",
+      "focus": "Balance the four lines and leave space for the capitals, ascenders and descenders.",
+      "file": "x06-1.svg",
+      "sourceKind": "pdf",
+      "source": "E. A. Lupfer · in Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 66,
+      "printedPage": "64",
+      "cropPixels": [
+        380,
+        266,
+        4640,
+        2322
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 4353.096,
+      "height": 2129.64,
+      "erase": [],
+      "artist": "E. A. Lupfer",
+      "attributionNote": "Printed page65 credits the ten preceding plates to E. A. Lupfer."
+    },
+    {
+      "id": "s01-1",
+      "title": "Set the character of your signature",
+      "transcription": "W. S. McDaniels",
+      "focus": "Describe the qualities to carry into your own name: open capitals, light lowercase and a balanced finish.",
+      "file": "s01-1.svg",
+      "sourceKind": "pdf",
+      "source": "Signature plate · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 90,
+      "printedPage": "88",
+      "cropPixels": [
+        308,
+        242,
+        2210,
+        812
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 1885.428,
+      "height": 476.549,
+      "erase": [],
+      "artist": "Unattributed signature plate",
+      "attributionNote": "The transcribed name is a subject of the specimen, not an attribution of its penman."
+    },
+    {
+      "id": "s02-1",
+      "title": "Combine two open capital forms",
+      "transcription": "O. P. Hoffmann",
+      "focus": "Inspect the relation of the two initials before adapting comparable forms to your own initials.",
+      "file": "s02-1.svg",
+      "sourceKind": "pdf",
+      "source": "Signature plate · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 90,
+      "printedPage": "88",
+      "cropPixels": [
+        2823,
+        220,
+        4556,
+        879
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 1688.219,
+      "height": 634.738,
+      "erase": [],
+      "artist": "Unattributed signature plate",
+      "attributionNote": "The transcribed name is a subject of the specimen, not an attribution of its penman."
+    },
+    {
+      "id": "s03-1",
+      "title": "A flowing lowercase name",
+      "transcription": "J. Phillips",
+      "focus": "The compact surname gives the capital group a clear ending. Keep your own letters readable and repeatable.",
+      "file": "s03-1.svg",
+      "sourceKind": "pdf",
+      "source": "Signature plate · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 90,
+      "printedPage": "88",
+      "cropPixels": [
+        3324,
+        1048,
+        4550,
+        1661
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 1158.582,
+      "height": 603.179,
+      "erase": [],
+      "artist": "Unattributed signature plate",
+      "attributionNote": "The transcribed name is a subject of the specimen, not an attribution of its penman."
+    },
+    {
+      "id": "s04-1",
+      "title": "Control a signature return",
+      "transcription": "J. Phillips",
+      "focus": "Practice a light return with room around the readable name. Reduce the flourish for a faster daily version.",
+      "file": "s04-1.svg",
+      "sourceKind": "pdf",
+      "source": "Signature plate · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 90,
+      "printedPage": "88",
+      "cropPixels": [
+        3324,
+        1048,
+        4550,
+        1661
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 1158.582,
+      "height": 603.179,
+      "erase": [],
+      "artist": "Unattributed signature plate",
+      "attributionNote": "The transcribed name is a subject of the specimen, not an attribution of its penman."
+    },
+    {
+      "id": "s05-1",
+      "title": "Test spacing and repeatability",
+      "transcription": "A. S. Harvey",
+      "focus": "Check balanced initials, consistent lowercase, and an exit that does not cross through the name.",
+      "file": "s05-1.svg",
+      "sourceKind": "pdf",
+      "source": "Signature plate · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 90,
+      "printedPage": "88",
+      "cropPixels": [
+        3140,
+        1800,
+        4565,
+        2277
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 1364.627,
+      "height": 467.153,
+      "erase": [],
+      "artist": "Unattributed signature plate",
+      "attributionNote": "The transcribed name is a subject of the specimen, not an attribution of its penman."
+    },
+    {
+      "id": "s06-1",
+      "title": "A finished display signature",
+      "transcription": "W. S. McDaniels",
+      "focus": "Use this as a composition study, then finish a signature for your own name with clear capital hierarchy.",
+      "file": "s06-1.svg",
+      "sourceKind": "pdf",
+      "source": "Signature plate · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 90,
+      "printedPage": "88",
+      "cropPixels": [
+        308,
+        242,
+        2210,
+        812
+      ],
+      "threshold": 0.24,
+      "minArea": 18,
+      "width": 1885.428,
+      "height": 476.549,
+      "erase": [],
+      "artist": "Unattributed signature plate",
+      "attributionNote": "The transcribed name is a subject of the specimen, not an attribution of its penman."
+    }
+  ],
+  "other": [
+    {
+      "id": "a02-1",
+      "title": "Progressive oval movement: light to shaded",
+      "transcription": "Light oval chain · selective shade · continuous oval rhythm",
+      "focus": "Compare the same open oval rhythm without shade and with controlled swells. Keep the return curves fine. This ornamental study does not replace the course’s 52° guide construction.",
+      "file": "a02-1.svg",
+      "sourceKind": "pdf",
+      "source": "C. P. Zaner · Lessons in Ornamental Penmanship",
+      "sourceFile": "ornamental-penmanship-1920-highres.pdf",
+      "physicalPage": 29,
+      "printedPage": "27",
+      "cropPixels": [
+        97,
+        285,
+        4768,
+        799
+      ],
+      "threshold": 0.18,
+      "minArea": 18,
+      "width": 1000,
+      "height": 922.334,
+      "erase": [],
+      "displayArrangement": "The three source drills are stacked vertically; curves and shade shapes are unchanged.",
+      "sourceCrops": [
+        [
+          97,
+          285,
+          1646,
+          799
+        ],
+        [
+          1646,
+          285,
+          3195,
+          799
+        ],
+        [
+          3195,
+          285,
+          4768,
+          799
+        ]
+      ]
+    }
+  ],
+  "other/numerals": [
+    {
+      "id": "w04-2",
+      "title": "0 · fine-line numeral study",
+      "transcription": "0",
+      "focus": "Follow the source-shaped 0 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "sourceFile": "New Spencerian Compendium_text.pdf",
+      "source": "New Spencerian Compendium, P. R. Spencer's Sons",
+      "physicalPage": 73,
+      "printedPage": "Plate 2",
+      "file": "w04-2.svg",
+      "sourcePages": [
+        73
+      ],
+      "width": 138.0,
+      "height": 150.0,
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "originalSourceFile": "examples/w04-2.svg",
+      "originalSourceSVG_SHA256": "9157268ace1c70800b5890ee246a8c96e0c7e835ec4bdcd2ac0ca3a5867d0ed8",
+      "method": {
+        "rasterScale": 12,
+        "maskThreshold": 128,
+        "skeletonization": "medial centerline from the complete source outline",
+        "curveFitSmoothing": 0.004,
+        "hairlineWidth": 0.72,
+        "pathCount": 1,
+        "noAddedShades": true
+      }
+    },
+    {
+      "id": "w04-1",
+      "title": "1 · fine-line numeral study",
+      "transcription": "1",
+      "focus": "Follow the source-shaped 1 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 97,
+      "printedPage": "79",
+      "file": "w04-1.svg",
+      "sourcePages": [
+        97
+      ],
+      "width": 81.0,
+      "height": 96.0,
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "originalSourceFile": "examples/w04-1.svg",
+      "originalSourceSVG_SHA256": "5cd259381f1c6b7b4f1ad619fb83f61a00740748716eaf82554be2651b53bbac",
+      "method": {
+        "rasterScale": 12,
+        "maskThreshold": 128,
+        "skeletonization": "medial centerline from the complete source outline",
+        "curveFitSmoothing": 0.004,
+        "hairlineWidth": 0.72,
+        "pathCount": 1,
+        "noAddedShades": true
+      }
+    },
+    {
+      "id": "w05-1",
+      "title": "2 · fine-line numeral study",
+      "transcription": "2",
+      "focus": "Follow the source-shaped 2 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 98,
+      "printedPage": "80",
+      "file": "w05-1.svg",
+      "sourcePages": [
+        98
+      ],
+      "width": 99.0,
+      "height": 96.0,
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "originalSourceFile": "examples/w05-1.svg",
+      "originalSourceSVG_SHA256": "0e5677d7af8ec46de0790283a3f2ff049d1812fb15efa10e1379dfa7b150d8c1",
+      "method": {
+        "rasterScale": 12,
+        "maskThreshold": 128,
+        "skeletonization": "medial centerline from the complete source outline",
+        "curveFitSmoothing": 0.004,
+        "hairlineWidth": 0.72,
+        "pathCount": 2,
+        "noAddedShades": true
+      }
+    },
+    {
+      "id": "w05-2",
+      "title": "3 · fine-line numeral study",
+      "transcription": "3",
+      "focus": "Follow the source-shaped 3 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 98,
+      "printedPage": "80",
+      "file": "w05-2.svg",
+      "sourcePages": [
+        98
+      ],
+      "width": 90.0,
+      "height": 101.0,
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "originalSourceFile": "examples/w05-2.svg",
+      "originalSourceSVG_SHA256": "a1d09feacfa03e7400f7326d8e121217ed0efc9ec62a8f114293b25fa2a304d3",
+      "method": {
+        "rasterScale": 12,
+        "maskThreshold": 128,
+        "skeletonization": "medial centerline from the complete source outline",
+        "curveFitSmoothing": 0.004,
+        "hairlineWidth": 0.72,
+        "pathCount": 2,
+        "noAddedShades": true
+      }
+    },
+    {
+      "id": "w06-1",
+      "title": "4 · fine-line numeral study",
+      "transcription": "4",
+      "focus": "Follow the source-shaped 4 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 98,
+      "printedPage": "80",
+      "file": "w06-1.svg",
+      "sourcePages": [
+        98
+      ],
+      "width": 90.0,
+      "height": 94.0,
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "originalSourceFile": "examples/w06-1.svg",
+      "originalSourceSVG_SHA256": "c66e50111c70a033aa72fcb18b3d0373e4afa95fd1d290d6adb472f7e4385372",
+      "method": {
+        "rasterScale": 12,
+        "maskThreshold": 128,
+        "skeletonization": "medial centerline from the complete source outline",
+        "curveFitSmoothing": 0.004,
+        "hairlineWidth": 0.72,
+        "pathCount": 3,
+        "noAddedShades": true
+      }
+    },
+    {
+      "id": "w06-2",
+      "title": "5 · fine-line numeral study",
+      "transcription": "5",
+      "focus": "Follow the source-shaped 5 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 99,
+      "printedPage": "81",
+      "file": "w06-2.svg",
+      "sourcePages": [
+        99
+      ],
+      "width": 106.0,
+      "height": 100.0,
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "originalSourceFile": "examples/w06-2.svg",
+      "originalSourceSVG_SHA256": "fc0c87ba1c085ba4c01076284125f415b3f631c95f70afdd012f821674e3102b",
+      "method": {
+        "rasterScale": 12,
+        "maskThreshold": 128,
+        "skeletonization": "medial centerline from the complete source outline",
+        "curveFitSmoothing": 0.004,
+        "hairlineWidth": 0.72,
+        "pathCount": 2,
+        "noAddedShades": true
+      }
+    },
+    {
+      "id": "w07-1",
+      "title": "6 · fine-line numeral study",
+      "transcription": "6",
+      "focus": "Follow the source-shaped 6 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 99,
+      "printedPage": "81",
+      "file": "w07-1.svg",
+      "sourcePages": [
+        99
+      ],
+      "width": 94.0,
+      "height": 115.0,
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "originalSourceFile": "examples/w07-1.svg",
+      "originalSourceSVG_SHA256": "a6b277f8b05a165648adc2d2c692e60ab5fbd8581edab8fd33268e4ab38fa63a",
+      "method": {
+        "rasterScale": 12,
+        "maskThreshold": 128,
+        "skeletonization": "medial centerline from the complete source outline",
+        "curveFitSmoothing": 0.004,
+        "hairlineWidth": 0.72,
+        "pathCount": 1,
+        "noAddedShades": true
+      }
+    },
+    {
+      "id": "w07-2",
+      "title": "7 · fine-line numeral study",
+      "transcription": "7",
+      "focus": "Follow the source-shaped 7 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 99,
+      "printedPage": "81",
+      "file": "w07-2.svg",
+      "sourcePages": [
+        99
+      ],
+      "width": 113.0,
+      "height": 124.0,
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "originalSourceFile": "examples/w07-2.svg",
+      "originalSourceSVG_SHA256": "c76531b8c1034a112e4317f9c77c883f945065b4bebd9d7f8a6f7bb6bfcacf49",
+      "method": {
+        "rasterScale": 12,
+        "maskThreshold": 128,
+        "skeletonization": "medial centerline from the complete source outline",
+        "curveFitSmoothing": 0.004,
+        "hairlineWidth": 0.72,
+        "pathCount": 3,
+        "noAddedShades": true
+      }
+    },
+    {
+      "id": "w08-1",
+      "title": "8 · fine-line numeral study",
+      "transcription": "8",
+      "focus": "Follow the source-shaped 8 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 100,
+      "printedPage": "82",
+      "file": "w08-1.svg",
+      "sourcePages": [
+        100
+      ],
+      "width": 111.0,
+      "height": 100.0,
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "originalSourceFile": "examples/w08-1.svg",
+      "originalSourceSVG_SHA256": "c76f7081192cb29fb5472f6ac336730185424e3f7f0a4bb29c85e8b39c1cd2d5",
+      "method": {
+        "rasterScale": 12,
+        "maskThreshold": 128,
+        "skeletonization": "medial centerline from the complete source outline",
+        "curveFitSmoothing": 0.004,
+        "hairlineWidth": 0.72,
+        "pathCount": 3,
+        "noAddedShades": true
+      }
+    },
+    {
+      "id": "w08-2",
+      "title": "9 · fine-line numeral study",
+      "transcription": "9",
+      "focus": "Follow the source-shaped 9 with a light, even line. Preserve the original turns and counters. This is a fine-line teaching adaptation; the reference photo contains no numeral model.",
+      "sourceFile": "spencerian_penmanship.pdf",
+      "source": "Spencerian Key to Practical Penmanship",
+      "physicalPage": 100,
+      "printedPage": "82",
+      "file": "w08-2.svg",
+      "sourcePages": [
+        100
+      ],
+      "width": 99.0,
+      "height": 119.0,
+      "adaptation": "Fine-line centerline adaptation of the existing historical numeral outline; no added pressure shading.",
+      "sourceDetail": "Historical numeral shape adapted to an even fine line",
+      "originalSourceFile": "examples/w08-2.svg",
+      "originalSourceSVG_SHA256": "4f5e3acc70b04a840fa280232c114f6d32966f72fbbbeead2876775d19c68c13",
+      "method": {
+        "rasterScale": 12,
+        "maskThreshold": 128,
+        "skeletonization": "medial centerline from the complete source outline",
+        "curveFitSmoothing": 0.004,
+        "hairlineWidth": 0.72,
+        "pathCount": 1,
+        "noAddedShades": true
+      }
+    }
+  ]
+}

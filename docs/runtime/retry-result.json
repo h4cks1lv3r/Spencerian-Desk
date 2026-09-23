@@ -1,0 +1,9 @@
+{
+  "watchdog_ms": "600000",
+  "closed_fixture_dialogs": [],
+  "waited_fixture_dialogs": [
+    "System UI isn't responding"
+  ],
+  "native_recovery_visible": true,
+  "retry_tapped": true
+}

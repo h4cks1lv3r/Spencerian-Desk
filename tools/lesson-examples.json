@@ -1,0 +1,2715 @@
+[
+  {
+    "lessonId": "f01",
+    "title": "Light, regular letter forms",
+    "transcription": "i · u",
+    "focus": "Notice the light line, clear lower turns, and common letter height. Keep your own dated starting sample before you copy the models.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 60,
+    "printedPage": "42",
+    "crop": [
+      0.07,
+      0.11,
+      0.175,
+      0.143
+    ],
+    "parts": [
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 60,
+        "crop": [
+          0.07,
+          0.11,
+          0.175,
+          0.143
+        ],
+        "title": "i: one height unit",
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 60,
+        "crop": [
+          0.075,
+          0.26,
+          0.203,
+          0.289
+        ],
+        "title": "u: one width unit",
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      }
+    ],
+    "sourcePages": [
+      60
+    ]
+  },
+  {
+    "lessonId": "f02",
+    "title": "Test the point and paper",
+    "transcription": "Straight line · continuous curve",
+    "focus": "Use light straight and curved trial strokes to check that your point moves smoothly and your paper keeps a clean edge. Shading is not needed for this first tool test.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 59,
+    "printedPage": "41",
+    "crop": [
+      0.07,
+      0.088,
+      0.328,
+      0.125
+    ],
+    "parts": [
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 61,
+        "crop": [
+          0.349,
+          0.229,
+          0.407,
+          0.26
+        ],
+        "title": "Straight line",
+        "excludeRects": [
+          [
+            0.3829942,
+            0.2295874,
+            0.3909884,
+            0.23705
+          ]
+        ],
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 59,
+        "crop": [
+          0.07,
+          0.088,
+          0.328,
+          0.125
+        ],
+        "title": "Continuous curve",
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      }
+    ],
+    "sourcePages": [
+      59,
+      61
+    ]
+  },
+  {
+    "lessonId": "f03",
+    "title": "Supported writing position",
+    "transcription": "Historical seated writing position",
+    "focus": "Observe the supported forearm, stable feet, and other hand holding the sheet. Adjust your own desk and page for relaxed movement rather than copying the furniture height.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 41,
+    "printedPage": "29",
+    "crop": [
+      0.103,
+      0.2,
+      0.886,
+      0.848
+    ]
+  },
+  {
+    "lessonId": "f04",
+    "title": "A light, supported grip",
+    "transcription": "Two views of the pen hold",
+    "focus": "See how the thumb and fingers support the holder while the hand rests lightly on the page. These are historical views of the grip, not a left-handed setup diagram.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 44,
+    "printedPage": "32",
+    "crop": [
+      0.105,
+      0.35,
+      0.885,
+      0.48
+    ]
+  },
+  {
+    "lessonId": "f05",
+    "title": "The same slant for either hand",
+    "transcription": "52° from the baseline",
+    "focus": "Keep the same right-leaning letter axis when writing with the left hand. Change page position for comfort; do not mirror the letter forms.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 61,
+    "printedPage": "43",
+    "crop": [
+      0.07,
+      0.175,
+      0.33,
+      0.26
+    ],
+    "diagram": "slant-52",
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "f06",
+    "title": "The main 52° slant",
+    "transcription": "52° scale and straight stem",
+    "focus": "Read the angle upward from the horizontal baseline to the right-leaning stem. This is the letter axis, not the angle of the page on your desk.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 61,
+    "printedPage": "43",
+    "crop": [
+      0.07,
+      0.175,
+      0.407,
+      0.26
+    ],
+    "excludeRects": [
+      [
+        0.3829942,
+        0.2295874,
+        0.3909884,
+        0.23705
+      ]
+    ],
+    "diagram": "slant-52",
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "f07",
+    "title": "Height and width units",
+    "transcription": "i · u",
+    "focus": "The undotted i supplies one height unit; the space between the two stems of u supplies one width unit in the Key. Use these units to compare proportions while allowing the connecting curves to stay shallower than the main stems.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 60,
+    "printedPage": "42",
+    "crop": [
+      0.07,
+      0.11,
+      0.175,
+      0.143
+    ],
+    "parts": [
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 60,
+        "crop": [
+          0.07,
+          0.11,
+          0.175,
+          0.143
+        ],
+        "title": "i: one height unit",
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 60,
+        "crop": [
+          0.075,
+          0.26,
+          0.203,
+          0.289
+        ],
+        "title": "u: one width unit",
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      }
+    ],
+    "sourcePages": [
+      60
+    ]
+  },
+  {
+    "lessonId": "f08",
+    "title": "Compare curves and turns",
+    "transcription": "Direct and inverted pointed ovals",
+    "focus": "Compare where the two curves join and where each rounded turn sits. Review one feature at a time instead of judging the whole line as simply good or bad.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 61,
+    "printedPage": "43",
+    "crop": [
+      0.075,
+      0.513,
+      0.214,
+      0.545
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "m01",
+    "title": "Seven movement families",
+    "transcription": "Straight · right curve · left curve · loop · direct oval · reversed oval · capital stem",
+    "focus": "Find the same named movement families in later letters. These source forms come from the Key; its original principle numbers differ from the seven-family map used in this course.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 61,
+    "printedPage": "43",
+    "crop": [
+      0.349,
+      0.229,
+      0.407,
+      0.26
+    ],
+    "parts": [
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 61,
+        "crop": [
+          0.349,
+          0.229,
+          0.407,
+          0.26
+        ],
+        "title": "Straight line",
+        "excludeRects": [
+          [
+            0.3829942,
+            0.2295874,
+            0.3909884,
+            0.23705
+          ]
+        ],
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 61,
+        "crop": [
+          0.294,
+          0.359,
+          0.359,
+          0.39
+        ],
+        "title": "Right curve",
+        "excludeRects": [
+          [
+            0.3270349,
+            0.3599649,
+            0.3357558,
+            0.3674276
+          ]
+        ],
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 61,
+        "crop": [
+          0.294,
+          0.412,
+          0.361,
+          0.447
+        ],
+        "title": "Left curve",
+        "excludeRects": [
+          [
+            0.3219477,
+            0.4152766,
+            0.3306686,
+            0.4227392
+          ]
+        ],
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 61,
+        "crop": [
+          0.079,
+          0.643,
+          0.209,
+          0.717
+        ],
+        "title": "Extended loop",
+        "excludeRects": [
+          [
+            0.1329942,
+            0.6716418,
+            0.1417151,
+            0.6795435
+          ]
+        ],
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 60,
+        "crop": [
+          0.073,
+          0.47,
+          0.231,
+          0.554
+        ],
+        "title": "Direct oval",
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 60,
+        "crop": [
+          0.073,
+          0.557,
+          0.231,
+          0.641
+        ],
+        "title": "Reversed oval",
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 79,
+        "crop": [
+          0.065,
+          0.708,
+          0.25,
+          0.787
+        ],
+        "title": "Capital stem",
+        "excludeRects": [
+          [
+            0.2020349,
+            0.7168569,
+            0.2100291,
+            0.7243196
+          ],
+          [
+            0.1649709,
+            0.738367,
+            0.1780523,
+            0.7515364
+          ]
+        ],
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      }
+    ],
+    "sourcePages": [
+      60,
+      61,
+      79
+    ],
+    "excludeRects": [
+      [
+        0.3829942,
+        0.2295874,
+        0.3909884,
+        0.23705
+      ]
+    ]
+  },
+  {
+    "lessonId": "m02",
+    "title": "Parallel straight stems",
+    "transcription": "Parallel slanting lines",
+    "focus": "Compare the direction and spacing of these two straight lines. Keep your own stems light and let the hand travel across the row.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 58,
+    "printedPage": "40",
+    "crop": [
+      0.102,
+      0.846,
+      0.194,
+      0.91
+    ],
+    "excludeRects": [
+      [
+        0.1573939,
+        0.8522928,
+        0.1654466,
+        0.8567019
+      ]
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "m03",
+    "title": "The right curve",
+    "transcription": "Right side of an oval and the isolated right curve",
+    "focus": "Follow the lower right side of the oval into its shallow finish. This curve helps you form the rounded lower turns of the i family.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 61,
+    "printedPage": "43",
+    "crop": [
+      0.094,
+      0.293,
+      0.36,
+      0.39
+    ],
+    "excludeRects": [
+      [
+        0.3270349,
+        0.3599649,
+        0.3357558,
+        0.3674276
+      ],
+      [
+        0.2085756,
+        0.2932397,
+        0.2165698,
+        0.2976295
+      ]
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "m04",
+    "title": "The left curve",
+    "transcription": "Left side of an oval and the isolated left curve",
+    "focus": "Follow the upper left side of the oval toward the shoulder. Compare it with the right curve before making the upper turns of the n family.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 61,
+    "printedPage": "43",
+    "crop": [
+      0.089,
+      0.407,
+      0.363,
+      0.506
+    ],
+    "excludeRects": [
+      [
+        0.3219477,
+        0.4152766,
+        0.3306686,
+        0.4227392
+      ],
+      [
+        0.2587209,
+        0.4692713,
+        0.2638081,
+        0.4723442
+      ]
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "m05",
+    "title": "An open extended loop",
+    "transcription": "Extended loop",
+    "focus": "Keep the long inner space open and narrow, and observe where the return path crosses the rising curve. Carry the main slant through the whole loop.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 61,
+    "printedPage": "43",
+    "crop": [
+      0.079,
+      0.643,
+      0.209,
+      0.717
+    ],
+    "excludeRects": [
+      [
+        0.1329942,
+        0.6716418,
+        0.1417151,
+        0.6795435
+      ]
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "m06",
+    "title": "Three oval directions",
+    "transcription": "Direct · reversed · inverted oval",
+    "focus": "Follow the source arrows: direct begins down the left, reversed begins down the right, and inverted begins up the left. Keep the same oval axis while changing the start and direction.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 60,
+    "printedPage": "42",
+    "crop": [
+      0.073,
+      0.47,
+      0.231,
+      0.554
+    ],
+    "parts": [
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 60,
+        "crop": [
+          0.073,
+          0.47,
+          0.231,
+          0.554
+        ],
+        "title": "Direct oval",
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 60,
+        "crop": [
+          0.073,
+          0.557,
+          0.231,
+          0.641
+        ],
+        "title": "Reversed oval",
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 60,
+        "crop": [
+          0.065,
+          0.65,
+          0.222,
+          0.729
+        ],
+        "title": "Inverted oval",
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      }
+    ],
+    "sourcePages": [
+      60
+    ]
+  },
+  {
+    "lessonId": "m07",
+    "title": "The continuous capital stem",
+    "transcription": "Capital stem and foot oval",
+    "focus": "Trace the change of curvature into the shallow oval at the foot. The Key calls this its eighth principle; it is the named capital-stem family used in this course.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 79,
+    "printedPage": "61",
+    "crop": [
+      0.065,
+      0.708,
+      0.25,
+      0.787
+    ],
+    "excludeRects": [
+      [
+        0.2020349,
+        0.7168569,
+        0.2100291,
+        0.7243196
+      ],
+      [
+        0.1649709,
+        0.738367,
+        0.1780523,
+        0.7515364
+      ]
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "m08",
+    "title": "Movement review",
+    "transcription": "Straight · curves · loop · ovals · capital stem",
+    "focus": "Write each named form once from the model and once from memory. Compare slant, proportion, spacing, and smoothness, then select one repair drill.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 61,
+    "printedPage": "43",
+    "crop": [
+      0.349,
+      0.229,
+      0.407,
+      0.26
+    ],
+    "parts": [
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 61,
+        "crop": [
+          0.349,
+          0.229,
+          0.407,
+          0.26
+        ],
+        "title": "Straight line",
+        "excludeRects": [
+          [
+            0.3829942,
+            0.2295874,
+            0.3909884,
+            0.23705
+          ]
+        ],
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 61,
+        "crop": [
+          0.294,
+          0.359,
+          0.359,
+          0.39
+        ],
+        "title": "Right curve",
+        "excludeRects": [
+          [
+            0.3270349,
+            0.3599649,
+            0.3357558,
+            0.3674276
+          ]
+        ],
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 61,
+        "crop": [
+          0.294,
+          0.412,
+          0.361,
+          0.447
+        ],
+        "title": "Left curve",
+        "excludeRects": [
+          [
+            0.3219477,
+            0.4152766,
+            0.3306686,
+            0.4227392
+          ]
+        ],
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 61,
+        "crop": [
+          0.079,
+          0.643,
+          0.209,
+          0.717
+        ],
+        "title": "Extended loop",
+        "excludeRects": [
+          [
+            0.1329942,
+            0.6716418,
+            0.1417151,
+            0.6795435
+          ]
+        ],
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 60,
+        "crop": [
+          0.073,
+          0.47,
+          0.231,
+          0.554
+        ],
+        "title": "Direct oval",
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 60,
+        "crop": [
+          0.073,
+          0.557,
+          0.231,
+          0.641
+        ],
+        "title": "Reversed oval",
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      },
+      {
+        "sourceFile": "spencerian_penmanship.pdf",
+        "page": 79,
+        "crop": [
+          0.065,
+          0.708,
+          0.25,
+          0.787
+        ],
+        "title": "Capital stem",
+        "excludeRects": [
+          [
+            0.2020349,
+            0.7168569,
+            0.2100291,
+            0.7243196
+          ],
+          [
+            0.1649709,
+            0.738367,
+            0.1780523,
+            0.7515364
+          ]
+        ],
+        "postSmooth": {
+          "sigma": 0.8,
+          "threshold": 0.42
+        },
+        "traceTolerance": 0.6
+      }
+    ],
+    "sourcePages": [
+      60,
+      61,
+      79
+    ],
+    "excludeRects": [
+      [
+        0.3829942,
+        0.2295874,
+        0.3909884,
+        0.23705
+      ]
+    ]
+  },
+  {
+    "lessonId": "l01",
+    "title": "i · original Spencerian model",
+    "transcription": "i",
+    "focus": "Follow the entry curve, one-unit stem and short lower turn. Keep the dot aligned with its stem.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 62,
+    "printedPage": "44",
+    "crop": [
+      0.086,
+      0.3245192,
+      0.192,
+      0.3822115
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6,
+    "excludeRects": [
+      [
+        0.17423133,
+        0.3633157,
+        0.17715959,
+        0.36552028
+      ]
+    ]
+  },
+  {
+    "lessonId": "l02",
+    "title": "u · original Spencerian model",
+    "transcription": "u",
+    "focus": "Compare the parallel stems and equal lower turns. The inner distance provides the u-space.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 63,
+    "printedPage": "45",
+    "crop": [
+      0.079,
+      0.1033233,
+      0.225,
+      0.1401813
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "l03",
+    "title": "w · original Spencerian model",
+    "transcription": "w",
+    "focus": "Study the compact high finish that distinguishes w from u.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 63,
+    "printedPage": "45",
+    "crop": [
+      0.092,
+      0.6296073,
+      0.222,
+      0.665861
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6,
+    "fillVerifiedPinholes": true
+  },
+  {
+    "lessonId": "l04",
+    "title": "n · original Spencerian model",
+    "transcription": "n",
+    "focus": "Notice the two upper turns and the shared slant of the main strokes.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 64,
+    "printedPage": "46",
+    "crop": [
+      0.087,
+      0.1484375,
+      0.226,
+      0.1808894
+    ],
+    "repairLines": [
+      {
+        "points": [
+          [
+            0.14055637,
+            0.16798942
+          ],
+          [
+            0.14275256,
+            0.16710758
+          ]
+        ],
+        "width": 1
+      }
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "l05",
+    "title": "m · original Spencerian model",
+    "transcription": "m",
+    "focus": "Count the three main strokes and compare the two shoulder spaces.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 64,
+    "printedPage": "46",
+    "crop": [
+      0.081,
+      0.6826923,
+      0.249,
+      0.718149
+    ],
+    "repairLines": [
+      {
+        "points": [
+          [
+            0.15959004,
+            0.70326279
+          ],
+          [
+            0.16105417,
+            0.70414462
+          ]
+        ],
+        "width": 1
+      }
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "l06",
+    "title": "x · original Spencerian model",
+    "transcription": "x",
+    "focus": "Study the curved body and separate light upward crossing of this beginner x.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 65,
+    "printedPage": "47",
+    "crop": [
+      0.077,
+      0.3909366,
+      0.202,
+      0.4265861
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "l07",
+    "title": "v · original Spencerian model",
+    "transcription": "v",
+    "focus": "Keep the body narrow and the high finish compact.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 66,
+    "printedPage": "48",
+    "crop": [
+      0.071,
+      0.1051995,
+      0.202,
+      0.1408706
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "l08",
+    "title": "o · original Spencerian model",
+    "transcription": "o",
+    "focus": "Follow the pointed oval and its small high exit.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 66,
+    "printedPage": "48",
+    "crop": [
+      0.077,
+      0.4486094,
+      0.186,
+      0.4860943
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "l09",
+    "title": "a · original Spencerian model",
+    "transcription": "a",
+    "focus": "Notice how the closed oval joins the parallel finishing stem.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 66,
+    "printedPage": "48",
+    "crop": [
+      0.067,
+      0.8736397,
+      0.206,
+      0.91052
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "l10",
+    "title": "e · original Spencerian model",
+    "transcription": "e",
+    "focus": "Compare the small loop in e with the distinct head of c.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 67,
+    "printedPage": "49",
+    "crop": [
+      0.078,
+      0.6797583,
+      0.175,
+      0.7141994
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "l10",
+    "title": "c · original Spencerian model",
+    "transcription": "c",
+    "focus": "Compare the small loop in e with the distinct head of c.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 68,
+    "printedPage": "50",
+    "crop": [
+      0.073,
+      0.1807739,
+      0.173,
+      0.2128174
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "e01",
+    "title": "r · original Spencerian model",
+    "transcription": "r",
+    "focus": "Study the elevated r shoulder and the clear upper turn of s.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 68,
+    "printedPage": "50",
+    "crop": [
+      0.08,
+      0.6064087,
+      0.201,
+      0.6481258
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "e01",
+    "title": "s · original Spencerian model",
+    "transcription": "s",
+    "focus": "Study the elevated r shoulder and the clear upper turn of s.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 69,
+    "printedPage": "51",
+    "crop": [
+      0.077,
+      0.2477341,
+      0.186,
+      0.2906344
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "e02",
+    "title": "t · original Spencerian model",
+    "transcription": "t",
+    "focus": "Follow the retraced stems. Keep t and d distinct from looped ascenders.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 69,
+    "printedPage": "51",
+    "crop": [
+      0.07,
+      0.7214502,
+      0.199,
+      0.7794562
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "e02",
+    "title": "d · original Spencerian model",
+    "transcription": "d",
+    "focus": "Follow the retraced stems. Keep t and d distinct from looped ascenders.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 70,
+    "printedPage": "52",
+    "crop": [
+      0.069,
+      0.3712213,
+      0.197,
+      0.4304716
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "e03",
+    "title": "p · original Spencerian model",
+    "transcription": "p",
+    "focus": "Compare the straight descending stem of p with the oval start and returning finish of q.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 70,
+    "printedPage": "52",
+    "crop": [
+      0.058,
+      0.7726723,
+      0.235,
+      0.8706167
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6,
+    "excludeRects": [
+      [
+        0.18307805,
+        0.78580873,
+        0.18745441,
+        0.78757162
+      ],
+      [
+        0.1487965,
+        0.81313354,
+        0.15317287,
+        0.81577788
+      ],
+      [
+        0.08388038,
+        0.81357426,
+        0.08752735,
+        0.8162186
+      ],
+      [
+        0.13056163,
+        0.82899956,
+        0.13420861,
+        0.83076245
+      ]
+    ]
+  },
+  {
+    "lessonId": "e03",
+    "title": "q · original Spencerian model",
+    "transcription": "q",
+    "focus": "Compare the straight descending stem of p with the oval start and returning finish of q.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 71,
+    "printedPage": "53",
+    "crop": [
+      0.058,
+      0.5320435,
+      0.192,
+      0.6027811
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6,
+    "fillVerifiedPinholes": true
+  },
+  {
+    "lessonId": "e04",
+    "title": "l · original Spencerian model",
+    "transcription": "l",
+    "focus": "Compare the shared ascender loop and the different exits in l and h.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 73,
+    "printedPage": "55",
+    "crop": [
+      0.075,
+      0.4114804,
+      0.212,
+      0.4888218
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "e04",
+    "title": "h · original Spencerian model",
+    "transcription": "h",
+    "focus": "Compare the shared ascender loop and the different exits in l and h.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 72,
+    "printedPage": "54",
+    "crop": [
+      0.062,
+      0.092503,
+      0.222,
+      0.1711004
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "e05",
+    "title": "k · original Spencerian model",
+    "transcription": "k",
+    "focus": "Study the small middle detail in k and the high finish in b.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 72,
+    "printedPage": "54",
+    "crop": [
+      0.064,
+      0.6384522,
+      0.2,
+      0.716445
+    ],
+    "repairLines": [
+      {
+        "points": [
+          [
+            0.17724289,
+            0.66020273
+          ],
+          [
+            0.1750547,
+            0.6615249
+          ]
+        ],
+        "width": 1
+      },
+      {
+        "points": [
+          [
+            0.14296134,
+            0.68400176
+          ],
+          [
+            0.14077316,
+            0.68532393
+          ]
+        ],
+        "width": 1
+      },
+      {
+        "points": [
+          [
+            0.16119621,
+            0.68179815
+          ],
+          [
+            0.162655,
+            0.68223887
+          ]
+        ],
+        "width": 1
+      },
+      {
+        "points": [
+          [
+            0.1480671,
+            0.68620538
+          ],
+          [
+            0.14660832,
+            0.68620538
+          ]
+        ],
+        "width": 1
+      },
+      {
+        "points": [
+          [
+            0.14296134,
+            0.6866461
+          ],
+          [
+            0.14296134,
+            0.68796827
+          ]
+        ],
+        "width": 1
+      },
+      {
+        "points": [
+          [
+            0.13785558,
+            0.6809167
+          ],
+          [
+            0.13931437,
+            0.68135743
+          ]
+        ],
+        "width": 1
+      }
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "e05",
+    "title": "b · original Spencerian model",
+    "transcription": "b",
+    "focus": "Study the small middle detail in k and the high finish in b.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 73,
+    "printedPage": "55",
+    "crop": [
+      0.075,
+      0.8012085,
+      0.222,
+      0.8791541
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "e06",
+    "title": "j · original Spencerian model",
+    "transcription": "j",
+    "focus": "Follow each loop below the baseline, then compare the different bodies above it.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 74,
+    "printedPage": "56",
+    "crop": [
+      0.08,
+      0.3162031,
+      0.224,
+      0.3996372
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "e06",
+    "title": "y · original Spencerian model",
+    "transcription": "y",
+    "focus": "Follow each loop below the baseline, then compare the different bodies above it.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 74,
+    "printedPage": "56",
+    "crop": [
+      0.065,
+      0.7944377,
+      0.231,
+      0.8748489
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "e07",
+    "title": "g · original Spencerian model",
+    "transcription": "g",
+    "focus": "Compare the oval start of g with the shoulder start of z.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 75,
+    "printedPage": "57",
+    "crop": [
+      0.065,
+      0.3685801,
+      0.218,
+      0.4453172
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "e07",
+    "title": "z · original Spencerian model",
+    "transcription": "z",
+    "focus": "Compare the oval start of g with the shoulder start of z.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 76,
+    "printedPage": "58",
+    "crop": [
+      0.083,
+      0.3700121,
+      0.21,
+      0.4461911
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "e08",
+    "title": "f · original Spencerian model",
+    "transcription": "f",
+    "focus": "Follow the upper loop and the reversed lower loop. Keep the crossing above the baseline.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 76,
+    "printedPage": "58",
+    "crop": [
+      0.068,
+      0.7623942,
+      0.247,
+      0.8845224
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "w01",
+    "title": "mu · original Spencerian model",
+    "transcription": "mu",
+    "focus": "Follow the connecting stroke between m and u. Keep each letter recognizable as the joining curve changes direction.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 65,
+    "printedPage": "47",
+    "crop": [
+      0.072,
+      0.3148036,
+      0.321,
+      0.3534743
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "w02",
+    "title": "Word spacing in a complete line",
+    "transcription": "Specimen of my plain penmanship",
+    "focus": "Compare the spaces within each word with the larger spaces between words. Follow the line to see how the spacing remains regular around loops and ovals.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 76,
+    "printedPage": "Plate 5",
+    "crop": [
+      0.209,
+      0.298,
+      0.791,
+      0.367
+    ],
+    "vectorOverride": "r07-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "w03",
+    "title": "ti · original Spencerian model",
+    "transcription": "ti",
+    "focus": "Follow the connected bodies first, then notice the separate t bar and i dot.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 70,
+    "printedPage": "52",
+    "crop": [
+      0.074,
+      0.2793229,
+      0.21,
+      0.3403869
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6,
+    "excludeRects": [
+      [
+        0.08460977,
+        0.33539004,
+        0.09044493,
+        0.33803438
+      ]
+    ]
+  },
+  {
+    "lessonId": "w04",
+    "title": "1 · original Spencerian model",
+    "transcription": "1",
+    "focus": "Compare the oval shape of 0 with the single slanted stroke of 1.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 97,
+    "printedPage": "79",
+    "crop": [
+      0.065,
+      0.7908102,
+      0.106,
+      0.8216445
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "w04",
+    "title": "0 · a clear oval",
+    "transcription": "0",
+    "focus": "Compare the closed oval of 0 with the simple main stroke of 1. Keep both figures on a consistent slant.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 73,
+    "printedPage": "Plate 2",
+    "crop": [
+      0.6066666666666667,
+      0.7751855779427359,
+      0.6258333333333334,
+      0.8112407211028632
+    ],
+    "keepLargest": true,
+    "postSmooth": {
+      "sigma": 3.2,
+      "threshold": 0.47
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "w05",
+    "title": "2 · original Spencerian model",
+    "transcription": "2",
+    "focus": "Compare the upper curves, small middle loops and lower turns of 2 and 3.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 98,
+    "printedPage": "80",
+    "crop": [
+      0.067,
+      0.1021765,
+      0.121,
+      0.1354293
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "w05",
+    "title": "3 · original Spencerian model",
+    "transcription": "3",
+    "focus": "Compare the upper curves, small middle loops and lower turns of 2 and 3.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 98,
+    "printedPage": "80",
+    "crop": [
+      0.068,
+      0.4093108,
+      0.119,
+      0.4431681
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "w06",
+    "title": "4 · original Spencerian model",
+    "transcription": "4",
+    "focus": "Compare the crossing bar in 4 with the upper bar and rounded body of 5.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 98,
+    "printedPage": "80",
+    "crop": [
+      0.075,
+      0.6958888,
+      0.124,
+      0.7279323
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "w06",
+    "title": "5 · original Spencerian model",
+    "transcription": "5",
+    "focus": "Compare the crossing bar in 4 with the upper bar and rounded body of 5.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 99,
+    "printedPage": "81",
+    "crop": [
+      0.077,
+      0.092503,
+      0.137,
+      0.1275695
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6,
+    "excludeRects": [
+      [
+        0.0940919,
+        0.11150286,
+        0.09773888,
+        0.11370648
+      ]
+    ]
+  },
+  {
+    "lessonId": "w07",
+    "title": "6 · original Spencerian model",
+    "transcription": "6",
+    "focus": "Study the historical extended forms of 6 and 7. Preserve their relative height when writing a series.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 99,
+    "printedPage": "81",
+    "crop": [
+      0.078,
+      0.331318,
+      0.135,
+      0.3724305
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "w07",
+    "title": "7 · original Spencerian model",
+    "transcription": "7",
+    "focus": "Study the historical extended forms of 6 and 7. Preserve their relative height when writing a series.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 99,
+    "printedPage": "81",
+    "crop": [
+      0.077,
+      0.592503,
+      0.146,
+      0.6390568
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "w08",
+    "title": "8 · original Spencerian model",
+    "transcription": "8",
+    "focus": "Compare the two loops of 8 with the pointed oval and descending stem of 9.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 100,
+    "printedPage": "82",
+    "crop": [
+      0.088,
+      0.0937122,
+      0.152,
+      0.1275695
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "w08",
+    "title": "9 · original Spencerian model",
+    "transcription": "9",
+    "focus": "Compare the two loops of 8 with the pointed oval and descending stem of 9.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 100,
+    "printedPage": "82",
+    "crop": [
+      0.08,
+      0.3331318,
+      0.136,
+      0.3766626
+    ],
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "c01",
+    "title": "Direct-oval capital forms",
+    "transcription": "O D C E",
+    "focus": "Compare the full O, the D stem, the open C, and the two-part E on the same slant.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 50,
+    "printedPage": "25",
+    "crop": [
+      0.55,
+      0.3,
+      0.864,
+      0.379
+    ],
+    "vectorOverride": "capital-c01.svg",
+    "reproduction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected."
+  },
+  {
+    "lessonId": "c02",
+    "title": "Reverse-oval capital forms",
+    "transcription": "X W Z Q",
+    "focus": "Keep the shared reverse oval while observing the different X, W, Z, and Q finishes.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 52,
+    "printedPage": "27",
+    "crop": [
+      0.54,
+      0.5,
+      0.891,
+      0.612
+    ],
+    "vectorOverride": "capital-c02.svg",
+    "reproduction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected."
+  },
+  {
+    "lessonId": "c03",
+    "title": "Open reverse-oval forms",
+    "transcription": "V U Y",
+    "focus": "Compare the returning V, the extra main portion of U, and the descending Y.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 53,
+    "printedPage": "28",
+    "crop": [
+      0.158,
+      0.707,
+      0.451,
+      0.823
+    ],
+    "vectorOverride": "capital-c03.svg",
+    "reproduction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected."
+  },
+  {
+    "lessonId": "c04",
+    "title": "Measured I and J",
+    "transcription": "I J",
+    "focus": "Compare the related top loops and the descending J against the I that stays above the baseline.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 53,
+    "printedPage": "28",
+    "crop": [
+      0.663,
+      0.588,
+      0.838,
+      0.7
+    ],
+    "vectorOverride": "capital-c04.svg",
+    "reproduction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected."
+  },
+  {
+    "lessonId": "c05",
+    "title": "The capital-stem family",
+    "transcription": "A N M",
+    "focus": "Observe the shared entry, the different main parts, and the additional width required for M.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 55,
+    "printedPage": "30",
+    "crop": [
+      0.154,
+      0.262,
+      0.47,
+      0.335
+    ],
+    "vectorOverride": "capital-c05.svg",
+    "reproduction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected."
+  },
+  {
+    "lessonId": "c06",
+    "title": "The cap and stem",
+    "transcription": "T F",
+    "focus": "Compare the cap with the stem and identify the additional cross structure of F.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 55,
+    "printedPage": "30",
+    "crop": [
+      0.201,
+      0.654,
+      0.426,
+      0.729
+    ],
+    "vectorOverride": "capital-c06.svg",
+    "reproduction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected."
+  },
+  {
+    "lessonId": "c07",
+    "title": "Curved stems and controlled feet",
+    "transcription": "S L",
+    "focus": "Compare the upper routes, curved stems, and different lower finishing curves of S and L.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 56,
+    "printedPage": "31",
+    "crop": [
+      0.581,
+      0.451,
+      0.751,
+      0.522
+    ],
+    "threshold": 0.88,
+    "vectorOverride": "capital-c07.svg",
+    "reproduction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected."
+  },
+  {
+    "lessonId": "c08",
+    "title": "The inner return of G",
+    "transcription": "G",
+    "focus": "Observe the small inner return that identifies G while keeping its interior open.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 56,
+    "printedPage": "31",
+    "crop": [
+      0.748,
+      0.445,
+      0.839,
+      0.524
+    ],
+    "threshold": 0.89,
+    "vectorOverride": "capital-c08.svg",
+    "reproduction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected."
+  },
+  {
+    "lessonId": "c09",
+    "title": "P, B, and R in words",
+    "transcription": "Paid Business Recede",
+    "focus": "Compare P, B, and R in complete words. Observe their related upper lobes and distinct lower finishes.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 78,
+    "printedPage": "Plate 7",
+    "crop": [
+      0.49,
+      0.21,
+      0.828,
+      0.266
+    ],
+    "threshold": 0.89,
+    "vectorOverride": "capital-c09.svg",
+    "reproduction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected."
+  },
+  {
+    "lessonId": "c10",
+    "title": "The structure of H and K",
+    "transcription": "H K",
+    "focus": "Keep the multiple main parts, central joins, and internal spaces clear.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 56,
+    "printedPage": "31",
+    "crop": [
+      0.602,
+      0.18,
+      0.827,
+      0.254
+    ],
+    "vectorOverride": "capital-c10.svg",
+    "reproduction": "Source-based centerline reconstruction with smooth hairlines and retained shaded swells. Engraved measuring dots are replaced by faint geometric horizontal rules; verified guide spurs and scan gaps are corrected."
+  },
+  {
+    "lessonId": "r01",
+    "title": "A controlled straight shade",
+    "transcription": "",
+    "focus": "Test the nib on scrap paper and compare the heavy beginning with the fine finish. The gradual taper requires an even release of pressure.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 104,
+    "crop": [
+      0.095,
+      0.239,
+      0.21,
+      0.309
+    ],
+    "sourceQuality": "Selected for dark, continuous engraved strokes; retain the exact source contours.",
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6,
+    "vectorOverride": "r01.svg",
+    "reproduction": "Regularized source-based redraw of the heavy-to-fine straight shade, with clean parallel rules and a 52-degree stroke axis."
+  },
+  {
+    "lessonId": "r02",
+    "title": "A swell that returns to a hairline",
+    "transcription": "",
+    "focus": "Follow the curve from its fine beginning through its widest shade and back to a fine finish. Release pressure before the rising movement.",
+    "sourceFile": "spencerian_penmanship.pdf",
+    "page": 104,
+    "crop": [
+      0.105,
+      0.545,
+      0.266,
+      0.616
+    ],
+    "printedPage": "86",
+    "sourceQuality": "Selected for dark, continuous engraved strokes; retain the exact source contours.",
+    "postSmooth": {
+      "sigma": 0.8,
+      "threshold": 0.42
+    },
+    "traceTolerance": 0.6
+  },
+  {
+    "lessonId": "r03",
+    "title": "Selective shade in lowercase letters",
+    "transcription": "t d p l f z h y a q",
+    "focus": "Notice which part of each letter carries the shade. Keep the connecting strokes light instead of shading every descending line.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 78,
+    "crop": [
+      0.49,
+      0.348,
+      0.834,
+      0.427
+    ],
+    "printedPage": "Plate 7",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.9,
+    "vectorOverride": "r03-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "r04",
+    "title": "An oval capital leads the word",
+    "transcription": "O · Otho",
+    "focus": "The shaded descending curve gives O its weight while the remaining letters stay light. Keep the inner oval open as you add contrast.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 96,
+    "crop": [
+      0.693,
+      0.716,
+      0.902,
+      0.864
+    ],
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "printedPage": "Plate 25",
+    "removeBoundaryComponents": true,
+    "cleanupNote": "The tiny line entering the left edge belongs to the preceding Natchez terminal. Both O forms are complete inside the crop and do not touch its boundary.",
+    "threshold": 0.9,
+    "vectorOverride": "r04-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "r05",
+    "title": "Clear writing at practical scale",
+    "transcription": "For the dispatch of business, a handwriting something like this is desirable, which omits all lines not essential to legibility or currency.",
+    "focus": "This practical hand keeps the word rhythm clear with fewer ornamental strokes. Study the small openings and light shade before reducing your own writing size.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 83,
+    "crop": [
+      0.18,
+      0.372,
+      0.769,
+      0.558
+    ],
+    "printedPage": "Plate 12",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.88,
+    "vectorOverride": "r05-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "r06",
+    "title": "A consistent business letter",
+    "transcription": "",
+    "focus": "Compare the slant, word spaces and line gaps across the whole letter. The closing and signature follow a clear reading order without crowding the text.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 79,
+    "crop": [
+      0.096,
+      0.119,
+      0.778,
+      0.545
+    ],
+    "printedPage": "Plate 8",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.88,
+    "vectorOverride": "r06-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "r07",
+    "title": "A specimen for your portfolio",
+    "transcription": "Specimen of my plain penmanship",
+    "focus": "Use a complete line to check consistency beyond one attractive capital. Compare your light practical writing with your separate shaded display study.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 76,
+    "crop": [
+      0.209,
+      0.298,
+      0.791,
+      0.367
+    ],
+    "printedPage": "Plate 5",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.86,
+    "vectorOverride": "r07-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "a01",
+    "title": "A flourish with a clear purpose",
+    "transcription": "L · London",
+    "focus": "The opening loop gives L a distinct entrance while the word body stays clear. Identify what that extension contributes before adding one to your own word.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 96,
+    "crop": [
+      0.685,
+      0.559,
+      0.926,
+      0.709
+    ],
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "printedPage": "Plate 25",
+    "removeBoundaryComponents": true,
+    "threshold": 0.9,
+    "vectorOverride": "a01-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "a02",
+    "title": "Even progressive oval loops",
+    "transcription": "",
+    "focus": "Follow the repeated oval axes and the spaces between loops. Rehearse the sequence without shade before adding the controlled swells shown here.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 126,
+    "crop": [
+      0.176,
+      0.398,
+      0.491,
+      0.514
+    ],
+    "printedPage": "Plate 48",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.9,
+    "excludeRects": [
+      [
+        0.2215,
+        0.4015,
+        0.226,
+        0.4075
+      ]
+    ],
+    "vectorOverride": "a02.svg",
+    "reproduction": "Regularized redraw of the progressive slanted oval exercise in Compendium Plate 48, with a 52-degree ellipse axis, continuous hairlines and selective downstroke shading."
+  },
+  {
+    "lessonId": "a03",
+    "title": "A smooth entry and a light exit",
+    "transcription": "D · Detroit",
+    "focus": "Trace the capital entry and the fine terminal oval in Detroit. Each extension continues the direction of the letter instead of forming an abrupt corner.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 96,
+    "crop": [
+      0.177,
+      0.246,
+      0.426,
+      0.382
+    ],
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "printedPage": "Plate 25",
+    "vectorOverride": "a03-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "a04",
+    "title": "Space above a tall capital",
+    "transcription": "L · London",
+    "focus": "The upper loop of L occupies the space above the word without hiding the lowercase letters. Preserve this clear separation when you extend an upward entry or ascender.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 96,
+    "crop": [
+      0.685,
+      0.559,
+      0.926,
+      0.709
+    ],
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "printedPage": "Plate 25",
+    "removeBoundaryComponents": true,
+    "threshold": 0.9,
+    "vectorOverride": "a04-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "a05",
+    "title": "A terminal descender with room to return",
+    "transcription": "S · Sunday",
+    "focus": "Follow the final y below the baseline and into its return curve. Keep a clear gap between the lower flourish and the word body.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 97,
+    "crop": [
+      0.11,
+      0.236,
+      0.365,
+      0.399
+    ],
+    "printedPage": "Plate 26",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.92,
+    "vectorOverride": "a05-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "a06",
+    "title": "Open crossings in a compound flourish",
+    "transcription": "",
+    "focus": "The fine return lines cross between the stronger swells. Follow each path through the design and keep thick strokes from forming a dark knot.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 126,
+    "crop": [
+      0.399,
+      0.774,
+      0.579,
+      0.92
+    ],
+    "printedPage": "Plate 48",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.9,
+    "vectorOverride": "a06.svg",
+    "reproduction": "Source-traced Bezier reconstruction of the four-row compound flourish in Compendium Plate 48, with smooth continuous hairlines and controlled tapered shading."
+  },
+  {
+    "lessonId": "a07",
+    "title": "Balance around a readable signature",
+    "transcription": "Lyman P. Spencer",
+    "focus": "The leading L and middle P carry the weight while the last loop balances the lower right. Compare the open areas around the name before adding another flourish.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 98,
+    "crop": [
+      0.432,
+      0.744,
+      0.683,
+      0.857
+    ],
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "printedPage": "Plate 27",
+    "threshold": 0.88,
+    "vectorOverride": "a07-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "a08",
+    "title": "A finished four-line phrase",
+    "transcription": "Count that day lost / Whose low descending sun / Views at thy hand / No worthy action done.",
+    "focus": "Observe how the flourished capitals and terminal strokes frame four clear lines. Preserve readable words and open counters before adding ornament.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 133,
+    "crop": [
+      0.443,
+      0.438,
+      0.809,
+      0.697
+    ],
+    "printedPage": "Plate 55",
+    "excludeRects": [
+      [
+        0.443,
+        0.438,
+        0.463,
+        0.477
+      ],
+      [
+        0.47,
+        0.438,
+        0.491,
+        0.456
+      ],
+      [
+        0.462,
+        0.438,
+        0.481,
+        0.459
+      ],
+      [
+        0.4744,
+        0.466,
+        0.4784,
+        0.4745
+      ]
+    ],
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.9,
+    "vectorOverride": "verse-redrawn.svg",
+    "reproduction": "Source-guided Bezier reconstruction of the visible letter routes; neighboring bird strokes and scan defects omitted."
+  },
+  {
+    "lessonId": "x01",
+    "title": "Compound curves with continuous direction",
+    "transcription": "",
+    "focus": "Each S-shaped movement changes its bend without a sharp corner. Rehearse one complete route before extending it into a sequence.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 126,
+    "crop": [
+      0.066,
+      0.8,
+      0.398,
+      0.881
+    ],
+    "printedPage": "Plate 48",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.9,
+    "excludeRects": [
+      [
+        0.1435,
+        0.865,
+        0.1495,
+        0.87
+      ]
+    ],
+    "vectorOverride": "x01-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "x02",
+    "title": "Spirals that change radius gradually",
+    "transcription": "",
+    "focus": "Compare the inner turns with the wide outer curves in this spiral sequence. Let the radius change gradually and finish with a light line.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 127,
+    "crop": [
+      0.122,
+      0.313,
+      0.453,
+      0.418
+    ],
+    "printedPage": "Plate 49",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.86,
+    "excludeRects": [
+      [
+        0.273,
+        0.306,
+        0.282,
+        0.319
+      ]
+    ],
+    "vectorOverride": "x02.svg",
+    "reproduction": "Smooth Bezier reconstruction of the concentric spiral sequence in Compendium Plate 49; coordinates follow the source curves, with continuous hairlines and tapered upper shading."
+  },
+  {
+    "lessonId": "x03",
+    "title": "The bird’s main body curves",
+    "transcription": "",
+    "focus": "Start with the body and the long supporting curves. Keep their direction clear before adding parallel curves or feather details.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 129,
+    "crop": [
+      0.269,
+      0.144,
+      0.561,
+      0.765
+    ],
+    "printedPage": "Plate 51",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.9,
+    "vectorOverride": "bird129-body-stage.svg",
+    "sourcePages": [
+      129
+    ],
+    "reproduction": "Smooth source-guided Bezier reconstruction of the bird in Compendium Plate 51, rotated 90 degrees counterclockwise for study. Body and framework stages isolate the same figure’s construction routes."
+  },
+  {
+    "lessonId": "x03",
+    "title": "The framework before ornament",
+    "transcription": "",
+    "focus": "Add the head, body boundary, and broad wing curves around the first framework. Preserve open space between the main lines.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 129,
+    "crop": [
+      0.269,
+      0.144,
+      0.561,
+      0.765
+    ],
+    "printedPage": "Plate 51",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.92,
+    "vectorOverride": "bird129-framework.svg",
+    "sourcePages": [
+      129
+    ],
+    "reproduction": "Smooth source-guided Bezier reconstruction of the bird in Compendium Plate 51, rotated 90 degrees counterclockwise for study. Body and framework stages isolate the same figure’s construction routes."
+  },
+  {
+    "lessonId": "x04",
+    "title": "Offhand bird: the complete structure",
+    "transcription": "",
+    "focus": "Study the same bird with its secondary curves and light feather accents added. Keep the head readable and the outer curves open.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 129,
+    "crop": [
+      0.269,
+      0.144,
+      0.561,
+      0.765
+    ],
+    "printedPage": "Plate 51",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.9,
+    "excludeRects": [
+      [
+        0.573,
+        0.207,
+        0.584,
+        0.218
+      ],
+      [
+        0.572,
+        0.762,
+        0.584,
+        0.775
+      ]
+    ],
+    "vectorOverride": "bird129-redrawn.svg",
+    "sourcePages": [
+      129
+    ],
+    "reproduction": "Smooth source-guided Bezier reconstruction of the bird in Compendium Plate 51, rotated 90 degrees counterclockwise for study. Body and framework stages isolate the same figure’s construction routes."
+  },
+  {
+    "lessonId": "x05",
+    "title": "Interlaced script initials",
+    "transcription": "",
+    "focus": "Follow each capital through the overlap instead of reading the design as one outline. Preserve distinct letter paths and open counters when you combine your own initials.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 107,
+    "crop": [
+      0.088,
+      0.173,
+      0.232,
+      0.316
+    ],
+    "printedPage": "Plate 36",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.92,
+    "vectorOverride": "x05-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "x06",
+    "title": "A balanced page of text and ornament",
+    "transcription": "Count that day lost / Whose low descending sun / Views at thy hand / No worthy action done.",
+    "focus": "Give the ornament and writing separate areas of attention. Notice the open space around the bird, the grouped four-line verse, and the consistent margins.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 133,
+    "crop": [
+      0.113,
+      0.031,
+      0.997,
+      0.957
+    ],
+    "printedPage": "Plates 51 and 55",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.9,
+    "excludeRects": [
+      [
+        0.177,
+        0.039,
+        0.184,
+        0.052
+      ],
+      [
+        0.237,
+        0.037,
+        0.242,
+        0.043
+      ],
+      [
+        0.64,
+        0.036,
+        0.646,
+        0.044
+      ],
+      [
+        0.155,
+        0.922,
+        0.166,
+        0.931
+      ],
+      [
+        0.121,
+        0.94,
+        0.127,
+        0.947
+      ],
+      [
+        0.693,
+        0.943,
+        0.699,
+        0.949
+      ]
+    ],
+    "vectorOverride": "composition-redrawn.svg",
+    "sourcePages": [
+      129,
+      133
+    ],
+    "reproduction": "New teaching arrangement of source-guided bird and lettering reconstructions, derived from supplied physical pages129 and133; not presented as a facsimile of the original page."
+  },
+  {
+    "lessonId": "x07",
+    "title": "Critique a finished ornamental study",
+    "transcription": "",
+    "focus": "Critique the finished bird: look for smooth curves, restrained shading, clear crossings, and balanced white space. Compare your study at normal reading size before adding detail.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 129,
+    "crop": [
+      0.269,
+      0.144,
+      0.561,
+      0.765
+    ],
+    "printedPage": "Plate 51",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.88,
+    "excludeRects": [
+      [
+        0.104,
+        0.513,
+        0.1185,
+        0.541
+      ],
+      [
+        0.779,
+        0.679,
+        0.784,
+        0.686
+      ]
+    ],
+    "vectorOverride": "bird129-redrawn.svg",
+    "sourcePages": [
+      129
+    ],
+    "reproduction": "Smooth source-guided Bezier reconstruction of the bird in Compendium Plate 51, rotated 90 degrees counterclockwise for study. Body and framework stages isolate the same figure’s construction routes."
+  },
+  {
+    "lessonId": "s01",
+    "title": "A historical signature as a design reference",
+    "transcription": "W. H. Patrick",
+    "focus": "This display signature gives its initials much more space and weight than the surname. Use it to define your own balance of reading clarity, speed and ornament.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 98,
+    "crop": [
+      0.406,
+      0.397,
+      0.703,
+      0.555
+    ],
+    "printedPage": "Plate 27",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "excludeRects": [
+      [
+        0.48,
+        0.397,
+        0.495,
+        0.417
+      ],
+      [
+        0.517,
+        0.397,
+        0.522,
+        0.407
+      ]
+    ],
+    "threshold": 0.86,
+    "vectorOverride": "s01-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "s02",
+    "title": "A leading initial connected to a name",
+    "transcription": "W. H. Patrick",
+    "focus": "The leading initials set the character of Patrick while the surname stays light. Test your chosen initial with the first few letters of your own name.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 98,
+    "crop": [
+      0.406,
+      0.397,
+      0.703,
+      0.555
+    ],
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "printedPage": "Plate 27",
+    "excludeRects": [
+      [
+        0.48,
+        0.397,
+        0.495,
+        0.417
+      ],
+      [
+        0.517,
+        0.397,
+        0.522,
+        0.407
+      ]
+    ],
+    "threshold": 0.86,
+    "vectorOverride": "s02-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "s03",
+    "title": "A name with a consistent design system",
+    "transcription": "Lyman P. Spencer",
+    "focus": "The leading L, middle P and terminal loop form a coherent display design. Build your own daily, balanced and expressive versions from one readable base name.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 98,
+    "crop": [
+      0.432,
+      0.744,
+      0.683,
+      0.857
+    ],
+    "printedPage": "Plate 27",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.88,
+    "vectorOverride": "s03-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "s04",
+    "title": "Check advice against a visible model",
+    "transcription": "W. H. Patrick",
+    "focus": "Ask for feedback on one feature such as the capital scale or a crossing, then inspect that feature yourself. An AI description does not prove that an unseen stroke or letter is correct.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 98,
+    "crop": [
+      0.406,
+      0.397,
+      0.703,
+      0.555
+    ],
+    "printedPage": "Plate 27",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "excludeRects": [
+      [
+        0.48,
+        0.397,
+        0.495,
+        0.417
+      ],
+      [
+        0.517,
+        0.397,
+        0.522,
+        0.407
+      ]
+    ],
+    "threshold": 0.86,
+    "vectorOverride": "s04-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "s05",
+    "title": "A compact signature for practical use",
+    "transcription": "W. C. Ullmann",
+    "focus": "This receipt signature uses a restrained route with little extra ornament. Compare that compact structure with your own repeated trials at ordinary writing size.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 80,
+    "crop": [
+      0.652,
+      0.222,
+      0.91,
+      0.291
+    ],
+    "printedPage": "Plate 9",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.86,
+    "vectorOverride": "s05-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  },
+  {
+    "lessonId": "s06",
+    "title": "Keep the recurring features of a full design",
+    "transcription": "Lyman P. Spencer",
+    "focus": "Identify the leading capital, name rhythm and final loop that define this design. Record the recurring features of your own full signature and practice them consistently.",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "page": 98,
+    "crop": [
+      0.432,
+      0.744,
+      0.683,
+      0.857
+    ],
+    "printedPage": "Plate 27",
+    "sourceQuality": "Use the matching original scan before MRC degradation. This retains continuous engraved hairlines absent from the uploaded OCR derivative; clean paper tone without inventing letter strokes.",
+    "threshold": 0.88,
+    "vectorOverride": "s06-centerline.svg",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained."
+  }
+]

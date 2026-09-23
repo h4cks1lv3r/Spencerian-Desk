@@ -1,0 +1,12 @@
+{
+  "passed": false,
+  "package": "com.royal.spencerianlab",
+  "apk": "/workspace/scratch/13bfab23ba65/spencerian-lab/output/Spencerian-Lab-v1.1.1.apk",
+  "apk_sha256": "ad6f1d32321b3ee2279b5c1e010845b47ee98230fc72fa837ca7bc1401ef6d40",
+  "timeout_seconds": 180.0,
+  "serial": "emulator-5554",
+  "model": "sdk_gphone64_x86_64",
+  "android_sdk": "35",
+  "launcher": "com.royal.spencerianlab/.MainActivity",
+  "error": "Timed out before a resumed Activity displayed the loaded home controls"
+}

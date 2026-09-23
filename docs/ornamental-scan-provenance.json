@@ -1,0 +1,802 @@
+{
+  "title": "Lessons in Ornamental Penmanship",
+  "creator": "Charles Paxton Zaner",
+  "editionYear": 1920,
+  "digitizationContributor": "Penpoints Archive",
+  "digitizationUploadDate": "2025-04-11",
+  "catalogueURL": "https://archive.org/details/ornamental-penmanship-1920",
+  "downloadURL": "https://archive.org/download/ornamental-penmanship-1920/ornamental-penmanship-1920.pdf",
+  "pdfFile": "ornamental-penmanship-1920-highres.pdf",
+  "pdfSha256": "650fa36c81fd993b5856763d4d5da518a08d55055b3427376abd9a156ad5db91",
+  "declaredPPI": 600,
+  "rightsFromCatalogue": "Digitized by the Penpoints Archive from a privately owned original work, in the public domain. This digital edition is for research, study, and reuse.",
+  "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "pageMappingNote": "Printed page is physical PDF page minus 2 for body pages 3\u201396 (printed1\u201394); covers/unnumbered endmatter1\u20132 and97\u201398 mapped null. This arithmetic was verified against page numerals on selected body pages5,19,53,56\u201359; review any particular crop visually.",
+  "sourceFaithfulnessNote": "Native JPEG extracted directly from PDF; not enlarged or converted. Scan paper texture and small ink gaps remain in originals. App examples require separately reviewed cleanup.",
+  "pages": [
+    {
+      "physicalPage": 1,
+      "printedPage": null,
+      "file": "zaner-1920-p001.jpeg",
+      "nativeWidth": 4829,
+      "nativeHeight": 2831,
+      "sha256": "8f713c27691d4134723774ef3849e0b757bdc2daed21399a72f729c2dbeca653"
+    },
+    {
+      "physicalPage": 2,
+      "printedPage": null,
+      "file": "zaner-1920-p002.jpeg",
+      "nativeWidth": 4831,
+      "nativeHeight": 2830,
+      "sha256": "35be227cbae5131709498a90aa75db1ccfbbaeb85e6a46e8e0ee1a006abb66fa"
+    },
+    {
+      "physicalPage": 3,
+      "printedPage": 1,
+      "file": "zaner-1920-p003.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2840,
+      "sha256": "425f99a006999101325e46fbbdd0d71e5e209c173ab5fff509b1eb2da58607bf"
+    },
+    {
+      "physicalPage": 4,
+      "printedPage": 2,
+      "file": "zaner-1920-p004.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2843,
+      "sha256": "c90c8de7dd936edf1c2173a482396aca623b7b1dbb3a217ef2a67529e2dd51f1"
+    },
+    {
+      "physicalPage": 5,
+      "printedPage": 3,
+      "file": "zaner-1920-p005.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "ecda09cbb1d00a4a792da6cc2e9003a34f8a9d112fd4e21bd2e3e3749802774a"
+    },
+    {
+      "physicalPage": 6,
+      "printedPage": 4,
+      "file": "zaner-1920-p006.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "e28eaa44d87ea8576b78ce306da1cc4a088a9159040fb03eed7f87b5fc340fb7"
+    },
+    {
+      "physicalPage": 7,
+      "printedPage": 5,
+      "file": "zaner-1920-p007.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "bc32c54b740b6c5ea8b2379c28c0497079fa9bdc3057e6fda169477e999a28e2"
+    },
+    {
+      "physicalPage": 8,
+      "printedPage": 6,
+      "file": "zaner-1920-p008.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "f4de1a8e8d9da938edb9bc9ab228e02c630389ff5390ac9023e5e99514053034"
+    },
+    {
+      "physicalPage": 9,
+      "printedPage": 7,
+      "file": "zaner-1920-p009.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2843,
+      "sha256": "d195651b46a1aeb247569f4826ccf01b6ee792536351c2c45be55f5538d011b9"
+    },
+    {
+      "physicalPage": 10,
+      "printedPage": 8,
+      "file": "zaner-1920-p010.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "8f17c9ad1760239e752aeab37195a15f6164156f6e07ce109bac1b5c99da8ccf"
+    },
+    {
+      "physicalPage": 11,
+      "printedPage": 9,
+      "file": "zaner-1920-p011.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "bf6d6b0622b9ed2536b806655d4d89542c066fc106d3cf7d0224b025cbb180df"
+    },
+    {
+      "physicalPage": 12,
+      "printedPage": 10,
+      "file": "zaner-1920-p012.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "d4a8b495b7c2962639a4d1d6caae05b78f8cbd842c3ea5885976dbb40884be8f"
+    },
+    {
+      "physicalPage": 13,
+      "printedPage": 11,
+      "file": "zaner-1920-p013.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "f9b65543f207dad8cfbc9303813005569cfc2457991f0d76902d09b15026bf2a"
+    },
+    {
+      "physicalPage": 14,
+      "printedPage": 12,
+      "file": "zaner-1920-p014.jpeg",
+      "nativeWidth": 4846,
+      "nativeHeight": 2863,
+      "sha256": "72785c72564d4e0939ad832de98cd858a465afd1b2a2ce8e4e25079f87f19ed4"
+    },
+    {
+      "physicalPage": 15,
+      "printedPage": 13,
+      "file": "zaner-1920-p015.jpeg",
+      "nativeWidth": 4842,
+      "nativeHeight": 2852,
+      "sha256": "11677916d39c6b22fed65947130c944b987192316738e8d469d055104afc505c"
+    },
+    {
+      "physicalPage": 16,
+      "printedPage": 14,
+      "file": "zaner-1920-p016.jpeg",
+      "nativeWidth": 4842,
+      "nativeHeight": 2852,
+      "sha256": "ca03d1b457e5553acb2d2b632a83e9e2af0bb7960598b28ddb9bc03db69daebb"
+    },
+    {
+      "physicalPage": 17,
+      "printedPage": 15,
+      "file": "zaner-1920-p017.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2843,
+      "sha256": "bebc39f7e2bf54df3ab9be5f7c83e6e0dcf4b043ce57fb126160b1cefbe1ea56"
+    },
+    {
+      "physicalPage": 18,
+      "printedPage": 16,
+      "file": "zaner-1920-p018.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "cdcb0b992caf5876642576754dd922a11761daec364964fbe2fa47818d1e5945"
+    },
+    {
+      "physicalPage": 19,
+      "printedPage": 17,
+      "file": "zaner-1920-p019.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2843,
+      "sha256": "3a4bc9fa7fcc9b1b0e6386986d0a3af9208c16847455a77834e689d80c018864"
+    },
+    {
+      "physicalPage": 20,
+      "printedPage": 18,
+      "file": "zaner-1920-p020.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "2d1c4d3d0630dc45f06ca52aaee417a49c08951409f3d542e097c2a8064a0ff0"
+    },
+    {
+      "physicalPage": 21,
+      "printedPage": 19,
+      "file": "zaner-1920-p021.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "b0f714532c2df9139f9ac09ed3e96222a1b7df6365e8b0db93a614228c2e2213"
+    },
+    {
+      "physicalPage": 22,
+      "printedPage": 20,
+      "file": "zaner-1920-p022.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "ae4bd6ba8318af87b97239eaac9d4d6f30f97f64945d4ecdb004e022a4485c16"
+    },
+    {
+      "physicalPage": 23,
+      "printedPage": 21,
+      "file": "zaner-1920-p023.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "57a70e473cfe94f160f013b44a2d09ca5d9b5b822f7ed0a1868cae26e796b709"
+    },
+    {
+      "physicalPage": 24,
+      "printedPage": 22,
+      "file": "zaner-1920-p024.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "8d9e7616e8cda0f1f8a962f785dc8b3b2977e1afb7410a34a6c11112f5293846"
+    },
+    {
+      "physicalPage": 25,
+      "printedPage": 23,
+      "file": "zaner-1920-p025.jpeg",
+      "nativeWidth": 4842,
+      "nativeHeight": 2852,
+      "sha256": "cec81c8532a68db6d08f09cfeef62739f9d106093b55d65ec1af8657ddd68167"
+    },
+    {
+      "physicalPage": 26,
+      "printedPage": 24,
+      "file": "zaner-1920-p026.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2843,
+      "sha256": "2bb9c9dc8062a4e1c48e184d8b17eb50cea111b00b00d17783fe229589c98af3"
+    },
+    {
+      "physicalPage": 27,
+      "printedPage": 25,
+      "file": "zaner-1920-p027.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "9702c1e3e67f1d8517a01d944648f2db0a85e1fc47ffe9dcc1b0c677fa102331"
+    },
+    {
+      "physicalPage": 28,
+      "printedPage": 26,
+      "file": "zaner-1920-p028.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "a4863d5e001e807a7a9e972081bb7e1d7f923644b18bfae2e6eab61d2ccfa26b"
+    },
+    {
+      "physicalPage": 29,
+      "printedPage": 27,
+      "file": "zaner-1920-p029.jpeg",
+      "nativeWidth": 4841,
+      "nativeHeight": 2853,
+      "sha256": "d06b3160f708420e1de6dbff71a23e96268a9ac2f66fa36b4b88fe07afdb1027"
+    },
+    {
+      "physicalPage": 30,
+      "printedPage": 28,
+      "file": "zaner-1920-p030.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "d4660a4e50983dd02469853ce68628a1ac8bb8d878f58ed50fa9c161d77b8c69"
+    },
+    {
+      "physicalPage": 31,
+      "printedPage": 29,
+      "file": "zaner-1920-p031.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "75e38b8c8f6c14846d266efad5b0c1bf2f58a5707a6ac176ef2a959fa8e77d3f"
+    },
+    {
+      "physicalPage": 32,
+      "printedPage": 30,
+      "file": "zaner-1920-p032.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "c96e0d2ee8429196e09391b91085d5ed95bc9d9b81335743aee81a9bab0f927c"
+    },
+    {
+      "physicalPage": 33,
+      "printedPage": 31,
+      "file": "zaner-1920-p033.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "bdd57df0dae56ee4f4f06def64bd245ba8c8a2ca4962f9c9bffdf143b4b9a3da"
+    },
+    {
+      "physicalPage": 34,
+      "printedPage": 32,
+      "file": "zaner-1920-p034.jpeg",
+      "nativeWidth": 4841,
+      "nativeHeight": 2853,
+      "sha256": "10a137839b236ba3187c9c6591a3fe71a090b96a1a73ea6e08f240cb1fe6ec91"
+    },
+    {
+      "physicalPage": 35,
+      "printedPage": 33,
+      "file": "zaner-1920-p035.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2843,
+      "sha256": "084f6cf5dc35f8e07f8f67c869915ebbb6109d90dda78b33a118a11824663a6b"
+    },
+    {
+      "physicalPage": 36,
+      "printedPage": 34,
+      "file": "zaner-1920-p036.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "369190fe28fcc68e43c411a8f211ed893d229a6db1af6a1ff92f2fd61e9497c9"
+    },
+    {
+      "physicalPage": 37,
+      "printedPage": 35,
+      "file": "zaner-1920-p037.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2843,
+      "sha256": "ac6bcca1dfea550ddbaa38858b45f05838a21c0046598d7c54c844873f5f0fcc"
+    },
+    {
+      "physicalPage": 38,
+      "printedPage": 36,
+      "file": "zaner-1920-p038.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "9f49b8ced1843de040689b51d141d89d82ad1dcbeb8faa5c963d74463cf55483"
+    },
+    {
+      "physicalPage": 39,
+      "printedPage": 37,
+      "file": "zaner-1920-p039.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2843,
+      "sha256": "cc5def42b7f15eee356a13dd6a4a8fc5744c913339519e80f552142323ec7074"
+    },
+    {
+      "physicalPage": 40,
+      "printedPage": 38,
+      "file": "zaner-1920-p040.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "bc402eeb81e5bf00c1f3dac53a2d280efedcc484435b26e8babcabf9f5246659"
+    },
+    {
+      "physicalPage": 41,
+      "printedPage": 39,
+      "file": "zaner-1920-p041.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "2c4acb52b4382e30901f2f26acba7bb3f69a0cc9d95c196c835e42ef22c8cf90"
+    },
+    {
+      "physicalPage": 42,
+      "printedPage": 40,
+      "file": "zaner-1920-p042.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "cb9888b6dfaaa739e754ba9e21e243fed91efb65e15b0310996afbf0de64a41d"
+    },
+    {
+      "physicalPage": 43,
+      "printedPage": 41,
+      "file": "zaner-1920-p043.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "65206cd0698d20d711a276883a3eba5b8d66b66fffd67c784fe2e09509476edc"
+    },
+    {
+      "physicalPage": 44,
+      "printedPage": 42,
+      "file": "zaner-1920-p044.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "f2c6f25acbe98116618e0dcef5654c7cac7c421a2c9bb0c096ae232af169a65a"
+    },
+    {
+      "physicalPage": 45,
+      "printedPage": 43,
+      "file": "zaner-1920-p045.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "34b5a6fdc8eadcd55f2b284987ad551ba2800ef420105042461df69a503b94a3"
+    },
+    {
+      "physicalPage": 46,
+      "printedPage": 44,
+      "file": "zaner-1920-p046.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "b2cd739b4174a553cacb08291a75402e5c3b8f3299cdd3fe4090bd5e4a09019b"
+    },
+    {
+      "physicalPage": 47,
+      "printedPage": 45,
+      "file": "zaner-1920-p047.jpeg",
+      "nativeWidth": 4841,
+      "nativeHeight": 2853,
+      "sha256": "6102ef364560d9ded21b15cdfaca509bef8fb9b787f20f5c966dc74da179af7d"
+    },
+    {
+      "physicalPage": 48,
+      "printedPage": 46,
+      "file": "zaner-1920-p048.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "6291b7f6e123575b18bf4d8929bf060400ae8203af58225cbc34dd00c19f7126"
+    },
+    {
+      "physicalPage": 49,
+      "printedPage": 47,
+      "file": "zaner-1920-p049.jpeg",
+      "nativeWidth": 4842,
+      "nativeHeight": 2852,
+      "sha256": "09232563f836c79eae1e7a352f4e04e307963007e0f533eb185314a78209ab73"
+    },
+    {
+      "physicalPage": 50,
+      "printedPage": 48,
+      "file": "zaner-1920-p050.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "94f5a3a6ff9d4b66dee2a4634ccf2b254ed3a80efee11780ecedd40274bdb7df"
+    },
+    {
+      "physicalPage": 51,
+      "printedPage": 49,
+      "file": "zaner-1920-p051.jpeg",
+      "nativeWidth": 4842,
+      "nativeHeight": 2852,
+      "sha256": "88fd70e3a559827b18f6efa0fe14951f493fd09fb1ab3fa9d473302f4936d3cc"
+    },
+    {
+      "physicalPage": 52,
+      "printedPage": 50,
+      "file": "zaner-1920-p052.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "6f4b4d1b2a1487e8331178fd1a250cb8c204eaaf81e5d658829ac9fa7adf02a9"
+    },
+    {
+      "physicalPage": 53,
+      "printedPage": 51,
+      "file": "zaner-1920-p053.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2843,
+      "sha256": "08af109b8e0dd8b6af0abf71834489d6bfbf694c0499eb8a0ab47a4e792b971a"
+    },
+    {
+      "physicalPage": 54,
+      "printedPage": 52,
+      "file": "zaner-1920-p054.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "78549ac18603e8a1fae480b2231644df349789b45dee6897c9e03fe696651138"
+    },
+    {
+      "physicalPage": 55,
+      "printedPage": 53,
+      "file": "zaner-1920-p055.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "3bbfebed547539b12ace4ef618a800f84727960d16884ae9702817aa24ab5d09"
+    },
+    {
+      "physicalPage": 56,
+      "printedPage": 54,
+      "file": "zaner-1920-p056.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "20f1e117c05e57f9464450522c0205c3fd818950858c4a5896760d8612868508"
+    },
+    {
+      "physicalPage": 57,
+      "printedPage": 55,
+      "file": "zaner-1920-p057.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2843,
+      "sha256": "8a163939b886142eaf0fddaf72b6674b243c40844dae93a7fd00370aa4af0b0a"
+    },
+    {
+      "physicalPage": 58,
+      "printedPage": 56,
+      "file": "zaner-1920-p058.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "d12fe2f0a582be6df5d643a6e41aec42b442b9e40cb3918839c0b32d1279a2b7"
+    },
+    {
+      "physicalPage": 59,
+      "printedPage": 57,
+      "file": "zaner-1920-p059.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "1d8c864f7d1bbda47e740c53c75eda0efe3e5bcfe7ae663e7ef72f98ee11e407"
+    },
+    {
+      "physicalPage": 60,
+      "printedPage": 58,
+      "file": "zaner-1920-p060.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2843,
+      "sha256": "be999b6f31ed42f96fc81fc5bfd071d9dae5ddab0384e1a3d2d27a110f03df46"
+    },
+    {
+      "physicalPage": 61,
+      "printedPage": 59,
+      "file": "zaner-1920-p061.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "92ef79fd466d9cc4a442bed9bf4f51e48e742eed85b75c7089819d8366fa260e"
+    },
+    {
+      "physicalPage": 62,
+      "printedPage": 60,
+      "file": "zaner-1920-p062.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2843,
+      "sha256": "ccb774276d23f2dcc5189136f3d7adbc71f036b58c14e59aaedf3cb4a14a3621"
+    },
+    {
+      "physicalPage": 63,
+      "printedPage": 61,
+      "file": "zaner-1920-p063.jpeg",
+      "nativeWidth": 4847,
+      "nativeHeight": 2862,
+      "sha256": "99798958a1b478a3bda357b0f144efea096ef3276cea340ae76eb47638a14230"
+    },
+    {
+      "physicalPage": 64,
+      "printedPage": 62,
+      "file": "zaner-1920-p064.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "6aff3adb9f0b431e7ff4527d59d69edbdb99945e5ac10203cdd93fb1746813fa"
+    },
+    {
+      "physicalPage": 65,
+      "printedPage": 63,
+      "file": "zaner-1920-p065.jpeg",
+      "nativeWidth": 4842,
+      "nativeHeight": 2852,
+      "sha256": "78f5e71c693a6f80a3c1642181958acc3e1a288b1fa0a4b69bc43f7c86e2ee1a"
+    },
+    {
+      "physicalPage": 66,
+      "printedPage": 64,
+      "file": "zaner-1920-p066.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "a1a3af7aa6c25ca479ff0c4306ca149a1299e33d454bf63d5231a2c9312a9eee"
+    },
+    {
+      "physicalPage": 67,
+      "printedPage": 65,
+      "file": "zaner-1920-p067.jpeg",
+      "nativeWidth": 4837,
+      "nativeHeight": 2839,
+      "sha256": "89a3e7dbce442d6991a020230749f4bae100f2f4d0c2d46a18d22ce0a22961fb"
+    },
+    {
+      "physicalPage": 68,
+      "printedPage": 66,
+      "file": "zaner-1920-p068.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "aadedd6fe063ac651f7877f1ad728ae30756f8dc4d591fff11500752cf5315b7"
+    },
+    {
+      "physicalPage": 69,
+      "printedPage": 67,
+      "file": "zaner-1920-p069.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2843,
+      "sha256": "ea87bed7f790e35de77db69f2c6092272da98d154d5e194e801c2a2b835f3494"
+    },
+    {
+      "physicalPage": 70,
+      "printedPage": 68,
+      "file": "zaner-1920-p070.jpeg",
+      "nativeWidth": 4835,
+      "nativeHeight": 2844,
+      "sha256": "ea475131f8fbd74505588a4cbd4d61430ccfcac74c7e4005c48ca0e3fa9f76d7"
+    },
+    {
+      "physicalPage": 71,
+      "printedPage": 69,
+      "file": "zaner-1920-p071.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "a54f6e8fd72e4ec476d4ddf7ff8143faf7a4deb2c04f2b222da3d7d1076386b1"
+    },
+    {
+      "physicalPage": 72,
+      "printedPage": 70,
+      "file": "zaner-1920-p072.jpeg",
+      "nativeWidth": 4832,
+      "nativeHeight": 2829,
+      "sha256": "507bfd4a0b06f83981ec97c1646abbb3c56399ae199a4578e1ec9f02f351041e"
+    },
+    {
+      "physicalPage": 73,
+      "printedPage": 71,
+      "file": "zaner-1920-p073.jpeg",
+      "nativeWidth": 4830,
+      "nativeHeight": 2834,
+      "sha256": "32eda3e43b900b83283ad7723f1b661986860845aebc32d6d647439431db5362"
+    },
+    {
+      "physicalPage": 74,
+      "printedPage": 72,
+      "file": "zaner-1920-p074.jpeg",
+      "nativeWidth": 4928,
+      "nativeHeight": 2917,
+      "sha256": "a2519527eddecd84a9ae03fe40fddaa1172643f1afae605ed6437d04edeffeab"
+    },
+    {
+      "physicalPage": 75,
+      "printedPage": 73,
+      "file": "zaner-1920-p075.jpeg",
+      "nativeWidth": 4925,
+      "nativeHeight": 3001,
+      "sha256": "05f980692e3709164f67d3a36f29d9e423aa6e39b309b13acf0136f2ab9013fc"
+    },
+    {
+      "physicalPage": 76,
+      "printedPage": 74,
+      "file": "zaner-1920-p076.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2840,
+      "sha256": "e38b7da38d88261bb158f28e382788deac7097e79ce2b88b1f0f8416a94931fb"
+    },
+    {
+      "physicalPage": 77,
+      "printedPage": 75,
+      "file": "zaner-1920-p077.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2840,
+      "sha256": "cd8a63c1c993679bb6326fcd4d7d0522b1e4d27b764963b8df4bfa914abd7ab1"
+    },
+    {
+      "physicalPage": 78,
+      "printedPage": 76,
+      "file": "zaner-1920-p078.jpeg",
+      "nativeWidth": 4831,
+      "nativeHeight": 2830,
+      "sha256": "b7c8f293b54db7c3efd94381dc9a8a47e4dc13ad1b251ec6f77b26924c3289c5"
+    },
+    {
+      "physicalPage": 79,
+      "printedPage": 77,
+      "file": "zaner-1920-p079.jpeg",
+      "nativeWidth": 4837,
+      "nativeHeight": 2839,
+      "sha256": "0ccd35738cd5cd52a93e962a62a27c0d878da7947397fc35dfdc9425d7459352"
+    },
+    {
+      "physicalPage": 80,
+      "printedPage": 78,
+      "file": "zaner-1920-p080.jpeg",
+      "nativeWidth": 4848,
+      "nativeHeight": 2858,
+      "sha256": "74e64bbb0330f3496b07efa9ed8a721bdbcf09a5bf4e43da92087271851e2bee"
+    },
+    {
+      "physicalPage": 81,
+      "printedPage": 79,
+      "file": "zaner-1920-p081.jpeg",
+      "nativeWidth": 4831,
+      "nativeHeight": 2830,
+      "sha256": "ee33ab60147632ee85c2db178381aa4bfcd4c806397398dafb681be3cb493bcc"
+    },
+    {
+      "physicalPage": 82,
+      "printedPage": 80,
+      "file": "zaner-1920-p082.jpeg",
+      "nativeWidth": 4832,
+      "nativeHeight": 2829,
+      "sha256": "c225a97eebce8cfdcb8b50ec7ab23d276baa1bb51edf15e9f8d402825411feaf"
+    },
+    {
+      "physicalPage": 83,
+      "printedPage": 81,
+      "file": "zaner-1920-p083.jpeg",
+      "nativeWidth": 4843,
+      "nativeHeight": 2848,
+      "sha256": "dd2a6aa19b886d299d0d0a47f5b03a9cc96e6c23ee85de303487cb13416cf97a"
+    },
+    {
+      "physicalPage": 84,
+      "printedPage": 82,
+      "file": "zaner-1920-p084.jpeg",
+      "nativeWidth": 4842,
+      "nativeHeight": 2849,
+      "sha256": "e7b6da268050d0862133ff6cd1ca6680d7a75ce005b8379b97fe5a638377fe47"
+    },
+    {
+      "physicalPage": 85,
+      "printedPage": 83,
+      "file": "zaner-1920-p085.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2840,
+      "sha256": "e5805ded432ebe1e250f732a3409f1100337437f5453797379080c3b8629216c"
+    },
+    {
+      "physicalPage": 86,
+      "printedPage": 84,
+      "file": "zaner-1920-p086.jpeg",
+      "nativeWidth": 4837,
+      "nativeHeight": 2839,
+      "sha256": "388db99e96a0795f5be8c27f54c6041aba8eafc02be568bde6b80505e884647c"
+    },
+    {
+      "physicalPage": 87,
+      "printedPage": 85,
+      "file": "zaner-1920-p087.jpeg",
+      "nativeWidth": 4853,
+      "nativeHeight": 2868,
+      "sha256": "e6a5ea155ebd5a2581ebfc9d8e117eab0743e84ddc94f03c5e6866b9379b3719"
+    },
+    {
+      "physicalPage": 88,
+      "printedPage": 86,
+      "file": "zaner-1920-p088.jpeg",
+      "nativeWidth": 4837,
+      "nativeHeight": 2839,
+      "sha256": "d0b5fc5d2c5e03ad4aa4222fa2dfc0551a5a31126e10e36c06ac597c94c31b39"
+    },
+    {
+      "physicalPage": 89,
+      "printedPage": 87,
+      "file": "zaner-1920-p089.jpeg",
+      "nativeWidth": 4836,
+      "nativeHeight": 2840,
+      "sha256": "ad1da9e9caa4fe26de71431ab64841747c94455d23e46c0c6a46f30e6f36d069"
+    },
+    {
+      "physicalPage": 90,
+      "printedPage": 88,
+      "file": "zaner-1920-p090.jpeg",
+      "nativeWidth": 4831,
+      "nativeHeight": 2830,
+      "sha256": "d395e2c46f13267b38d43428532ddc257a1cacd847064e273eda3c0682960f36"
+    },
+    {
+      "physicalPage": 91,
+      "printedPage": 89,
+      "file": "zaner-1920-p091.jpeg",
+      "nativeWidth": 4831,
+      "nativeHeight": 2830,
+      "sha256": "681caf6bc2501ad12f9e9151de3f31918e07c74a3fb718dd1568fe0ade51f7ff"
+    },
+    {
+      "physicalPage": 92,
+      "printedPage": 90,
+      "file": "zaner-1920-p092.jpeg",
+      "nativeWidth": 4838,
+      "nativeHeight": 2838,
+      "sha256": "086c353dc9559499ee7eedff74f25745df2d9be1273956920b87838ee83d3540"
+    },
+    {
+      "physicalPage": 93,
+      "printedPage": 91,
+      "file": "zaner-1920-p093.jpeg",
+      "nativeWidth": 4838,
+      "nativeHeight": 2838,
+      "sha256": "26418dcbe7b309a2f7d958a738d60b1280ada0f757372b7bed7b50f8fbbb7d0e"
+    },
+    {
+      "physicalPage": 94,
+      "printedPage": 92,
+      "file": "zaner-1920-p094.jpeg",
+      "nativeWidth": 4841,
+      "nativeHeight": 2849,
+      "sha256": "f7c5b35a2cc93e574f3827340aea5a88f1bfa36e48b1a13f4bd127b8dcd8bbc4"
+    },
+    {
+      "physicalPage": 95,
+      "printedPage": 93,
+      "file": "zaner-1920-p095.jpeg",
+      "nativeWidth": 4840,
+      "nativeHeight": 2850,
+      "sha256": "e82f2b8e1d37765f01ea2f67cfae93ff139bc04895df399c86da2a60fe1dab9e"
+    },
+    {
+      "physicalPage": 96,
+      "printedPage": 94,
+      "file": "zaner-1920-p096.jpeg",
+      "nativeWidth": 4834,
+      "nativeHeight": 2841,
+      "sha256": "e922a4d5772122b8568c75d19af84a2730fcba906e24d4d3b7fe9833d4e3deee"
+    },
+    {
+      "physicalPage": 97,
+      "printedPage": null,
+      "file": "zaner-1920-p097.jpeg",
+      "nativeWidth": 4831,
+      "nativeHeight": 2830,
+      "sha256": "35be227cbae5131709498a90aa75db1ccfbbaeb85e6a46e8e0ee1a006abb66fa"
+    },
+    {
+      "physicalPage": 98,
+      "printedPage": null,
+      "file": "zaner-1920-p098.jpeg",
+      "nativeWidth": 4829,
+      "nativeHeight": 2831,
+      "sha256": "c507d15366feb74c6a1570bb63ba3b1a25541e74a773f0dce143622428b57b58"
+    }
+  ]
+}

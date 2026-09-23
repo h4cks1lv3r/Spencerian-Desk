@@ -1,0 +1,28 @@
+{
+  "apk": "The-Spencerian-Desk-v1.3.1.apk",
+  "versionName": "1.3.1",
+  "versionCode": 10,
+  "package": "com.royal.spencerianlab",
+  "applicationLabel": "The Spencerian Desk",
+  "bytes": 1357721,
+  "sha256": "989db6077220276450fae0b40a754c9fb37b08afc7122869386739396791f594",
+  "assetCount": 133,
+  "allAssetsByteIdentical": true,
+  "certificateSha256": "680e45d2c014ccb9da17e33517022f7422597585831c17c910dbe1323f36a657",
+  "certificateMatchesPrevious": true,
+  "requiredExistingSigning": true,
+  "signatureSchemes": [
+    "v2",
+    "v3"
+  ],
+  "alignmentVerified": true,
+  "alignmentCheck": "zipalign -c -P 16 4",
+  "previousApk": "The-Spencerian-Desk-v1.3.0.apk",
+  "dexIdenticalToPrevious": true,
+  "dexSha256": "9684086f09150e0af540882dc86293b5d56c0af35908a3b382fc42df500f9980",
+  "previousDexSha256": "9684086f09150e0af540882dc86293b5d56c0af35908a3b382fc42df500f9980",
+  "limitations": [
+    "No physical Android device test performed by this build check.",
+    "Live AI provider calls not tested by this build check."
+  ]
+}

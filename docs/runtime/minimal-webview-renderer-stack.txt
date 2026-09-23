@@ -1,0 +1,40 @@
+09-14 01:50:43.298  6594  6636 F DEBUG   : *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+09-14 01:50:43.299  6594  6636 F DEBUG   : Build fingerprint: 'google/sdk_gphone64_x86_64/emu64xa:15/AE3A.240806.043/12960925:userdebug/dev-keys'
+09-14 01:50:43.299  6594  6636 F DEBUG   : Revision: '0'
+09-14 01:50:43.299  6594  6636 F DEBUG   : ABI: 'x86_64'
+09-14 01:50:43.299  6594  6636 F DEBUG   : Timestamp: 2026-09-14 01:50:33.006216085+0800
+09-14 01:50:43.299  6594  6636 F DEBUG   : Process uptime: 47s
+09-14 01:50:43.308  6594  6636 F DEBUG   : Cmdline: com.google.android.webview:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:0
+09-14 01:50:43.308  6594  6636 F DEBUG   : pid: 6594, tid: 6636, name: CrRendererMain  >>> com.google.android.webview:sandboxed_process0:org.chromium.content.app.SandboxedProcessService0:0 <<<
+09-14 01:50:43.308  6594  6636 F DEBUG   : uid: 99003
+09-14 01:50:43.308  6594  6636 F DEBUG   : signal 5 (SIGTRAP), code 128 (SI_KERNEL), fault addr --------
+09-14 01:50:43.309  6594  6636 F DEBUG   :     rax 00000000b2987c00  rbx 0000714c20053250  rcx 0000000000007c76  rdx 000000000007ff88
+09-14 01:50:43.309  6594  6636 F DEBUG   :     r8  0000000000000000  r9  0000000080078071  r10 00000000000074db  r11 0000000000000042
+09-14 01:50:43.309  6594  6636 F DEBUG   :     r12 0000310c00a0c000  r13 0000310c00414980  r14 0000310c00a0c000  r15 0000000000000000
+09-14 01:50:43.312  6594  6636 F DEBUG   :     rdi 0000000000007c76  rsi 0000000000000008
+09-14 01:50:43.312  6594  6636 F DEBUG   :     rbp 0000310c0051f018  rsp 0000714c637d0ad0  rip 0000714c1ad0cdba
+09-14 01:50:43.313  6594  6636 F DEBUG   : 22 total frames
+09-14 01:50:43.313  6594  6636 F DEBUG   : backtrace:
+09-14 01:50:43.313  6594  6636 F DEBUG   :       #00 pc 00000000028a7dba  /data/app/~~J-dY75YHo6WqRZpw2Pmnew==/com.google.android.trichromelibrary_636771938-VkOTyjBQJEBQd0z32854nA==/TrichromeLibrary.apk!libmonochrome_64.so (offset 0x8cc000) (BuildId: 2fdf3a989203643cc036b36c2d7975dfe53e8ca3)
+09-14 01:50:43.313  6594  6636 F DEBUG   :       #01 pc 00000000028a75f6  /data/app/~~J-dY75YHo6WqRZpw2Pmnew==/com.google.android.trichromelibrary_636771938-VkOTyjBQJEBQd0z32854nA==/TrichromeLibrary.apk!libmonochrome_64.so (offset 0x8cc000) (BuildId: 2fdf3a989203643cc036b36c2d7975dfe53e8ca3)
+09-14 01:50:43.313  6594  6636 F DEBUG   :       #02 pc 00000000028a3a6f  /data/app/~~J-dY75YHo6WqRZpw2Pmnew==/com.google.android.trichromelibrary_636771938-VkOTyjBQJEBQd0z32854nA==/TrichromeLibrary.apk!libmonochrome_64.so (offset 0x8cc000) (BuildId: 2fdf3a989203643cc036b36c2d7975dfe53e8ca3)
+09-14 01:50:43.326  6594  6636 F DEBUG   :       #03 pc 000000000669936f  /data/app/~~J-dY75YHo6WqRZpw2Pmnew==/com.google.android.trichromelibrary_636771938-VkOTyjBQJEBQd0z32854nA==/TrichromeLibrary.apk!libmonochrome_64.so (offset 0x8cc000) (BuildId: 2fdf3a989203643cc036b36c2d7975dfe53e8ca3)
+09-14 01:50:43.326  6594  6636 F DEBUG   :       #04 pc 0000000006b56aa5  /data/app/~~J-dY75YHo6WqRZpw2Pmnew==/com.google.android.trichromelibrary_636771938-VkOTyjBQJEBQd0z32854nA==/TrichromeLibrary.apk!libmonochrome_64.so (offset 0x8cc000) (BuildId: 2fdf3a989203643cc036b36c2d7975dfe53e8ca3)
+09-14 01:50:43.326  6594  6636 F DEBUG   :       #05 pc 00000000028a3090  /data/app/~~J-dY75YHo6WqRZpw2Pmnew==/com.google.android.trichromelibrary_636771938-VkOTyjBQJEBQd0z32854nA==/TrichromeLibrary.apk!libmonochrome_64.so (offset 0x8cc000) (BuildId: 2fdf3a989203643cc036b36c2d7975dfe53e8ca3)
+09-14 01:50:43.326  6594  6636 F DEBUG   :       #06 pc 00000000029855f1  /data/app/~~J-dY75YHo6WqRZpw2Pmnew==/com.google.android.trichromelibrary_636771938-VkOTyjBQJEBQd0z32854nA==/TrichromeLibrary.apk!libmonochrome_64.so (offset 0x8cc000) (BuildId: 2fdf3a989203643cc036b36c2d7975dfe53e8ca3)
+09-14 01:50:43.326  6594  6636 F DEBUG   :       #07 pc 00000000028c6fec  /data/app/~~J-dY75YHo6WqRZpw2Pmnew==/com.google.android.trichromelibrary_636771938-VkOTyjBQJEBQd0z32854nA==/TrichromeLibrary.apk!libmonochrome_64.so (offset 0x8cc000) (BuildId: 2fdf3a989203643cc036b36c2d7975dfe53e8ca3)
+09-14 01:50:43.326  6594  6636 F DEBUG   :       #08 pc 000000000291dc8f  /data/app/~~J-dY75YHo6WqRZpw2Pmnew==/com.google.android.trichromelibrary_636771938-VkOTyjBQJEBQd0z32854nA==/TrichromeLibrary.apk!libmonochrome_64.so (offset 0x8cc000) (BuildId: 2fdf3a989203643cc036b36c2d7975dfe53e8ca3)
+09-14 01:50:43.326  6594  6636 F DEBUG   :       #09 pc 000000000290d37b  /data/app/~~J-dY75YHo6WqRZpw2Pmnew==/com.google.android.trichromelibrary_636771938-VkOTyjBQJEBQd0z32854nA==/TrichromeLibrary.apk!libmonochrome_64.so (offset 0x8cc000) (BuildId: 2fdf3a989203643cc036b36c2d7975dfe53e8ca3)
+09-14 01:50:43.327  6594  6636 F DEBUG   :       #10 pc 00000000028e30db  /data/app/~~J-dY75YHo6WqRZpw2Pmnew==/com.google.android.trichromelibrary_636771938-VkOTyjBQJEBQd0z32854nA==/TrichromeLibrary.apk!libmonochrome_64.so (offset 0x8cc000) (BuildId: 2fdf3a989203643cc036b36c2d7975dfe53e8ca3)
+09-14 01:50:43.327  6594  6636 F DEBUG   :       #11 pc 00000000028e2ea6  /data/app/~~J-dY75YHo6WqRZpw2Pmnew==/com.google.android.trichromelibrary_636771938-VkOTyjBQJEBQd0z32854nA==/TrichromeLibrary.apk!libmonochrome_64.so (offset 0x8cc000) (Java_J_N_M1Y_1XVCN+102) (BuildId: 2fdf3a989203643cc036b36c2d7975dfe53e8ca3)
+09-14 01:50:43.327  6594  6636 F DEBUG   :       #12 pc 00000000000a1e3c  /system/framework/x86_64/boot.oat (art_jni_trampoline+124) (BuildId: 68b5d9df423be4ebd4a6c38087fc90e635afb135)
+09-14 01:50:43.327  6594  6636 F DEBUG   :       #13 pc 0000000000208a15  /apex/com.android.art/lib64/libart.so (nterp_helper+165) (BuildId: 62338b1c62e3991543c9b8b8bae2b361)
+09-14 01:50:43.327  6594  6636 F DEBUG   :       #14 pc 00000000000ae022  /data/app/~~vZLK24B-FNqrbnoHciNkbg==/com.google.android.webview-kX1HAE_i00wCSWCOg8_AAA==/WebViewGoogle.apk
+09-14 01:50:43.327  6594  6636 F DEBUG   :       #15 pc 000000000015c3ba  /system/framework/x86_64/boot.oat (java.lang.Thread.run+74) (BuildId: 68b5d9df423be4ebd4a6c38087fc90e635afb135)
+09-14 01:50:43.327  6594  6636 F DEBUG   :       #16 pc 0000000000212154  /apex/com.android.art/lib64/libart.so (art_quick_invoke_stub+756) (BuildId: 62338b1c62e3991543c9b8b8bae2b361)
+09-14 01:50:43.327  6594  6636 F DEBUG   :       #17 pc 0000000000474bf5  /apex/com.android.art/lib64/libart.so (art::ArtMethod::Invoke(art::Thread*, unsigned int*, unsigned int, art::JValue*, char const*)+181) (BuildId: 62338b1c62e3991543c9b8b8bae2b361)
+09-14 01:50:43.328  6594  6636 F DEBUG   :       #18 pc 00000000008c5cc3  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallback(void*)+1427) (BuildId: 62338b1c62e3991543c9b8b8bae2b361)
+09-14 01:50:43.328  6594  6636 F DEBUG   :       #19 pc 00000000008c5725  /apex/com.android.art/lib64/libart.so (art::Thread::CreateCallbackWithUffdGc(void*)+5) (BuildId: 62338b1c62e3991543c9b8b8bae2b361)
+09-14 01:50:43.328  6594  6636 F DEBUG   :       #20 pc 000000000006d62a  /apex/com.android.runtime/lib64/bionic/libc.so (__pthread_start(void*)+58) (BuildId: eb58b4d427279994f00c0e1818477e4f)
+09-14 01:50:43.328  6594  6636 F DEBUG   :       #21 pc 0000000000060348  /apex/com.android.runtime/lib64/bionic/libc.so (__start_thread+56) (BuildId: eb58b4d427279994f00c0e1818477e4f)
+09-14 01:50:44.364  6500  6500 E chromium: [ERROR:aw_browser_terminator.cc(154)] Renderer process (6594) crash detected (code 5).

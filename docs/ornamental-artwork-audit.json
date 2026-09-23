@@ -1,0 +1,756 @@
+{
+  "models": 98,
+  "plates": 23,
+  "issues": [],
+  "svgChecks": {
+    "examples/a01-1.svg": {
+      "width": 1300.349,
+      "height": 366.835,
+      "sha256": "d87bfb7ac8b926c723334f81b5df4bf8e4214301f082cc4bae3c838182fa0199",
+      "validVector": true
+    },
+    "examples/a02-1.svg": {
+      "width": 1000.0,
+      "height": 922.334,
+      "sha256": "532a6f761422594efc39d3e5c0c27eebe102425355e9bbff3526b24d69419b51",
+      "validVector": true
+    },
+    "examples/a03-1.svg": {
+      "width": 1048.5,
+      "height": 350.521,
+      "sha256": "201ab9ffec2ddd63847d90c752427a50281030dd9040442ff053035a4734df29",
+      "validVector": true
+    },
+    "examples/a04-1.svg": {
+      "width": 3746.227,
+      "height": 441.041,
+      "sha256": "4895a3132d10129c721adb2555ff1c9df8ee9ef7c83a0cff2d2ee2d30e7ef460",
+      "validVector": true
+    },
+    "examples/a05-1.svg": {
+      "width": 3530.954,
+      "height": 553.304,
+      "sha256": "186d4fb75815b442ca87eb8599b11cd20a20768bf4f42e4dcbe21f4fa4daa44c",
+      "validVector": true
+    },
+    "examples/a06-1.svg": {
+      "width": 1150.0,
+      "height": 700.0,
+      "sha256": "f80ef81cceab3c2770ed40a9d44a2d82c1fc95b1615c03689a31d23963d7f612",
+      "validVector": true
+    },
+    "examples/a07-1.svg": {
+      "width": 1688.219,
+      "height": 634.738,
+      "sha256": "8251017ddf5b1ca875495a7d63b76e455902315b3d5f9670a0dc9df2604100d4",
+      "validVector": true
+    },
+    "examples/a08-1.svg": {
+      "width": 3956.804,
+      "height": 574.608,
+      "sha256": "b75ac4a92ccc0e254bfbc27efea8319fdbd1a8a007daeea5852a7dd1f28fcb17",
+      "validVector": true
+    },
+    "examples/c01-1.svg": {
+      "width": 1995.25,
+      "height": 446.32,
+      "sha256": "fe3c2d926d0944951aa3c48973b889cf870c5dea9ddd08471f2cc1d66eef7062",
+      "validVector": true
+    },
+    "examples/c02-1.svg": {
+      "width": 2175.89,
+      "height": 538.64,
+      "sha256": "7da7826b05a22bdb37a9e8f94a15f6d0157137ead92b2c60f1631126f6827291",
+      "validVector": true
+    },
+    "examples/c03-1.svg": {
+      "width": 1895.21,
+      "height": 492.5,
+      "sha256": "f084b60c07151e8d728e14271f6f154dc2e93e209a3508d888fca9d1f90ee7d1",
+      "validVector": true
+    },
+    "examples/c04-1.svg": {
+      "width": 1274.64,
+      "height": 534.71,
+      "sha256": "4189cf286633ffb8a30dce1ab9c1711556a6751ba9e124d114fb453cc33c7daa",
+      "validVector": true
+    },
+    "examples/c05-1.svg": {
+      "width": 2363.23,
+      "height": 546.82,
+      "sha256": "97c9e240b5b5c7478bc5371e92a1350d2384ed5dc9a064934def541770927037",
+      "validVector": true
+    },
+    "examples/c06-1.svg": {
+      "width": 1405.05,
+      "height": 482.57,
+      "sha256": "bd50c70e32ca4a7529a75d8a05221874b51e953f81f495f4b54b348e99f3269b",
+      "validVector": true
+    },
+    "examples/c07-1.svg": {
+      "width": 1054.22,
+      "height": 571.05,
+      "sha256": "fc7db9f18c990d6451a776cc7960bf43f0040b66a197f6dd393585f9106811e0",
+      "validVector": true
+    },
+    "examples/c08-1.svg": {
+      "width": 712.25,
+      "height": 431.53,
+      "sha256": "c7d5db8a08428f841223776f4bd32e75e1c40cadf01dc223e6a2f71d43eaeacc",
+      "validVector": true
+    },
+    "examples/c09-1.svg": {
+      "width": 1502.96,
+      "height": 508.61,
+      "sha256": "4bd31cf33554ec17d1f98e640839bfc6e46a9e226b642394e886e8633243960b",
+      "validVector": true
+    },
+    "examples/c10-1.svg": {
+      "width": 1456.57,
+      "height": 519.83,
+      "sha256": "d936a8bc645d8241e6fb07223cce2090ceacb0699af59184129470416236542d",
+      "validVector": true
+    },
+    "examples/e01-1.svg": {
+      "width": 213.769,
+      "height": 82.544,
+      "sha256": "7ba806af2860383032194d69e77a4eb3e55998e00edd22d0c886be426e7785b4",
+      "validVector": true
+    },
+    "examples/e01-2.svg": {
+      "width": 202.778,
+      "height": 83.408,
+      "sha256": "9e6db0585fd87eae33c4095e7a1f07605bfb928ad39429539d6443849114ac0b",
+      "validVector": true
+    },
+    "examples/e02-1.svg": {
+      "width": 230.935,
+      "height": 151.462,
+      "sha256": "a9f92d4ddf3cb0f10eb151abfed2e58d07c95f46ab04a9c6c6091b7da58f1fba",
+      "validVector": true
+    },
+    "examples/e02-2.svg": {
+      "width": 234.235,
+      "height": 153.463,
+      "sha256": "7ce06e7b50a7b3e8fcc4fd8370d77cda6aba14d68ed6ba1c9c9315aab8ad337a",
+      "validVector": true
+    },
+    "examples/e03-1.svg": {
+      "width": 465.0,
+      "height": 253.697,
+      "sha256": "b4fc92698b374cd4e69c16f8828c17e742407a035608b965852fa8a4914dfa8d",
+      "validVector": true
+    },
+    "examples/e03-2.svg": {
+      "width": 227.971,
+      "height": 184.535,
+      "sha256": "183b65d83acc19673c5a7c80214532ec0639d30f9d7e313010b2272c593e71c0",
+      "validVector": true
+    },
+    "examples/e04-1.svg": {
+      "width": 237.289,
+      "height": 176.998,
+      "sha256": "7d6072e084df79e54a1a0dbf5543d0860bb37159648cfa4ba4f60f8120c44e4d",
+      "validVector": true
+    },
+    "examples/e04-2.svg": {
+      "width": 280.488,
+      "height": 176.841,
+      "sha256": "56ebd117fa0c1882cb4ec5c0069b503df7bd46fc199ae4328ebe996f928d2c2d",
+      "validVector": true
+    },
+    "examples/e05-1.svg": {
+      "width": 266.762,
+      "height": 186.825,
+      "sha256": "8145404d7fa1d0fb65c58dc6e1e7a104354d9e81306f0d55fa17d2fff064f046",
+      "validVector": true
+    },
+    "examples/e05-2.svg": {
+      "width": 230.096,
+      "height": 183.805,
+      "sha256": "64979de501e45abe89e14d49aa41311965b4121b57d223e0d46f14da0083c015",
+      "validVector": true
+    },
+    "examples/e06-1.svg": {
+      "width": 253.543,
+      "height": 220.443,
+      "sha256": "7d569be72c451d0d7df47c112c00c642dff26199829df6a98fbb90108fb6da39",
+      "validVector": true
+    },
+    "examples/e06-2.svg": {
+      "width": 258.462,
+      "height": 189.283,
+      "sha256": "6c686ed8571aebf8cc26386f25078f1228a524979d2e6a5681751af6a6953587",
+      "validVector": true
+    },
+    "examples/e07-1.svg": {
+      "width": 231.664,
+      "height": 179.906,
+      "sha256": "1b8c02af827c4f831ffe9e0bc92a19b53c323bb786e52ef68b77878f825f55ce",
+      "validVector": true
+    },
+    "examples/e07-2.svg": {
+      "width": 236.904,
+      "height": 198.588,
+      "sha256": "9b6e249a9194cd8ab8c57f3f19d77379f05a3e4d6cc049138d742f58b6f672c8",
+      "validVector": true
+    },
+    "examples/e08-1.svg": {
+      "width": 215.769,
+      "height": 298.93,
+      "sha256": "ef5a3373dc282481ac957f0393de768d6c969275b3b8a7e54776387f71c7214b",
+      "validVector": true
+    },
+    "examples/f01-1.svg": {
+      "width": 600.0,
+      "height": 170.0,
+      "sha256": "ed3c26dbb061b0650e240ca824f29d0cada6504e849ff1c40614617a5d0c7d18",
+      "validVector": true
+    },
+    "examples/f02-1-part1.svg": {
+      "width": 113.0,
+      "height": 99.0,
+      "sha256": "195611c66ad50ed1da41507f6eb75650c342d6c2b69148919afcfb130be4f1ef",
+      "validVector": true
+    },
+    "examples/f02-1-part2.svg": {
+      "width": 375.0,
+      "height": 92.0,
+      "sha256": "1257e9809581995ab46d989c83995fea75fb30b6e40902ba9baac28c9a6807d7",
+      "validVector": true
+    },
+    "examples/f02-1.svg": {
+      "width": 840.0,
+      "height": 320.0,
+      "sha256": "f1561849875bb99810d93cfd5f528a7968757de260a1f19bfa1f328e4eb9b104",
+      "validVector": true
+    },
+    "examples/f03-1.svg": {
+      "width": 1202.0,
+      "height": 1599.0,
+      "sha256": "d258d89c2c70f73d6c101e5ff58203b5e6d9dc04102726cd0dbd72aa6e55cbb9",
+      "validVector": true
+    },
+    "examples/f04-1.svg": {
+      "width": 1097.0,
+      "height": 309.0,
+      "sha256": "67ea81334760ab0528a9ba5effa724e56c03e85546923257f4e5598f5fc552f8",
+      "validVector": true
+    },
+    "examples/f05-1.svg": {
+      "width": 900.0,
+      "height": 560.0,
+      "sha256": "24d5326d61fa1b93d71b3bc9f5b00ed6ab0e7cea2f9a1e4ff516ccea5b8974ea",
+      "validVector": true
+    },
+    "examples/f06-1.svg": {
+      "width": 900.0,
+      "height": 560.0,
+      "sha256": "24d5326d61fa1b93d71b3bc9f5b00ed6ab0e7cea2f9a1e4ff516ccea5b8974ea",
+      "validVector": true
+    },
+    "examples/f07-1.svg": {
+      "width": 600.0,
+      "height": 170.0,
+      "sha256": "4a8753e267e862e2f773f5ea950c5d58ea96a878d182d6dc218377cb1b0b5ae0",
+      "validVector": true
+    },
+    "examples/f08-1.svg": {
+      "width": 226.0,
+      "height": 101.0,
+      "sha256": "38c9e6a901ddd4118a9c15e2cef040904d5da3cb37de2f63e82fa23821b22ed2",
+      "validVector": true
+    },
+    "examples/l01-1.svg": {
+      "width": 240.326,
+      "height": 106.689,
+      "sha256": "c66a7202f47653a335c13db2d13a4ed8f4b25f19af650ae4f9721b242491ed08",
+      "validVector": true
+    },
+    "examples/l02-1.svg": {
+      "width": 248.5,
+      "height": 76.441,
+      "sha256": "7b5e5601ef29149df27b229286e09c261c09079e43a12d4ba56ad2971999d75c",
+      "validVector": true
+    },
+    "examples/l03-1.svg": {
+      "width": 287.977,
+      "height": 86.256,
+      "sha256": "6c86583069f57e9257cc8140c8b28460b5fa14ac552d0735cca122e4d5d99473",
+      "validVector": true
+    },
+    "examples/l04-1.svg": {
+      "width": 257.288,
+      "height": 81.655,
+      "sha256": "dc643daf3b8f0de212488b855163d3a8d2e64e3df26d178b2c158cf57b15bfb1",
+      "validVector": true
+    },
+    "examples/l05-1.svg": {
+      "width": 315.681,
+      "height": 88.715,
+      "sha256": "c5f92836051f82274f87e0a208bbbc8d7fdd888923e69b649a07971f17e11ac7",
+      "validVector": true
+    },
+    "examples/l06-1.svg": {
+      "width": 221.5,
+      "height": 75.723,
+      "sha256": "be2911539f3ad2ef16ce7dd93f00a3d80afd288fe3a49574e4da2c98f559a115",
+      "validVector": true
+    },
+    "examples/l07-1.svg": {
+      "width": 208.079,
+      "height": 80.883,
+      "sha256": "8d1d16bd2f8b0ecd75fe6854b02abe1be23f3e3e31738d75ff17277b6a91a239",
+      "validVector": true
+    },
+    "examples/l08-1.svg": {
+      "width": 234.333,
+      "height": 80.907,
+      "sha256": "53b87f1aefd3f6a7b1248f676f982011da8eb3504e44a9ebbeb167676664435e",
+      "validVector": true
+    },
+    "examples/l09-1.svg": {
+      "width": 277.833,
+      "height": 97.638,
+      "sha256": "6671a7ca346dd9a29f02b52929b31dd3d84280bca043f609908814da6e7a56b3",
+      "validVector": true
+    },
+    "examples/l10-1.svg": {
+      "width": 199.0,
+      "height": 77.352,
+      "sha256": "4e61ab35b3d24111e31055aaa37f72d5feeaf6f5ad5a1dc955caaef5843c3ac7",
+      "validVector": true
+    },
+    "examples/l10-2.svg": {
+      "width": 227.262,
+      "height": 80.0,
+      "sha256": "c03957a5f8fee32d3c0e346e2ff553240e84d331964a45736ab8ec081565f6bf",
+      "validVector": true
+    },
+    "examples/m01-1-part1.svg": {
+      "width": 113.0,
+      "height": 99.0,
+      "sha256": "195611c66ad50ed1da41507f6eb75650c342d6c2b69148919afcfb130be4f1ef",
+      "validVector": true
+    },
+    "examples/m01-1-part2.svg": {
+      "width": 114.0,
+      "height": 101.0,
+      "sha256": "c5368ca52119f810e4492c1b48e4a64724b39a3c1b00303d8c413ab43eacd938",
+      "validVector": true
+    },
+    "examples/m01-1-part3.svg": {
+      "width": 125.0,
+      "height": 100.0,
+      "sha256": "bd1fab4ba2514d43ba29a3b82f8024d1106fd39212ca96b072872da0e5eb9d02",
+      "validVector": true
+    },
+    "examples/m01-1-part4.svg": {
+      "width": 213.0,
+      "height": 195.0,
+      "sha256": "f1d3d4b6de76f684071269648b83de1c430c5d454fa48eca487b942bafeb042a",
+      "validVector": true
+    },
+    "examples/m01-1-part5.svg": {
+      "width": 241.0,
+      "height": 209.0,
+      "sha256": "e4d2b5c121613aa5f183ebe9838fc2e22572978636f76ddb6b8f89e4595c1e2d",
+      "validVector": true
+    },
+    "examples/m01-1-part6.svg": {
+      "width": 235.0,
+      "height": 204.0,
+      "sha256": "cee59dc3a2bd6aea2d2351a103ac7b6556ef79fdb1a56d518377577d5e2f59ee",
+      "validVector": true
+    },
+    "examples/m01-1-part7.svg": {
+      "width": 271.0,
+      "height": 183.0,
+      "sha256": "466e736da0513823afc2829cb7fee26c37d64fe2c6e18ff35319613579db6e11",
+      "validVector": true
+    },
+    "examples/m01-1.svg": {
+      "width": 840.0,
+      "height": 1280.0,
+      "sha256": "f0236dc41caed50a91260a46041384e1df8d41a792a13718cc9995b92e3c301e",
+      "validVector": true
+    },
+    "examples/m02-1.svg": {
+      "width": 158.0,
+      "height": 148.0,
+      "sha256": "2ef2d9729d7631e3ffd5d8978ca94ca8702e39bb15e55c8446a5de1bb5b66c60",
+      "validVector": true
+    },
+    "examples/m03-1.svg": {
+      "width": 393.0,
+      "height": 248.0,
+      "sha256": "8f5e1aeb096d53ce6accb819a079c3d35334898ca09d752145b68bc3a3c9d443",
+      "validVector": true
+    },
+    "examples/m04-1.svg": {
+      "width": 402.0,
+      "height": 248.0,
+      "sha256": "fd74c1bd533804a1837c79c9e091824884dff7b5b5c90159116a9f4980d1b73e",
+      "validVector": true
+    },
+    "examples/m05-1.svg": {
+      "width": 213.0,
+      "height": 195.0,
+      "sha256": "145c42449d175d7a19d805ab6df9f71708de4bf1965a65a87160c7098696f332",
+      "validVector": true
+    },
+    "examples/m06-1-part1.svg": {
+      "width": 241.0,
+      "height": 209.0,
+      "sha256": "e4d2b5c121613aa5f183ebe9838fc2e22572978636f76ddb6b8f89e4595c1e2d",
+      "validVector": true
+    },
+    "examples/m06-1-part2.svg": {
+      "width": 235.0,
+      "height": 204.0,
+      "sha256": "cee59dc3a2bd6aea2d2351a103ac7b6556ef79fdb1a56d518377577d5e2f59ee",
+      "validVector": true
+    },
+    "examples/m06-1-part3.svg": {
+      "width": 208.0,
+      "height": 204.0,
+      "sha256": "8c35ee25bc592e1674ba034b449c9ed2d146bebb3aa7c9aa58310f507078a8b3",
+      "validVector": true
+    },
+    "examples/m06-1.svg": {
+      "width": 840.0,
+      "height": 640.0,
+      "sha256": "8c76dd945bac35ef95286e9e0ec3dcd9f0620cd09f324e36b2b2f8c6515a7566",
+      "validVector": true
+    },
+    "examples/m07-1.svg": {
+      "width": 271.0,
+      "height": 183.0,
+      "sha256": "f9e85ab938ea8d813ee7ce27ea8ef84587041f6a5ffd95517b81dcbd4c3d0b62",
+      "validVector": true
+    },
+    "examples/m08-1-part1.svg": {
+      "width": 113.0,
+      "height": 99.0,
+      "sha256": "195611c66ad50ed1da41507f6eb75650c342d6c2b69148919afcfb130be4f1ef",
+      "validVector": true
+    },
+    "examples/m08-1-part2.svg": {
+      "width": 114.0,
+      "height": 101.0,
+      "sha256": "c5368ca52119f810e4492c1b48e4a64724b39a3c1b00303d8c413ab43eacd938",
+      "validVector": true
+    },
+    "examples/m08-1-part3.svg": {
+      "width": 125.0,
+      "height": 100.0,
+      "sha256": "bd1fab4ba2514d43ba29a3b82f8024d1106fd39212ca96b072872da0e5eb9d02",
+      "validVector": true
+    },
+    "examples/m08-1-part4.svg": {
+      "width": 213.0,
+      "height": 195.0,
+      "sha256": "f1d3d4b6de76f684071269648b83de1c430c5d454fa48eca487b942bafeb042a",
+      "validVector": true
+    },
+    "examples/m08-1-part5.svg": {
+      "width": 241.0,
+      "height": 209.0,
+      "sha256": "e4d2b5c121613aa5f183ebe9838fc2e22572978636f76ddb6b8f89e4595c1e2d",
+      "validVector": true
+    },
+    "examples/m08-1-part6.svg": {
+      "width": 235.0,
+      "height": 204.0,
+      "sha256": "cee59dc3a2bd6aea2d2351a103ac7b6556ef79fdb1a56d518377577d5e2f59ee",
+      "validVector": true
+    },
+    "examples/m08-1-part7.svg": {
+      "width": 271.0,
+      "height": 183.0,
+      "sha256": "466e736da0513823afc2829cb7fee26c37d64fe2c6e18ff35319613579db6e11",
+      "validVector": true
+    },
+    "examples/m08-1.svg": {
+      "width": 840.0,
+      "height": 1280.0,
+      "sha256": "37c0f39dda70ee576a67045792e86cd694bc395202840ab9a2da71ee561b32f2",
+      "validVector": true
+    },
+    "examples/r01-1.svg": {
+      "width": 600.0,
+      "height": 520.0,
+      "sha256": "03c5a7d834181a3b302cbe04450402170a9c3cf7e96ab7bf45fd7d8e126e6de8",
+      "validVector": true
+    },
+    "examples/r02-1.svg": {
+      "width": 245.0,
+      "height": 182.0,
+      "sha256": "0f13f8e5ef55ba1ec0aa7f55553887a21678c396a8321f553dc1140f6dcccf94",
+      "validVector": true
+    },
+    "examples/r03-1.svg": {
+      "width": 3359.208,
+      "height": 554.366,
+      "sha256": "5496e79febedec9521f3945885b78cb94ee43e244f809af503c1058d4971e309",
+      "validVector": true
+    },
+    "examples/r04-1.svg": {
+      "width": 1048.5,
+      "height": 350.521,
+      "sha256": "6fa8a6eb966aef7692dd2aa3419b3bb52b9fcfc5b8abbceeecdc2e9362dfbd71",
+      "validVector": true
+    },
+    "examples/r05-1.svg": {
+      "width": 3746.227,
+      "height": 441.041,
+      "sha256": "9c2450e74c87a8056e64b0c4834a347107f9d27fca7bea5abb07b66e91f2d13c",
+      "validVector": true
+    },
+    "examples/r06-1.svg": {
+      "width": 4096.761,
+      "height": 2813.373,
+      "sha256": "5f794d2b40ef74f832cd8bb18b68078269b4f57fca9c21e3a4000f9f16152503",
+      "validVector": true
+    },
+    "examples/r07-1.svg": {
+      "width": 3733.83,
+      "height": 1824.135,
+      "sha256": "7aab2d129c734cb834e178d9319f27d3b48ceb1515dcfb3e058a135105784b1d",
+      "validVector": true
+    },
+    "examples/ref-greeting.svg": {
+      "width": 450.0,
+      "height": 185.0,
+      "sha256": "43334c3f23d2ec69d6d4447bb485820799507d8ef341a94626b43ae731758361",
+      "validVector": true
+    },
+    "examples/ref-heading.svg": {
+      "width": 583.0,
+      "height": 179.0,
+      "sha256": "397aeedf8e9352bfb461923255b463cf97ebb66c0df9249561e7de43f18ec31b",
+      "validVector": true
+    },
+    "examples/ref-place.svg": {
+      "width": 401.0,
+      "height": 175.0,
+      "sha256": "99271c185f168766fce546508469af09ead409c1587289112e152e8fb5f557e9",
+      "validVector": true
+    },
+    "examples/ref-signature.svg": {
+      "width": 419.0,
+      "height": 205.0,
+      "sha256": "6b9f9ffebd0d8945b991f04b5b39d4445ec64fa54d167e56889762082f63ea2b",
+      "validVector": true
+    },
+    "examples/s01-1.svg": {
+      "width": 1885.428,
+      "height": 476.549,
+      "sha256": "ac8b99d153fe052f071bade2c445ba0b3b2a43f60a2787c0c7a903f1da71579c",
+      "validVector": true
+    },
+    "examples/s02-1.svg": {
+      "width": 1688.219,
+      "height": 634.738,
+      "sha256": "172c05b2b763a5192129729bc1df2fdc7e0dac050fdcb7a372210e4ff5301a6f",
+      "validVector": true
+    },
+    "examples/s03-1.svg": {
+      "width": 1158.582,
+      "height": 603.179,
+      "sha256": "8294f21d68f633508b80d2e22e02b2432e8387a88700b1e45b907905073f3340",
+      "validVector": true
+    },
+    "examples/s04-1.svg": {
+      "width": 1158.582,
+      "height": 603.179,
+      "sha256": "f6ec2b336a5eb780c4b4a7a5cc6080f4131f30b65ba87f19ead623593291e181",
+      "validVector": true
+    },
+    "examples/s05-1.svg": {
+      "width": 1364.627,
+      "height": 467.153,
+      "sha256": "926e83fe0570e3cdbd105569559ff09a3da7fc8f8bec36f0047678b2453c7b44",
+      "validVector": true
+    },
+    "examples/s06-1.svg": {
+      "width": 1885.428,
+      "height": 476.549,
+      "sha256": "9041b1ab9904bf7d8eb0c9fdef983627cb2fe91560bf072c1e2c159f88390e88",
+      "validVector": true
+    },
+    "examples/w01-1.svg": {
+      "width": 467.93,
+      "height": 177.711,
+      "sha256": "a6440b69bf30c222c660e6d310015e1d5a712b2cb8b07c7f7a4dc68691224f65",
+      "validVector": true
+    },
+    "examples/w02-1.svg": {
+      "width": 3746.227,
+      "height": 441.041,
+      "sha256": "94ed7545e60104467eda71e00e8c8a3d7523f2bcdcf8e299ea9f354799d4c31a",
+      "validVector": true
+    },
+    "examples/w03-1.svg": {
+      "width": 703.574,
+      "height": 214.547,
+      "sha256": "70b222ca28eab88f3aecb32a07d9cb471c7649586f4a54fef62b242e6c172f7b",
+      "validVector": true
+    },
+    "examples/w04-1.svg": {
+      "width": 81.0,
+      "height": 96.0,
+      "sha256": "0065af7e8eec3eaf8e13b6891dd03b80283af8d1d044ba418b0c58f9e98858bb",
+      "validVector": true
+    },
+    "examples/w04-2.svg": {
+      "width": 138.0,
+      "height": 150.0,
+      "sha256": "c44be3a0cf8bec550f67da773f9514dcebf47c418bde911b71f310b733834ab3",
+      "validVector": true
+    },
+    "examples/w05-1.svg": {
+      "width": 99.0,
+      "height": 96.0,
+      "sha256": "55ce5a682e2d03414b287c5d884660afb0dcdcdcd652482f7d9cd23943fad872",
+      "validVector": true
+    },
+    "examples/w05-2.svg": {
+      "width": 90.0,
+      "height": 101.0,
+      "sha256": "7af56cbd8401a94e5b862017709c6caf7dbe6d65deee115d019b3f0a95932056",
+      "validVector": true
+    },
+    "examples/w06-1.svg": {
+      "width": 90.0,
+      "height": 94.0,
+      "sha256": "962d526514069740f6f64a9198c044ded5ae096a8f64956c366b4bb4795d5e73",
+      "validVector": true
+    },
+    "examples/w06-2.svg": {
+      "width": 106.0,
+      "height": 100.0,
+      "sha256": "0a3661772e4264fabcae9e984bf4cb00c3f2cd517876edb62a57b485c95879a5",
+      "validVector": true
+    },
+    "examples/w07-1.svg": {
+      "width": 94.0,
+      "height": 115.0,
+      "sha256": "d9227a2fb604601dd1a0afae80da4699cbab6e1e824e0b847bf7e48c3c219b44",
+      "validVector": true
+    },
+    "examples/w07-2.svg": {
+      "width": 113.0,
+      "height": 124.0,
+      "sha256": "e7234733de198690d2dd05ff0af1216d0962562c9588e27c7245d48af160cbd6",
+      "validVector": true
+    },
+    "examples/w08-1.svg": {
+      "width": 111.0,
+      "height": 100.0,
+      "sha256": "3c4431312db01a535c6965795226796966e0219465357baa290519bb22474f11",
+      "validVector": true
+    },
+    "examples/w08-2.svg": {
+      "width": 99.0,
+      "height": 119.0,
+      "sha256": "5eff0fa4aa2bfdc3f6176b2da426b08b753e8faca4d63cd5c9c413e3dc3d0e0e",
+      "validVector": true
+    },
+    "examples/x01-1.svg": {
+      "width": 572.0,
+      "height": 119.0,
+      "sha256": "1a804487e49b21335a56bc17cfdb7783d7ee4b3c92826dff79e11107112ace07",
+      "validVector": true
+    },
+    "examples/x02-1.svg": {
+      "width": 1240.0,
+      "height": 300.0,
+      "sha256": "b2632025ec27e8727ebb32d656f44eaef0e7de8771615eac4cba144d22467ded",
+      "validVector": true
+    },
+    "examples/x03-1.svg": {
+      "width": 1264.0,
+      "height": 834.0,
+      "sha256": "595348d5a1ed90d2f67b7715f6a13520c3f92d9a85f6cffac06fa9b353d5fd17",
+      "validVector": true
+    },
+    "examples/x03-2.svg": {
+      "width": 1264.0,
+      "height": 834.0,
+      "sha256": "d8fb41b5182c8bae331b73fe6dcbd823e2bb3bf6ae510b14f54a04e6f1625c39",
+      "validVector": true
+    },
+    "examples/x04-1.svg": {
+      "width": 1264.0,
+      "height": 834.0,
+      "sha256": "132a1122cbede6b46ef4f956e4dc59d39d82b401f626dc281516f4de5c98fcf7",
+      "validVector": true
+    },
+    "examples/x05-1.svg": {
+      "width": 821.538,
+      "height": 314.835,
+      "sha256": "60ca2f48652604e69b2b0392ed6bb533e8beb0e7283aa304d4d238ccbc31dd0a",
+      "validVector": true
+    },
+    "examples/x06-1.svg": {
+      "width": 4353.096,
+      "height": 2129.64,
+      "sha256": "14bb0053fdb134c5bdbcc6ed0521040a34292f82fcdaf9a0e8dc13bf11dcab77",
+      "validVector": true
+    },
+    "examples/x07-1.svg": {
+      "width": 1264.0,
+      "height": 834.0,
+      "sha256": "132a1122cbede6b46ef4f956e4dc59d39d82b401f626dc281516f4de5c98fcf7",
+      "validVector": true
+    }
+  },
+  "contentChecks": {
+    "lowercaseCount": 26,
+    "lowercaseComplete": true,
+    "capitalFamilies": 10,
+    "capitalsComplete": true,
+    "numeralsCount": 10,
+    "numeralsComplete": true,
+    "updatedModels": 71
+  },
+  "lessons": 80,
+  "visualReview": {
+    "proofs": [
+      "zaner-research/lowercase/contact.png",
+      "zaner-research/capitals/families-proof.png",
+      "zaner-research/words/proof-contact.png",
+      "specimen-style-proofs/numerals-audit.png"
+    ],
+    "result": "The reviewed models have clean white grounds, readable source-based letter shapes, and no visible crop-frame remnants. Connected-word and phrase transcriptions agree with the reviewed proofs. All 26 lowercase letters, 26 capitals in ten groups, and ten numerals are present.",
+    "limitations": [
+      "This review verifies the selected source-based models and their captions, not an exact identity between all source hands and the uploaded photograph.",
+      "The ten numeral models are identified as teaching adaptations because the photograph contains no numeral model."
+    ]
+  },
+  "captionFindings": [
+    {
+      "plateId": "measured-alphabet",
+      "severity": "fix",
+      "problem": "Description promises guides for extended letters and descenders; its second model f07-1 is now i/u and contains no extended-letter guide.",
+      "suggestedDescription": "Compare the 52° main slant measured from the baseline with the shallower connective slope. Then compare the common small-letter height and width in the i and u models.",
+      "resolved": true
+    },
+    {
+      "plateId": "shading",
+      "severity": "fix",
+      "problem": "Description says pointed-nib preparation is illustrated, but r01-1 now shows a controlled straight shade instead of the former nib-preparation diagram.",
+      "suggestedDescription": "Study a controlled straight shade, a swell that returns to a hairline, selective lowercase shade, and an oval capital joined to a word. Keep pressure off the turns and preserve clear spaces within each form.",
+      "resolved": true
+    },
+    {
+      "plateId": "flourish-composition",
+      "severity": "fix",
+      "problem": "Description implies a finished monogram model and complete ornamental pages. Current x05-1 shows two complete G capitals to study before monogram construction; x06-1 is a four-line verse and x07-1 a bird.",
+      "suggestedDescription": "Study a finished phrase, two complete capitals before monogram construction, a four-line verse, and a finished bird. Compare hierarchy, clear spaces, and restraint, then apply those criteria in a portfolio review.",
+      "resolved": true
+    }
+  ],
+  "result": "Vector, coverage and caption checks pass; all three collection description findings corrected."
+}

@@ -1,0 +1,11 @@
+{
+  "passed": false,
+  "pid": "2957",
+  "home_heading": false,
+  "home_button": false,
+  "resumed": true,
+  "stable_pid": true,
+  "elapsed_seconds": 48.69,
+  "android_sdk": "35",
+  "apk_sha256": "ad6f1d32321b3ee2279b5c1e010845b47ee98230fc72fa837ca7bc1401ef6d40"
+}

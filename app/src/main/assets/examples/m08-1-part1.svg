@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="113" height="99" viewBox="0 0 113 99" preserveAspectRatio="xMidYMid meet">
+<title>Straight line</title><rect width="113" height="99" fill="#fff" /><g transform="translate(0.000000,99.000000) scale(0.100000,-0.100000)" fill="#20362d" stroke="none">
+<path d="M830 698 c-25 -28 -52 -61 -61 -74 -8 -14 -22 -30 -30 -37 -8 -6 -33 -34 -54 -62 -22 -27 -77 -92 -123 -143 -87 -97 -94 -115 -46 -120 84 -9 358 -16 367 -10 34 21 -18 30 -177 30 -110 0 -166 3 -166 10 0 6 41 57 90 114 50 56 90 107 90 113 0 5 7 14 16 19 8 4 23 20 32 34 9 14 41 54 70 87 47 56 65 91 45 91 -5 0 -28 -23 -53 -52z" />
+<path d="M240 285 l0 -25 111 0 c143 0 150 22 10 32 -50 3 -98 9 -106 12 -11 4 -15 -2 -15 -19z" />
+</g>
+</svg>

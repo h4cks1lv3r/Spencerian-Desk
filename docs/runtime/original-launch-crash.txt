@@ -1,0 +1,25 @@
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: FATAL EXCEPTION: main
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: Process: com.royal.spencerianlab, PID: 1966
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: java.lang.RuntimeException: Unable to start activity ComponentInfo{com.royal.spencerianlab/com.royal.spencerianlab.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'android.view.WindowInsetsController com.android.internal.policy.DecorView.getWindowInsetsController()' on a null object reference
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:4048)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:4235)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:112)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.executeNonLifecycleItem(TransactionExecutor.java:174)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.executeTransactionItems(TransactionExecutor.java:109)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:81)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2636)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at android.os.Looper.loopOnce(Looper.java:232)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at android.os.Looper.loop(Looper.java:317)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at android.app.ActivityThread.main(ActivityThread.java:8705)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at java.lang.reflect.Method.invoke(Native Method)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:580)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:886)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'android.view.WindowInsetsController com.android.internal.policy.DecorView.getWindowInsetsController()' on a null object reference
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at com.android.internal.policy.PhoneWindow.getInsetsController(PhoneWindow.java:4092)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at com.royal.spencerianlab.MainActivity.onCreate(MainActivity.java:60)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at android.app.Activity.performCreate(Activity.java:9002)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at android.app.Activity.performCreate(Activity.java:8980)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1526)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:4030)
+09-14 01:30:13.523  1966  1966 E AndroidRuntime: 	... 13 more

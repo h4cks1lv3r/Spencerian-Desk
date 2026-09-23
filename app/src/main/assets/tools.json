@@ -1,0 +1,117 @@
+{
+  "updated": "2026-09-11",
+  "intro": "Start with a pencil and smooth paper. Learn relaxed movement and clear forms before adding pointed-pen shades. These are practical choices for each stage, not a requirement to buy every item. A ballpoint teaches monoline Spencerian; it cannot make a flexible nib's pressure shades.",
+  "categories": [
+    {
+      "title": "Beginner · light lines and clear forms",
+      "items": [
+        {
+          "name": "Pentel Sharp P205 · 0.5 mm HB",
+          "type": "Mechanical pencil",
+          "bestFor": "First strokes, 52° slant, small-letter form, and daily movement drills.",
+          "limits": "Graphite does not reproduce pointed-nib hairlines and shades. Any comfortable 0.5 mm HB pencil can serve this purpose.",
+          "howToUse": "Extend only a little lead. Hold lightly, keep the hand relaxed, and use one clean pass for each stroke. Study the shape instead of repeatedly tracing over mistakes.",
+          "url": "https://www.pentel.com/products/sharp-mechanical-drafting-pencil"
+        },
+        {
+          "name": "Uni Jetstream · 0.5 mm",
+          "type": "Fine ballpoint",
+          "bestFor": "Practical monoline writing, joins, rhythm, words, and a repeatable everyday signature.",
+          "limits": "A ballpoint cannot make traditional flexible-nib shades. The number describes the ball size, not a guaranteed line width on every paper.",
+          "howToUse": "Use the lightest pressure that gives a steady line. Work on smooth paper. If the ink skips, test the refill and paper before pressing harder.",
+          "url": "https://www.unibrands.co/collections/jetstream"
+        },
+        {
+          "name": "Uni Jetstream · 0.38 mm",
+          "type": "Extra-fine ballpoint",
+          "bestFor": "Inspecting small turns, spacing, and fine monoline writing after basic movement feels free.",
+          "limits": "An extra-fine tip can feel rough on textured paper and can tempt you to draw too slowly. It is optional, not an upgrade every learner needs.",
+          "howToUse": "Compare a short line against your 0.5 mm sample. Keep this tip only if the finer line helps you see errors without increasing grip pressure.",
+          "url": "https://www.unibrands.co/collections/jetstream"
+        }
+      ]
+    },
+    {
+      "title": "Pointed nibs · introduce controlled shade",
+      "items": [
+        {
+          "name": "Nikko G",
+          "type": "Pointed steel dip nib",
+          "bestFor": "The first transition from monoline practice to hairlines and selective pressure shades.",
+          "limits": "Relatively firm. A heavier hand is not a reason to force a wider shade. Nib feel varies with holder fit, paper, ink, and the individual nib.",
+          "howToUse": "Fit the nib securely and remove its protective residue as the supplier directs. Pull shades with both tines aligned; release pressure before turns and upward strokes. Rinse and dry after practice.",
+          "url": "https://www.johnnealbooks.com/product/nikko-g-nib-10-pack"
+        },
+        {
+          "name": "Zebra G",
+          "type": "Pointed steel dip nib",
+          "bestFor": "Finer hairlines and more responsive shades once Nikko G control is consistent.",
+          "limits": "The supplier describes a sharper point and greater flexibility than Nikko G. It can catch if an upstroke carries pressure.",
+          "howToUse": "Begin with unshaded ovals and short pull strokes. Add a small shade gradually, then return to a hairline before changing direction. Stop if the tines remain spread.",
+          "url": "https://www.johnnealbooks.com/product/zebra-g-nib"
+        },
+        {
+          "name": "Leonardt Principal EF",
+          "type": "Responsive pointed dip nib",
+          "bestFor": "Advanced capitals, fine hairlines, selective swells, and delicate ornamental work.",
+          "limits": "Very fine and flexible. The supplier recommends it for intermediate and advanced users. It does not correct poor movement or spacing.",
+          "howToUse": "Reduce pressure from your G-nib habit. Test several hairlines and small swells on scrap paper before writing. Keep crossings light and avoid wide shades near tight turns.",
+          "url": "https://www.paperinkarts.com/princi.html"
+        }
+      ]
+    },
+    {
+      "title": "Holder · align the nib comfortably",
+      "items": [
+        {
+          "name": "Speedball 2-in-1 Pen Holder",
+          "type": "Straight / oblique holder",
+          "bestFor": "Trying straight and oblique setups with a compatible pointed nib. The oblique flange can help align a right-handed pull stroke with the slant.",
+          "limits": "The manufacturer specifies a right-handed flange. Left-handed writers should use a comfortable straight setup or a correctly fitted left-handed holder. Check the exact nib fit before buying.",
+          "howToUse": "Set the paper so the nib slit follows your pull direction. Both tines should contact evenly. Keep the grip loose and the wrist comfortable; 52° is the letter slant on paper, not the holder's height above it.",
+          "url": "https://www.speedballart.com/2-in-1-pen-holder/"
+        }
+      ]
+    },
+    {
+      "title": "Paper and ink · make practice predictable",
+      "items": [
+        {
+          "name": "Rhodia blank pad",
+          "type": "Smooth practice paper",
+          "bestFor": "Pointed-pen practice and clean samples with minimal surface drag.",
+          "limits": "Blank sheets need guides. Smoothness alone does not guarantee every ink will behave well; test feathering, drying time, and bleed-through.",
+          "howToUse": "Use a visible 52° guide beneath the sheet, or rule light guides. Leave a dry scrap beneath your hand if needed. Make a few test hairlines and shades before a finished sample.",
+          "url": "https://rhodiapads.com/"
+        },
+        {
+          "name": "Paper & Ink Arts Spencerian Practice Pad",
+          "type": "Printed 52° guide paper",
+          "bestFor": "Immediate paper practice with a consistent baseline, x-height, ascender, descender, and main slant reference.",
+          "limits": "The product uses 6 mm / 3 mm / 6 mm spacing. This is one useful practice layout; ornamental capitals and flourishes can require more room.",
+          "howToUse": "Begin at the 3 mm body height. Compare stems to the 52° lines, and compare the spaces between letters as well as their outlines. Move to wider spacing for large flourishes.",
+          "url": "https://www.paperinkarts.com/spnpad.html"
+        },
+        {
+          "name": "Walnut-color dip ink",
+          "type": "Practice ink · liquid or crystals",
+          "bestFor": "Readable warm-brown practice samples with a pointed nib. The supplied research recommends walnut ink for the first dip-pen stage.",
+          "limits": "Brands use different formulas. Color does not prove natural-walnut content or archival permanence. Do not fill a fountain pen with dip ink unless the maker explicitly permits it.",
+          "howToUse": "Follow the label for mixing crystals or diluting liquid ink. Dip the nib without soaking the holder. Test a hairline and a small shade; clean the nib and dry it fully after use.",
+          "url": "https://www.paperinkarts.com/gall-walnut.html"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {"title": "Pentel · Sharp mechanical drafting pencil", "url": "https://www.pentel.com/products/sharp-mechanical-drafting-pencil"},
+    {"title": "Uni · Jetstream collection", "url": "https://www.unibrands.co/collections/jetstream"},
+    {"title": "John Neal Books · Nikko G", "url": "https://www.johnnealbooks.com/product/nikko-g-nib-10-pack"},
+    {"title": "John Neal Books · Zebra G", "url": "https://www.johnnealbooks.com/product/zebra-g-nib"},
+    {"title": "Paper & Ink Arts · Leonardt Principal EF", "url": "https://www.paperinkarts.com/princi.html"},
+    {"title": "Speedball · 2-in-1 holder and care", "url": "https://www.speedballart.com/2-in-1-pen-holder/"},
+    {"title": "Rhodia · official US distributor", "url": "https://rhodiapads.com/"},
+    {"title": "Paper & Ink Arts · Spencerian practice pad", "url": "https://www.paperinkarts.com/spnpad.html"},
+    {"title": "Paper & Ink Arts · walnut and iron gall inks", "url": "https://www.paperinkarts.com/gall-walnut.html"}
+  ]
+}

@@ -1,0 +1,281 @@
+[
+  {
+    "id": "posture",
+    "title": "A balanced writing position",
+    "description": "Study the seat, desk, supported forearm, and paper position. Use a relaxed setup that lets the hand travel across the line without raising the shoulder.",
+    "category": "posture",
+    "lessonIds": [
+      "f03"
+    ]
+  },
+  {
+    "id": "grip",
+    "title": "A light, supported pen hold",
+    "description": "Study finger contact, hand support, and right-handed paper alignment. Hold the pen with only enough pressure to guide it and keep the writing area in view.",
+    "category": "posture",
+    "lessonIds": [
+      "f04"
+    ]
+  },
+  {
+    "id": "principles",
+    "title": "The seven Spencerian principles",
+    "description": "Study the straight line, right curve, left curve, extended loop, direct oval, reversed oval, and capital stem. Use this map to identify the parts within complete letters.",
+    "category": "principles",
+    "lessonIds": [
+      "m01"
+    ]
+  },
+  {
+    "id": "lowercase-models",
+    "title": "The complete lowercase alphabet",
+    "description": "Study all 26 small letters in lesson order, from i and u through the extended letters and f. Compare each body, entry, exit, and distinguishing feature before writing a connected word.",
+    "category": "lowercase",
+    "lessonIds": [
+      "l01",
+      "l02",
+      "l03",
+      "l04",
+      "l05",
+      "l06",
+      "l07",
+      "l08",
+      "l09",
+      "l10",
+      "e01",
+      "e02",
+      "e03",
+      "e04",
+      "e05",
+      "e06",
+      "e07",
+      "e08"
+    ]
+  },
+  {
+    "id": "capital-models",
+    "title": "The complete capital alphabet",
+    "description": "Study all 26 capitals by construction family. Compare oval direction, stems, loops, lobes, and feet, then preserve the identifying body when connecting a capital to lowercase.",
+    "category": "capitals",
+    "lessonIds": [
+      "c01",
+      "c02",
+      "c03",
+      "c04",
+      "c05",
+      "c06",
+      "c07",
+      "c08",
+      "c09",
+      "c10"
+    ]
+  },
+  {
+    "id": "numeral-models",
+    "title": "Numerals 0 to 9",
+    "description": "Study the five numeral pairs: 0 and 1, 2 and 3, 4 and 5, 6 and 7, and 8 and 9. Compare clear turns, closures, crossings, and the source height conventions.",
+    "category": "numerals",
+    "lessonIds": [
+      "w04",
+      "w05",
+      "w06",
+      "w07",
+      "w08"
+    ]
+  },
+  {
+    "id": "measured-alphabet",
+    "title": "Slant and proportion guide",
+    "description": "Compare the 52° main slant measured from the baseline with the shallower connective slope. Then compare the common small-letter height and width in the i and u models.",
+    "category": "principles",
+    "lessonIds": [
+      "f06",
+      "f07"
+    ]
+  },
+  {
+    "id": "basic-movement",
+    "title": "Lines, turns, loops, and ovals",
+    "description": "Study straight stems, lower turns, upper turns, extended loops, oval directions, and the compound capital stem. Practice one movement family at a time before combining its parts.",
+    "category": "principles",
+    "lessonIds": [
+      "m02",
+      "m03",
+      "m04",
+      "m05",
+      "m06",
+      "m07"
+    ]
+  },
+  {
+    "id": "lowercase-families",
+    "title": "Small-letter families: turns, ovals, and loops",
+    "description": "Compare the related small letters across all 18 lowercase lessons. Look for shared turns and bodies, then examine the features that distinguish short letters, retraced stems, and upper or lower loops.",
+    "category": "lowercase",
+    "lessonIds": [
+      "l01",
+      "l02",
+      "l03",
+      "l04",
+      "l05",
+      "l06",
+      "l07",
+      "l08",
+      "l09",
+      "l10",
+      "e01",
+      "e02",
+      "e03",
+      "e04",
+      "e05",
+      "e06",
+      "e07",
+      "e08"
+    ]
+  },
+  {
+    "id": "capital-ovals",
+    "title": "Oval and top-loop capital families",
+    "description": "Compare direct-oval O, C, E, D; reverse-oval X, W, Q, Z; open forms V, U, Y; and top-loop I, J. Study each family separately and keep its direction changes clear.",
+    "category": "capitals",
+    "lessonIds": [
+      "c01",
+      "c02",
+      "c03",
+      "c04"
+    ]
+  },
+  {
+    "id": "capital-stems",
+    "title": "Capital stems and combinations",
+    "description": "Study A, N, M; T, F; S, L; G; P, B, R; and H, K. Compare how each stem combines with a cap, return, lobe, arm, or foot to form a readable capital.",
+    "category": "capitals",
+    "lessonIds": [
+      "c05",
+      "c06",
+      "c07",
+      "c08",
+      "c09",
+      "c10"
+    ]
+  },
+  {
+    "id": "shading",
+    "title": "Controlled shade: hairlines, swells, and release",
+    "description": "Study a controlled straight shade, a swell that returns to a hairline, selective lowercase shade, and an oval capital joined to a word. Keep pressure off the turns and preserve clear spaces within each form.",
+    "category": "principles",
+    "lessonIds": [
+      "r01",
+      "r02",
+      "r03",
+      "r04"
+    ]
+  },
+  {
+    "id": "capitals-a-d",
+    "title": "Capital stems and bowls",
+    "description": "Compare the stem structures of A, N, M with the lobes of P, B, R. Keep the main stroke, enclosed spaces, and finishing direction clear before adding ornament.",
+    "category": "capitals",
+    "lessonIds": [
+      "c05",
+      "c09"
+    ]
+  },
+  {
+    "id": "capitals-e-i",
+    "title": "Direct ovals and top loops",
+    "description": "Study O, C, E, D beside I and J. Compare the direct-oval bodies with the shared top loop of I and J, then check the lower reach that distinguishes those two letters.",
+    "category": "capitals",
+    "lessonIds": [
+      "c01",
+      "c04"
+    ]
+  },
+  {
+    "id": "capitals-j-o",
+    "title": "Stem structure, curved feet, and cross strokes",
+    "description": "Study A, N, M; S, L; and H, K. Compare repeated stems, controlled lower curves, and the connecting parts that keep each capital distinct.",
+    "category": "capitals",
+    "lessonIds": [
+      "c05",
+      "c07",
+      "c10"
+    ]
+  },
+  {
+    "id": "capitals-p-r",
+    "title": "P, B, and R: stems and lobes",
+    "description": "Compare the shared beginning of P, B, and R, then study each lobe and exit. Keep the counters open and the R finish distinct.",
+    "category": "capitals",
+    "lessonIds": [
+      "c09"
+    ]
+  },
+  {
+    "id": "capitals-s-v",
+    "title": "Open ovals, capped stems, and curved feet",
+    "description": "Compare V, U, Y with T, F and S, L. Study the open inner spaces, cap placement, and lower curves as separate features rather than interchangeable ornaments.",
+    "category": "capitals",
+    "lessonIds": [
+      "c03",
+      "c06",
+      "c07"
+    ]
+  },
+  {
+    "id": "capitals-w-z",
+    "title": "X, W, Q, and Z: reverse-oval forms",
+    "description": "Study the shared reverse-oval start of X, W, Q, and Z. Compare each completion and exit so the four capitals remain easy to identify.",
+    "category": "capitals",
+    "lessonIds": [
+      "c02"
+    ]
+  },
+  {
+    "id": "flourish-foundations",
+    "title": "Flourish purpose and progressive loops",
+    "description": "Study the role of an entry, exit, or underline flourish, then practice large ovals and loops that increase or decrease in size. Keep the word complete and readable when the ornament is covered.",
+    "category": "flourishes",
+    "lessonIds": [
+      "a01",
+      "a02"
+    ]
+  },
+  {
+    "id": "flourish-progressions",
+    "title": "From letter extensions to compound flourishes",
+    "description": "Study entries, exits, ascender and descender extensions, clean crossings, and balanced empty space. Continue into compound curves, spirals, and tapered S-curve endings.",
+    "category": "flourishes",
+    "lessonIds": [
+      "a03",
+      "a04",
+      "a05",
+      "a06",
+      "a07",
+      "x01",
+      "x02"
+    ]
+  },
+  {
+    "id": "flourish-construction",
+    "title": "Layered ornament and the offhand bird",
+    "description": "Plan the major curves before supporting curves and details. Compare layered ornament with the structural curves of an offhand bird, then rehearse a repeatable stroke sequence.",
+    "category": "flourishes",
+    "lessonIds": [
+      "x03",
+      "x04"
+    ]
+  },
+  {
+    "id": "flourish-composition",
+    "title": "Finished phrases, monograms, and ornamental pages",
+    "description": "Study a finished phrase, two complete capitals before monogram construction, a four-line verse, and a finished bird. Compare hierarchy, clear spaces, and restraint, then apply those criteria in a portfolio review.",
+    "category": "flourishes",
+    "lessonIds": [
+      "a08",
+      "x05",
+      "x06",
+      "x07"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="320" viewBox="0 0 840 320"><title>Test the point and paper</title><rect width="100%" height="100%" fill="#fff" /><g transform="translate(0,0)"><svg version="1.0" width="388" height="254" viewBox="0 0 113 99" preserveAspectRatio="xMidYMid meet" x="16" y="50">
+<title>Straight line</title><rect width="113" height="99" fill="#fff" /><g transform="translate(0.000000,99.000000) scale(0.100000,-0.100000)" fill="#20362d" stroke="none">
+<path d="M830 698 c-25 -28 -52 -61 -61 -74 -8 -14 -22 -30 -30 -37 -8 -6 -33 -34 -54 -62 -22 -27 -77 -92 -123 -143 -87 -97 -94 -115 -46 -120 84 -9 358 -16 367 -10 34 21 -18 30 -177 30 -110 0 -166 3 -166 10 0 6 41 57 90 114 50 56 90 107 90 113 0 5 7 14 16 19 8 4 23 20 32 34 9 14 41 54 70 87 47 56 65 91 45 91 -5 0 -28 -23 -53 -52z" />
+<path d="M240 285 l0 -25 111 0 c143 0 150 22 10 32 -50 3 -98 9 -106 12 -11 4 -15 -2 -15 -19z" />
+</g>
+</svg><text x="210.0" y="35" text-anchor="middle" font-family="sans-serif" font-size="23" fill="#20362d">Straight line</text></g><g transform="translate(420,0)"><svg version="1.0" width="388" height="254" viewBox="0 0 375 92" preserveAspectRatio="xMidYMid meet" x="16" y="50">
+<title>Continuous curve</title><rect width="375" height="92" fill="#fff" /><g transform="translate(0.000000,92.000000) scale(0.100000,-0.100000)" fill="#20362d" stroke="none">
+<path d="M933 670 c-91 -8 -131 -17 -288 -66 -151 -47 -308 -117 -333 -147 -7 -8 -26 -20 -42 -27 -18 -8 -30 -20 -30 -31 0 -35 32 -24 127 44 29 20 56 37 62 37 5 0 40 14 78 31 341 155 751 171 1118 45 68 -23 114 -43 295 -128 141 -66 194 -87 311 -122 377 -113 865 -73 1184 98 17 9 35 16 41 16 6 0 21 11 34 25 l23 25 -23 0 c-12 0 -39 -10 -59 -22 -301 -187 -917 -231 -1246 -89 -11 5 -36 14 -55 21 -19 7 -44 16 -55 20 -11 4 -42 16 -70 26 -27 10 -93 38 -145 64 -52 26 -111 52 -130 59 -19 7 -44 17 -55 22 -206 89 -453 122 -742 99z" />
+</g>
+</svg><text x="210.0" y="35" text-anchor="middle" font-family="sans-serif" font-size="23" fill="#20362d">Continuous curve</text></g></svg>

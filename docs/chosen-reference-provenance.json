@@ -1,0 +1,258 @@
+{
+  "sourceFile": "Screenshot_20260816_230008_Firefox.jpg",
+  "sourceSha256": "211b65c82c82f7566fb63016236435375f33634b648faefb30106e9348b1f2cb",
+  "sourceDimensions": [
+    976,
+    1320
+  ],
+  "examples": [
+    {
+      "id": "ref-heading",
+      "title": "P and H: open oval capitals",
+      "transcription": "P · H",
+      "sourcePhrase": "Penmanship Headquarters",
+      "focus": "Compare the fine oval returns with the selective, tapered shades in the P and H. These capitals are isolated from the photograph’s heading.",
+      "sourceFile": "Screenshot_20260816_230008_Firefox.jpg",
+      "source": "User-supplied Zanerian letter photograph",
+      "file": "ref-heading.svg",
+      "cropPixels": [
+        268,
+        22,
+        823,
+        173
+      ],
+      "excludePolygons": [
+        [
+          [
+            390,
+            149
+          ],
+          [
+            399,
+            149
+          ],
+          [
+            399,
+            161
+          ],
+          [
+            390,
+            161
+          ]
+        ],
+        [
+          [
+            383,
+            161
+          ],
+          [
+            573,
+            161
+          ],
+          [
+            573,
+            173
+          ],
+          [
+            383,
+            173
+          ]
+        ],
+        [
+          [
+            725,
+            161
+          ],
+          [
+            823,
+            161
+          ],
+          [
+            823,
+            173
+          ],
+          [
+            725,
+            173
+          ]
+        ]
+      ],
+      "sourceDimensions": [
+        976,
+        1320
+      ],
+      "width": 583,
+      "height": 179,
+      "method": "Source-pixel capital centerlines with fitted smooth curves and original pressure contours. Lowercase words omitted; no generic font or AI letter generation.",
+      "selectedPathIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        10
+      ],
+      "sha256": "397aeedf8e9352bfb461923255b463cf97ebb66c0df9249561e7de43f18ec31b"
+    },
+    {
+      "id": "ref-greeting",
+      "title": "P and S: balanced capital flourishes",
+      "transcription": "P · S",
+      "sourcePhrase": "Prospective Student:—",
+      "focus": "Trace the large oval envelopes with a light movement. The shaded capital strokes stay inside open, unshaded return curves.",
+      "sourceFile": "Screenshot_20260816_230008_Firefox.jpg",
+      "source": "User-supplied Zanerian letter photograph",
+      "file": "ref-greeting.svg",
+      "cropPixels": [
+        116,
+        246,
+        538,
+        403
+      ],
+      "excludePolygons": [
+        [
+          [
+            525,
+            381
+          ],
+          [
+            538,
+            381
+          ],
+          [
+            538,
+            403
+          ],
+          [
+            525,
+            403
+          ]
+        ]
+      ],
+      "sourceDimensions": [
+        976,
+        1320
+      ],
+      "width": 450,
+      "height": 185,
+      "method": "Source-pixel capital centerlines with fitted smooth curves and original pressure contours. Lowercase words omitted; no generic font or AI letter generation.",
+      "selectedPathIndices": [
+        0,
+        1,
+        2,
+        5
+      ],
+      "sha256": "43334c3f23d2ec69d6d4447bb485820799507d8ef341a94626b43ae731758361"
+    },
+    {
+      "id": "ref-place",
+      "title": "C and O: controlled oval movement",
+      "transcription": "C · O",
+      "sourcePhrase": "Columbus, Ohio.",
+      "focus": "Follow the continuous oval movement through the C and O, keeping the shaded segment selective and the return stroke fine.",
+      "sourceFile": "Screenshot_20260816_230008_Firefox.jpg",
+      "source": "User-supplied Zanerian letter photograph",
+      "file": "ref-place.svg",
+      "cropPixels": [
+        554,
+        163,
+        927,
+        310
+      ],
+      "excludePolygons": [
+        [
+          [
+            554,
+            163
+          ],
+          [
+            718,
+            163
+          ],
+          [
+            718,
+            173
+          ],
+          [
+            554,
+            173
+          ]
+        ]
+      ],
+      "sourceDimensions": [
+        976,
+        1320
+      ],
+      "width": 401,
+      "height": 175,
+      "method": "Source-pixel capital centerlines with fitted smooth curves and original pressure contours. Lowercase words omitted; no generic font or AI letter generation.",
+      "selectedPathIndices": [
+        0,
+        1,
+        2
+      ],
+      "sha256": "99271c185f168766fce546508469af09ead409c1587289112e152e8fb5f557e9"
+    },
+    {
+      "id": "ref-signature",
+      "title": "Z and B: signature capitals and finish",
+      "transcription": "Z · B",
+      "sourcePhrase": "Zaner and Bloser.",
+      "focus": "Study the balance between the ornamental Z and B and the broad terminal flourish. Use the curve relationships when composing your own initials.",
+      "sourceFile": "Screenshot_20260816_230008_Firefox.jpg",
+      "source": "User-supplied Zanerian letter photograph",
+      "file": "ref-signature.svg",
+      "cropPixels": [
+        558,
+        1053,
+        949,
+        1230
+      ],
+      "excludePolygons": [
+        [
+          [
+            558,
+            1053
+          ],
+          [
+            618,
+            1053
+          ],
+          [
+            611,
+            1068
+          ],
+          [
+            558,
+            1068
+          ]
+        ]
+      ],
+      "sourceDimensions": [
+        976,
+        1320
+      ],
+      "width": 419,
+      "height": 205,
+      "method": "Source-pixel capital centerlines with fitted smooth curves and original pressure contours. Lowercase words omitted; no generic font or AI letter generation.",
+      "selectedPathIndices": [
+        3,
+        5,
+        12,
+        17,
+        18
+      ],
+      "sha256": "6b9f9ffebd0d8945b991f04b5b39d4445ec64fa54d167e56889762082f63ea2b"
+    }
+  ],
+  "qualityBoundary": "These are isolated capital and flourish studies. No full lowercase words or names are displayed; the source phrases identify their location in the reference photo only.",
+  "reconstructionNotes": [
+    "Paper colour, texture, stains, compression grain, browser interface, and unrelated words are omitted.",
+    "Capital centerlines follow source ink and are fitted to smooth curves at a standardized 0.72 native-pixel hairline.",
+    "Broad pressure strokes use selected original ink components; lowercase pressure fragments are excluded.",
+    "The H upper return is locally fitted through source anchors where a lowercase ascender crosses it.",
+    "The terminal flourish is separated from its lowercase joining stroke and tapered at the separation for a clean study.",
+    "These are source-based study redraws, not facsimiles and not independent evidence of an exact measured slant."
+  ]
+}

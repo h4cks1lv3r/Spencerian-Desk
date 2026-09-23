@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1264" height="834" viewBox="-32 -32 1264 834">
+<title>A bird ornament after the New Spencerian Compendium, Plate 51</title>
+<desc>Source-guided Bezier teaching redraw of the central bird on supplied physical page 129. Original scan crop [0.269,0.144,0.561,0.765], turned 90 degrees counterclockwise. Smooth curves preserve the main figure routes and intentional open terminals. This is a redrawn study diagram, not a scan facsimile.</desc>
+<rect x="-32" y="-32" width="1264" height="834" fill="#fff"/>
+<g id="framework" fill="none" stroke="#20362d" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 1130,211 C 1033,323 885,319 693,226 C 549,158 422,169 304,235 C 198,294 155,373 178,466 C 199,565 284,620 388,614 C 446,612 502,590 546,560"/>
+<path d="M 565,64 C 440,-7 293,29 252,146 C 208,272 312,338 455,336 C 528,335 594,312 650,270"/>
+<path d="M 708,230 C 852,139 1019,185 1120,296 C 1220,406 1202,548 1092,617 C 988,682 828,671 736,589"/>
+<path d="M 17,520 C 54,466 143,425 250,417 C 337,410 387,437 474,409 C 558,382 651,291 737,320 C 753,324 767,329 781,335"/>
+<path d="M 17,520 C -9,567 51,582 151,557 C 267,528 379,457 493,471"/>
+<path d="M 197,644 C 322,549 455,515 633,496 C 748,484 799,452 821,408"/>
+<path d="M 409,758 C 524,618 598,597 708,550 C 766,525 803,497 822,474"/>
+<path d="M 409,758 C 492,656 593,585 643,500"/>
+<path d="M 430,382 C 562,393 610,283 707,285 C 805,286 834,337 879,398 C 918,438 936,464 980,483"/>
+<path d="M 781,460 C 832,450 881,515 927,518 C 936,518 942,514 944,508"/>
+<path d="M 910,429 C 942,462 943,510 980,531 C 961,535 947,527 944,508"/>
+</g>
+<g id="head" fill="none" stroke="#20362d" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 886,442 C 902,448 915,461 920,479 C 909,465 898,456 886,449"/>
+<path d="M 896,448 C 910,450 918,461 916,474 C 909,472 903,465 902,458"/>
+<path d="M 907,456 C 912,457 915,462 915,468 C 909,467 907,463 907,456 Z" fill="#20362d"/>
+<path d="M 949,475 C 958,485 968,493 980,496"/>
+<path d="M 918,475 C 909,470 902,463 897,454"/>
+</g></svg>

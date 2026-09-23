@@ -1,0 +1,15 @@
+{
+  "apk": "Spencerian-Lab-v1.1.2.apk",
+  "bytes": 16383002,
+  "sha256": "808149c226b02756391ae538c9fae9212d5d21c980d26c3fa1e24ea15e3fd768",
+  "source_asset_count": 34,
+  "source_asset_bytes_all_match": true,
+  "native_dex_unchanged": true,
+  "changed_entries": [
+    "AndroidManifest.xml",
+    "assets/app.js",
+    "assets/style.css"
+  ],
+  "version": "1.1.2",
+  "version_code": 4
+}

@@ -1,0 +1,426 @@
+[
+  {
+    "lessonId": "r03",
+    "svg": "r03-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 78,
+    "printedPage": "Plate 7",
+    "crop": [
+      0.49,
+      0.348,
+      0.834,
+      0.427
+    ],
+    "excludeRects": [],
+    "width": 595.0,
+    "height": 116.0,
+    "sha256": "fcd32e78fb508fac84b78519eaaba5062cc99c8c25fee9b23e6bf36ffaee4620",
+    "sourceSha256": "0bdef335b9a0e617351551b023a8554be3fb9170b5db77bf07617a55bf070ef1",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "r04",
+    "svg": "r04-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 96,
+    "printedPage": "Plate 25",
+    "crop": [
+      0.693,
+      0.716,
+      0.902,
+      0.864
+    ],
+    "excludeRects": [],
+    "width": 363.0,
+    "height": 204.0,
+    "sha256": "198a2c62ba726a558b90482cad31aa07c10b65776632d346f21d4854fd886e69",
+    "sourceSha256": "7c2b0d0bf35b5754c080fd9078edba206730c919627a2662f41592d5aa35f794",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "r05",
+    "svg": "r05-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 83,
+    "printedPage": "Plate 12",
+    "crop": [
+      0.18,
+      0.372,
+      0.769,
+      0.558
+    ],
+    "excludeRects": [],
+    "width": 1015.0,
+    "height": 252.0,
+    "sha256": "9953f26af0aa1d3bb30cbd679992dc5e0365844e622466dcb2cf649e0fa989ab",
+    "sourceSha256": "8a43fd4c1d786b509f26e2174fd81bde61daaa92758d86a5bda10c2465723f50",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "r06",
+    "svg": "r06-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 79,
+    "printedPage": "Plate 8",
+    "crop": [
+      0.096,
+      0.119,
+      0.778,
+      0.545
+    ],
+    "excludeRects": [],
+    "width": 1146.0,
+    "height": 541.0,
+    "sha256": "8cd67e94837144aba64df45fbfea2caaea5ecc7534c18e5dbbfe760a44909d4d",
+    "sourceSha256": "a071d8376756ac2795809aa9eed036be197d244649ae8234080d43e5f2b58da6",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "r07",
+    "svg": "r07-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 76,
+    "printedPage": "Plate 5",
+    "crop": [
+      0.209,
+      0.298,
+      0.791,
+      0.367
+    ],
+    "excludeRects": [],
+    "width": 995.0,
+    "height": 103.0,
+    "sha256": "5852c927f19f0c8a88bc40ee477104f9ef386a4dd8e8348725bd2f6bfd75cc76",
+    "sourceSha256": "0b6decd333ef21ceaa11ddb3efffcab1e80ec65f1fdcf110f7fdd9da9d79230f",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "a01",
+    "svg": "a01-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 96,
+    "printedPage": "Plate 25",
+    "crop": [
+      0.685,
+      0.559,
+      0.926,
+      0.709
+    ],
+    "excludeRects": [],
+    "width": 416.0,
+    "height": 208.0,
+    "sha256": "60468f2e007e55107ce8d761092bb237c1256671845e1b1ae754a5e02e944e54",
+    "sourceSha256": "7c2b0d0bf35b5754c080fd9078edba206730c919627a2662f41592d5aa35f794",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "a03",
+    "svg": "a03-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 96,
+    "printedPage": "Plate 25",
+    "crop": [
+      0.177,
+      0.246,
+      0.426,
+      0.382
+    ],
+    "excludeRects": [],
+    "width": 429.0,
+    "height": 189.0,
+    "sha256": "ea231e96f01ccb405770431e6e92b6dcffb50a63d15b958745410b6d5a54caf0",
+    "sourceSha256": "7c2b0d0bf35b5754c080fd9078edba206730c919627a2662f41592d5aa35f794",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "a04",
+    "svg": "a04-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 96,
+    "printedPage": "Plate 25",
+    "crop": [
+      0.685,
+      0.559,
+      0.926,
+      0.709
+    ],
+    "excludeRects": [],
+    "width": 416.0,
+    "height": 208.0,
+    "sha256": "60d03d91cd4d76bbf3ace101ec14160442557f0a639901dcb8b54df0f01802c5",
+    "sourceSha256": "7c2b0d0bf35b5754c080fd9078edba206730c919627a2662f41592d5aa35f794",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "a05",
+    "svg": "a05-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 97,
+    "printedPage": "Plate 26",
+    "crop": [
+      0.11,
+      0.236,
+      0.365,
+      0.399
+    ],
+    "excludeRects": [],
+    "width": 438.0,
+    "height": 223.0,
+    "sha256": "8258d016cff10df1a1ad6e25ea5742e7b77988704df487a11fc4046bd27ff641",
+    "sourceSha256": "8c2789572bdc82d7ef5a25ab668db8727a1274976a0a9ce12239987cf8e5f7c6",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "a07",
+    "svg": "a07-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 98,
+    "printedPage": "Plate 27",
+    "crop": [
+      0.432,
+      0.744,
+      0.683,
+      0.857
+    ],
+    "excludeRects": [],
+    "width": 426.0,
+    "height": 159.0,
+    "sha256": "e19cf907d010c5b9104bff20961b3d28fbd8cedd700c8e89b836392634e1ebfc",
+    "sourceSha256": "006984aa3d37ae6f3867015f4a8dbb36d63a385f122d101d88d699a15df80c1d",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "x01",
+    "svg": "x01-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 126,
+    "printedPage": "Plate 48",
+    "crop": [
+      0.066,
+      0.8,
+      0.398,
+      0.881
+    ],
+    "excludeRects": [
+      [
+        0.1435,
+        0.865,
+        0.1495,
+        0.87
+      ]
+    ],
+    "width": 572.0,
+    "height": 119.0,
+    "sha256": "1a804487e49b21335a56bc17cfdb7783d7ee4b3c92826dff79e11107112ace07",
+    "sourceSha256": "7a70d613963e98940b37373f12d780e15ee7b19b9089720c1730be7acc20f59f",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "x05",
+    "svg": "x05-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 107,
+    "printedPage": "Plate 36",
+    "crop": [
+      0.088,
+      0.173,
+      0.232,
+      0.316
+    ],
+    "excludeRects": [],
+    "width": 268.0,
+    "height": 198.0,
+    "sha256": "517c071886f32b5c790ec1bd9d4e2d3511720c9b3f8f2dd86b29c25bac8c1203",
+    "sourceSha256": "f56ff3144eac5dfeafd86e61a66b956ecfb9af98bf99288dbe5e65b3989d5c74",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "s01",
+    "svg": "s01-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 98,
+    "printedPage": "Plate 27",
+    "crop": [
+      0.406,
+      0.397,
+      0.703,
+      0.555
+    ],
+    "excludeRects": [
+      [
+        0.48,
+        0.397,
+        0.495,
+        0.417
+      ],
+      [
+        0.517,
+        0.397,
+        0.522,
+        0.407
+      ]
+    ],
+    "width": 502.0,
+    "height": 216.0,
+    "sha256": "40945efe8f15842706300ad39385f9602f54546ef39e465dc89071da20d18fb4",
+    "sourceSha256": "006984aa3d37ae6f3867015f4a8dbb36d63a385f122d101d88d699a15df80c1d",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "s02",
+    "svg": "s02-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 98,
+    "printedPage": "Plate 27",
+    "crop": [
+      0.406,
+      0.397,
+      0.703,
+      0.555
+    ],
+    "excludeRects": [
+      [
+        0.48,
+        0.397,
+        0.495,
+        0.417
+      ],
+      [
+        0.517,
+        0.397,
+        0.522,
+        0.407
+      ]
+    ],
+    "width": 502.0,
+    "height": 216.0,
+    "sha256": "a44f49c5ea49d6c98e1abb48d6cb04362bc0a01cdcead93bf1340fdce72fb39f",
+    "sourceSha256": "006984aa3d37ae6f3867015f4a8dbb36d63a385f122d101d88d699a15df80c1d",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "s03",
+    "svg": "s03-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 98,
+    "printedPage": "Plate 27",
+    "crop": [
+      0.432,
+      0.744,
+      0.683,
+      0.857
+    ],
+    "excludeRects": [],
+    "width": 426.0,
+    "height": 159.0,
+    "sha256": "c4944372889de54182a8e304c22aaa6908be9d9b2934c3550f6d2967351bf93b",
+    "sourceSha256": "006984aa3d37ae6f3867015f4a8dbb36d63a385f122d101d88d699a15df80c1d",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "s04",
+    "svg": "s04-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 98,
+    "printedPage": "Plate 27",
+    "crop": [
+      0.406,
+      0.397,
+      0.703,
+      0.555
+    ],
+    "excludeRects": [
+      [
+        0.48,
+        0.397,
+        0.495,
+        0.417
+      ],
+      [
+        0.517,
+        0.397,
+        0.522,
+        0.407
+      ]
+    ],
+    "width": 502.0,
+    "height": 216.0,
+    "sha256": "f8b367c0824b2c4b35808d9ede929790124fcf25ffcf80719fcfc17d2287e08b",
+    "sourceSha256": "006984aa3d37ae6f3867015f4a8dbb36d63a385f122d101d88d699a15df80c1d",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "s05",
+    "svg": "s05-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 80,
+    "printedPage": "Plate 9",
+    "crop": [
+      0.652,
+      0.222,
+      0.91,
+      0.291
+    ],
+    "excludeRects": [],
+    "width": 436.0,
+    "height": 104.0,
+    "sha256": "5eddaa3bc1ad810da5aa0c7d204337d12e79fc6ea25f0e894bc9f21c849ca46e",
+    "sourceSha256": "7ebc2f8e7bfaef3e77a3faf984b9409514204a0a0a86debcc79a3ebaf9513fbc",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  },
+  {
+    "lessonId": "s06",
+    "svg": "s06-centerline.svg",
+    "sourceFile": "New Spencerian Compendium_text.pdf",
+    "physicalPage": 98,
+    "printedPage": "Plate 27",
+    "crop": [
+      0.432,
+      0.744,
+      0.683,
+      0.857
+    ],
+    "excludeRects": [],
+    "width": 426.0,
+    "height": 159.0,
+    "sha256": "c35dd095b4ade6448d4e9aa5683531d08073e3ca47271a35d69b54607a78f051",
+    "sourceSha256": "006984aa3d37ae6f3867015f4a8dbb36d63a385f122d101d88d699a15df80c1d",
+    "method": "Source-pixel centerline graph, tangent pairing, cubic spline smoothing; standardized 0.7-native-pixel hairline and original shaded contours. Source-supported small gap joins. Not a font substitution.",
+    "reproduction": "Source-based vector reconstruction with smoothed centerlines and regularized hairlines; original shapes, shade placement, and layout retained.",
+    "reviewNotes": "Inspect miniature counters and intentional stroke breaks against the source; the JPEG does not contain vector-perfect historical originals."
+  }
+]

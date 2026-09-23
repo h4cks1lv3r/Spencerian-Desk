@@ -1,0 +1,7 @@
+--------- beginning of main
+09-14 01:49:52.020  6500  6500 I WebViewProbe: Native activity ready; loading tiny static HTML.
+09-14 01:50:29.069  6677  6677 E chromium: [0914/015029.069207:ERROR:ptrace_client.cc(364)] Broker Open: access denied
+09-14 01:50:32.606  6677  6677 E chromium: [0914/015032.606091:ERROR:socket.cc(182)] incorrect payload size 0
+09-14 01:50:44.364  6500  6500 E chromium: [ERROR:aw_browser_terminator.cc(154)] Renderer process (6594) crash detected (code 5).
+09-14 01:50:44.532  6500  6500 E WebViewProbe: onRenderProcessGone: didCrash=true; priority=2
+09-14 01:50:50.109  6500  6588 E chromium: [ERROR:directory_reader_posix.cc(43)] opendir /data/user/0/com.royal.spencerianprobe/cache/WebView/Crashpad/attachments/be0214d8-fab1-4408-8934-6b547ba70a0e: No such file or directory (2)
